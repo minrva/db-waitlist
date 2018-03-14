@@ -1,0 +1,3282 @@
+[
+    {
+        "name": "No Instructor",
+        "value": ""
+    },
+    {
+        "name": "ACES Library Permanent Reserves,",
+        "value": "8108"
+    },
+    {
+        "name": "Abbaszadeh, Shiva",
+        "value": "8651"
+    },
+    {
+        "name": "Abendschein, Bryan",
+        "value": "7972"
+    },
+    {
+        "name": "Abrams, Daniel",
+        "value": "7527"
+    },
+    {
+        "name": "Adams, Gretchen",
+        "value": "6697"
+    },
+    {
+        "name": "Ahn, Regina",
+        "value": "8450"
+    },
+    {
+        "name": "Al-Hassanieh, Haitham",
+        "value": "8378"
+    },
+    {
+        "name": "Albarracin, Dolores",
+        "value": "8019"
+    },
+    {
+        "name": "Allain, Jean Paul",
+        "value": "7283"
+    },
+    {
+        "name": "Allen, Jont",
+        "value": "7728"
+    },
+    {
+        "name": "Allen, Leslie",
+        "value": "2393"
+    },
+    {
+        "name": "Allen, Robert (Pat)",
+        "value": "6556"
+    },
+    {
+        "name": "Allen-Smith, Joyce",
+        "value": "7422"
+    },
+    {
+        "name": "Allison, James",
+        "value": "6339"
+    },
+    {
+        "name": "Alt, Renee",
+        "value": "7138"
+    },
+    {
+        "name": "Altaner, Stephen",
+        "value": "288"
+    },
+    {
+        "name": "Althaus, Scott",
+        "value": "7784"
+    },
+    {
+        "name": "Altstetter, Carl",
+        "value": "2703"
+    },
+    {
+        "name": "Aluru, Narayana",
+        "value": "8727"
+    },
+    {
+        "name": "Alvarez, Juan",
+        "value": "7551"
+    },
+    {
+        "name": "Anders, Alison",
+        "value": "4447"
+    },
+    {
+        "name": "Anderson, Phil",
+        "value": "6861"
+    },
+    {
+        "name": "Anderson, Spencer",
+        "value": "8696"
+    },
+    {
+        "name": "Andrawes, Bassem",
+        "value": "5767"
+    },
+    {
+        "name": "Andruczyk, Daniel",
+        "value": "8379"
+    },
+    {
+        "name": "Angrave, Lawrence",
+        "value": "4123"
+    },
+    {
+        "name": "Anthony, Kathryn",
+        "value": "8736"
+    },
+    {
+        "name": "Arnould, Richard",
+        "value": "8752"
+    },
+    {
+        "name": "Asaka, Ikuko",
+        "value": "8487"
+    },
+    {
+        "name": "Augoustakis, Antonios",
+        "value": "5441"
+    },
+    {
+        "name": "Axford, Roy",
+        "value": "4829"
+    },
+    {
+        "name": "Bacon, Eli",
+        "value": "8663"
+    },
+    {
+        "name": "Bahl, Gaurav",
+        "value": "6750"
+    },
+    {
+        "name": "Bailey, Brian",
+        "value": "8436"
+    },
+    {
+        "name": "Bailey, Micheal",
+        "value": "7829"
+    },
+    {
+        "name": "Bailey, Ryan",
+        "value": "6736"
+    },
+    {
+        "name": "Balajewicz, Maciej",
+        "value": "8009"
+    },
+    {
+        "name": "Banerjee, Arijit",
+        "value": "8699"
+    },
+    {
+        "name": "Barich, Joseph",
+        "value": "2736"
+    },
+    {
+        "name": "Barkan, Chris",
+        "value": "4231"
+    },
+    {
+        "name": "Barley, William",
+        "value": "7945"
+    },
+    {
+        "name": "Barnett, Bernice McNair",
+        "value": "1478"
+    },
+    {
+        "name": "Basar, M. Tamer",
+        "value": "940"
+    },
+    {
+        "name": "Bashford, Christina",
+        "value": "2748"
+    },
+    {
+        "name": "Bauer, Tim",
+        "value": "8703"
+    },
+    {
+        "name": "Bayram, Can",
+        "value": "8190"
+    },
+    {
+        "name": "Beauchamp, Toby",
+        "value": "8053"
+    },
+    {
+        "name": "Beck, Douglas",
+        "value": "7582"
+    },
+    {
+        "name": "Belabbas, Mohamed Ali",
+        "value": "7514"
+    },
+    {
+        "name": "Bellon, Pascal",
+        "value": "300"
+    },
+    {
+        "name": "Bellwood, Alia",
+        "value": "8558"
+    },
+    {
+        "name": "Benekohal, Rahim (Ray)",
+        "value": "481"
+    },
+    {
+        "name": "Benjamin, Aaron",
+        "value": "8749"
+    },
+    {
+        "name": "Bennett, Joshua",
+        "value": "8746"
+    },
+    {
+        "name": "Benson, Christopher",
+        "value": "3095"
+    },
+    {
+        "name": "Berman, Keith",
+        "value": "7973"
+    },
+    {
+        "name": "Bernhard, Jennifer Truman",
+        "value": "5547"
+    },
+    {
+        "name": "Berthelon, Julien",
+        "value": "8714"
+    },
+    {
+        "name": "Best, James",
+        "value": "8573"
+    },
+    {
+        "name": "Bezryadin, Alexey",
+        "value": "8805"
+    },
+    {
+        "name": "Bigman-Galimore, Cabral",
+        "value": "7137"
+    },
+    {
+        "name": "Bigsby, Elisabeth",
+        "value": "7658"
+    },
+    {
+        "name": "Billiot, Shanondora",
+        "value": "8765"
+    },
+    {
+        "name": "Blake, Nancy",
+        "value": "3980"
+    },
+    {
+        "name": "Blanke, Steven",
+        "value": "8159"
+    },
+    {
+        "name": "Block, Daniel",
+        "value": "8806"
+    },
+    {
+        "name": "Bodony, Daniel",
+        "value": "7210"
+    },
+    {
+        "name": "Bolton, Eric",
+        "value": "8002"
+    },
+    {
+        "name": "Boppart, Stephen A.",
+        "value": "597"
+    },
+    {
+        "name": "Bose, Subhonmesh",
+        "value": "8254"
+    },
+    {
+        "name": "Bost, Kelly",
+        "value": "8753"
+    },
+    {
+        "name": "Bowles, Melissa",
+        "value": "8769"
+    },
+    {
+        "name": "Bowman, Liezl",
+        "value": "8606"
+    },
+    {
+        "name": "Brakke, Aaron",
+        "value": "8772"
+    },
+    {
+        "name": "Braun, Paul",
+        "value": "173"
+    },
+    {
+        "name": "Brazee, Richard",
+        "value": "1653"
+    },
+    {
+        "name": "Bretl, Timothy",
+        "value": "7211"
+    },
+    {
+        "name": "Brewster, M Quinn",
+        "value": "3952"
+    },
+    {
+        "name": "Brooks, Caleb",
+        "value": "7866"
+    },
+    {
+        "name": "Brooks, Jan",
+        "value": "8595"
+    },
+    {
+        "name": "Brosseder, Claudia",
+        "value": "8224"
+    },
+    {
+        "name": "Brown, Chester",
+        "value": "6224"
+    },
+    {
+        "name": "Brown, Stephanie",
+        "value": "8026"
+    },
+    {
+        "name": "Brown, Tim",
+        "value": "8385"
+    },
+    {
+        "name": "Browning, Lara",
+        "value": "8041"
+    },
+    {
+        "name": "Brunner, Robert",
+        "value": "3203"
+    },
+    {
+        "name": "Bryan, Ann",
+        "value": "7885"
+    },
+    {
+        "name": "Buckley, Cynthia",
+        "value": "8743"
+    },
+    {
+        "name": "Buetti, Simona",
+        "value": "8451"
+    },
+    {
+        "name": "Burgoon, Lisa",
+        "value": "5569"
+    },
+    {
+        "name": "Burke, Marty",
+        "value": "8229"
+    },
+    {
+        "name": "Burkhalter, Toni",
+        "value": "8757"
+    },
+    {
+        "name": "Burns, Jennifer",
+        "value": "8407"
+    },
+    {
+        "name": "Burns, Krishni",
+        "value": "8793"
+    },
+    {
+        "name": "Burton, Rodney",
+        "value": "271"
+    },
+    {
+        "name": "Bush, Terry",
+        "value": "8192"
+    },
+    {
+        "name": "Caccamo, Marco",
+        "value": "2381"
+    },
+    {
+        "name": "Cahill, David",
+        "value": "7644"
+    },
+    {
+        "name": "Calderwood, Eric",
+        "value": "7505"
+    },
+    {
+        "name": "Callahan, Christopher",
+        "value": "8426"
+    },
+    {
+        "name": "Camargo, Sandy",
+        "value": "8377"
+    },
+    {
+        "name": "Campbell, Roy",
+        "value": "5777"
+    },
+    {
+        "name": "Carlson, Kristin",
+        "value": "8689"
+    },
+    {
+        "name": "Carney, Paul",
+        "value": "4698"
+    },
+    {
+        "name": "Carrillo, Carlos",
+        "value": "8470"
+    },
+    {
+        "name": "Carroll, David Leon",
+        "value": "6350"
+    },
+    {
+        "name": "Carter-Black, Janet",
+        "value": "7648"
+    },
+    {
+        "name": "Cervarich, Matthew",
+        "value": "6717"
+    },
+    {
+        "name": "Cha, Eun Jeong",
+        "value": "7523"
+    },
+    {
+        "name": "Chamorro Chavez, Leonardo",
+        "value": "7133"
+    },
+    {
+        "name": "Chandrasekaran, Karthekeyan",
+        "value": "7753"
+    },
+    {
+        "name": "Chang, Kevin",
+        "value": "5119"
+    },
+    {
+        "name": "Chapman, Kenneth",
+        "value": "3068"
+    },
+    {
+        "name": "Chapman-Novakofski, Karen",
+        "value": "3906"
+    },
+    {
+        "name": "Chatterton, Angel",
+        "value": "8342"
+    },
+    {
+        "name": "Chemistry, Permanent Reserves",
+        "value": "1964"
+    },
+    {
+        "name": "Chemistry, Reserves at Grainger",
+        "value": "2856"
+    },
+    {
+        "name": "Chemla, Yann Robert",
+        "value": "5690"
+    },
+    {
+        "name": "Chen, Hong",
+        "value": "8255"
+    },
+    {
+        "name": "Chen, Li-Qing",
+        "value": "8609"
+    },
+    {
+        "name": "Chen, Qian",
+        "value": "8067"
+    },
+    {
+        "name": "Chen, Xin",
+        "value": "3568"
+    },
+    {
+        "name": "Cheng, Jianjun",
+        "value": "4486"
+    },
+    {
+        "name": "Cheng, Zhengyang",
+        "value": "7493"
+    },
+    {
+        "name": "Chew, Huck Beng",
+        "value": "6713"
+    },
+    {
+        "name": "Chew, Weng Cho",
+        "value": "3602"
+    },
+    {
+        "name": "Choquette, Kent",
+        "value": "2738"
+    },
+    {
+        "name": "Chorvat, Elizabeth",
+        "value": "8530"
+    },
+    {
+        "name": "Chronopoulou, Alexandra",
+        "value": "7572"
+    },
+    {
+        "name": "Ciafone, Amanda",
+        "value": "6548"
+    },
+    {
+        "name": "Ciconte, William",
+        "value": "8076"
+    },
+    {
+        "name": "Cidell, Julie",
+        "value": "7496"
+    },
+    {
+        "name": "Cienciala, Piotr",
+        "value": "8547"
+    },
+    {
+        "name": "Cintron, Valerie",
+        "value": "7983"
+    },
+    {
+        "name": "Cisneros, David",
+        "value": "7100"
+    },
+    {
+        "name": "Clay, Amy",
+        "value": "8728"
+    },
+    {
+        "name": "Cohen, Dov",
+        "value": "761"
+    },
+    {
+        "name": "Conroy, Jessica",
+        "value": "7247"
+    },
+    {
+        "name": "Cooke, Nicole",
+        "value": "6572"
+    },
+    {
+        "name": "Cosat, Christopher",
+        "value": "5889"
+    },
+    {
+        "name": "Costello, Tom",
+        "value": "7853"
+    },
+    {
+        "name": "Coverstone, Victoria",
+        "value": "184"
+    },
+    {
+        "name": "Cunningham, Ryan",
+        "value": "6940"
+    },
+    {
+        "name": "Cuno, Kenneth",
+        "value": "7907"
+    },
+    {
+        "name": "Cupps-Miller, Heather Anne",
+        "value": "8556"
+    },
+    {
+        "name": "Curreli, Davide",
+        "value": "7285"
+    },
+    {
+        "name": "Curry, B. Brandon",
+        "value": "8114"
+    },
+    {
+        "name": "Curtis, Susan",
+        "value": "8406"
+    },
+    {
+        "name": "Cusick, Roland",
+        "value": "7743"
+    },
+    {
+        "name": "D'Urso, Steven",
+        "value": "6361"
+    },
+    {
+        "name": "Dalal, Neal",
+        "value": "8233"
+    },
+    {
+        "name": "Dallesasse, John",
+        "value": "6521"
+    },
+    {
+        "name": "Dankowicz, Harry",
+        "value": "8480"
+    },
+    {
+        "name": "Dar, Roy",
+        "value": "8028"
+    },
+    {
+        "name": "Dargatz, Rachel",
+        "value": "8804"
+    },
+    {
+        "name": "Das, Satya",
+        "value": "8091"
+    },
+    {
+        "name": "Das, Susmiita",
+        "value": "7980"
+    },
+    {
+        "name": "Das Neves Barbosa Leal Lauten, Cecilia",
+        "value": "7281"
+    },
+    {
+        "name": "Dash, Leon",
+        "value": "532"
+    },
+    {
+        "name": "Date, Ketan",
+        "value": "8443"
+    },
+    {
+        "name": "Davila, Jerry",
+        "value": "8713"
+    },
+    {
+        "name": "Davis, Donald",
+        "value": "7297"
+    },
+    {
+        "name": "Davis, Neal",
+        "value": "8542"
+    },
+    {
+        "name": "DeBrock, Lawrence",
+        "value": "8767"
+    },
+    {
+        "name": "DeCoste, Donald",
+        "value": "7691"
+    },
+    {
+        "name": "DeJong, Gerald",
+        "value": "8017"
+    },
+    {
+        "name": "DeMarco, Brian",
+        "value": "4665"
+    },
+    {
+        "name": "Dearborn, Lynne",
+        "value": "2435"
+    },
+    {
+        "name": "Deem, Lesley",
+        "value": "8792"
+    },
+    {
+        "name": "Denby, Eric",
+        "value": "8701"
+    },
+    {
+        "name": "Denmark, Scott",
+        "value": "87"
+    },
+    {
+        "name": "Deryugina, Tatyana",
+        "value": "6812"
+    },
+    {
+        "name": "Desmond, Jane",
+        "value": "4839"
+    },
+    {
+        "name": "Di Girolamo, Larry",
+        "value": "5999"
+    },
+    {
+        "name": "Diao, Chunyuan",
+        "value": "8745"
+    },
+    {
+        "name": "Diao, Ying",
+        "value": "8058"
+    },
+    {
+        "name": "Diesner, Jana",
+        "value": "8353"
+    },
+    {
+        "name": "Dillon, Shen",
+        "value": "5801"
+    },
+    {
+        "name": "Ditewig-Morris, Kathleen",
+        "value": "7949"
+    },
+    {
+        "name": "Dlott, Dana",
+        "value": "62"
+    },
+    {
+        "name": "Do, Minh",
+        "value": "2943"
+    },
+    {
+        "name": "Dokmanic, Ivan",
+        "value": "8798"
+    },
+    {
+        "name": "Dolan, Thomas",
+        "value": "5079"
+    },
+    {
+        "name": "Dominguez, Francina",
+        "value": "8276"
+    },
+    {
+        "name": "Dominguez, Virginia R.",
+        "value": "4692"
+    },
+    {
+        "name": "Dominguez-Garcia, Alejandro",
+        "value": "5427"
+    },
+    {
+        "name": "Donohoe, Michael",
+        "value": "6229"
+    },
+    {
+        "name": "Dragic, Peter",
+        "value": "5530"
+    },
+    {
+        "name": "Druhan, Jenny",
+        "value": "8304"
+    },
+    {
+        "name": "Duarte, Carlos",
+        "value": "2442"
+    },
+    {
+        "name": "Duff, Brittany",
+        "value": "5466"
+    },
+    {
+        "name": "Dunn, Alison",
+        "value": "7842"
+    },
+    {
+        "name": "Dunne, Bryan",
+        "value": "5949"
+    },
+    {
+        "name": "Dutton, J. Craig",
+        "value": "5752"
+    },
+    {
+        "name": "Eckstein, James",
+        "value": "7556"
+    },
+    {
+        "name": "Eden, J. Gary",
+        "value": "2928"
+    },
+    {
+        "name": "Eheart, J. Wayland",
+        "value": "7733"
+    },
+    {
+        "name": "El-Khadra, Aida",
+        "value": "7558"
+    },
+    {
+        "name": "El-Rayes, Khaled",
+        "value": "202"
+    },
+    {
+        "name": "Elbanna, Ahmed",
+        "value": "8278"
+    },
+    {
+        "name": "Elbel, Stefan",
+        "value": "5729"
+    },
+    {
+        "name": "Elliott, Celia",
+        "value": "6464"
+    },
+    {
+        "name": "Elliott, Gregory S.",
+        "value": "7446"
+    },
+    {
+        "name": "Endres, A. Bryan",
+        "value": "7984"
+    },
+    {
+        "name": "Engineering Library Permanent Reserves, Grainger",
+        "value": "331"
+    },
+    {
+        "name": "Erdey, Kenneth",
+        "value": "8359"
+    },
+    {
+        "name": "Errede, Steven",
+        "value": "1570"
+    },
+    {
+        "name": "Ertekin, Elif",
+        "value": "6296"
+    },
+    {
+        "name": "Espinosa-Marzal, Rosa",
+        "value": "8093"
+    },
+    {
+        "name": "Espiritu, Augusto",
+        "value": "8024"
+    },
+    {
+        "name": "Etesami, Rasoul",
+        "value": "8774"
+    },
+    {
+        "name": "Evans, Chris",
+        "value": "8461"
+    },
+    {
+        "name": "Evans, Jessica",
+        "value": "8444"
+    },
+    {
+        "name": "Ewoldt, Randy",
+        "value": "6437"
+    },
+    {
+        "name": "Extension Program, UIUC",
+        "value": "8623"
+    },
+    {
+        "name": "Fahnestock, Larry",
+        "value": "3940"
+    },
+    {
+        "name": "Farner, Susan",
+        "value": "220"
+    },
+    {
+        "name": "Favila, Ivanhoe",
+        "value": "6353"
+    },
+    {
+        "name": "Feld, Brian",
+        "value": "8796"
+    },
+    {
+        "name": "Feng, Liming",
+        "value": "4234"
+    },
+    {
+        "name": "Feng, Milton",
+        "value": "6405"
+    },
+    {
+        "name": "Fennell, Christopher",
+        "value": "7964"
+    },
+    {
+        "name": "Ferguson, Andrew",
+        "value": "6923"
+    },
+    {
+        "name": "Ferreira, Placid",
+        "value": "8801"
+    },
+    {
+        "name": "Filippini, Jeffrey",
+        "value": "8463"
+    },
+    {
+        "name": "Finnegan, Cara",
+        "value": "8180"
+    },
+    {
+        "name": "Fiorentino, Matthew",
+        "value": "8786"
+    },
+    {
+        "name": "Fischer, Paul",
+        "value": "7752"
+    },
+    {
+        "name": "Fischer-Brown, Amy",
+        "value": "5433"
+    },
+    {
+        "name": "Fisher, Cindy",
+        "value": "8446"
+    },
+    {
+        "name": "Flachsbart, Bruce",
+        "value": "5431"
+    },
+    {
+        "name": "Flaherty, David",
+        "value": "6869"
+    },
+    {
+        "name": "Fleck, Margaret",
+        "value": "3487"
+    },
+    {
+        "name": "Flynn, Karen",
+        "value": "2626"
+    },
+    {
+        "name": "Follis, Jennifer",
+        "value": "4534"
+    },
+    {
+        "name": "Fradkin, Eduardo",
+        "value": "1258"
+    },
+    {
+        "name": "Frame, Jeffrey",
+        "value": "5982"
+    },
+    {
+        "name": "Fraterrigo, Jennifer",
+        "value": "5381"
+    },
+    {
+        "name": "Fratti, Rutilio",
+        "value": "6631"
+    },
+    {
+        "name": "Freund, Jonathan",
+        "value": "5473"
+    },
+    {
+        "name": "Frost, Elise",
+        "value": "8761"
+    },
+    {
+        "name": "Fu, Poshek",
+        "value": "7975"
+    },
+    {
+        "name": "Gabrielson, Nathan",
+        "value": "6887"
+    },
+    {
+        "name": "Gadway, Bryce",
+        "value": "8715"
+    },
+    {
+        "name": "Gallo, Donna",
+        "value": "8421"
+    },
+    {
+        "name": "Gammie, Charles",
+        "value": "7542"
+    },
+    {
+        "name": "Gao, Liang",
+        "value": "8561"
+    },
+    {
+        "name": "Gardoni, Paolo",
+        "value": "6633"
+    },
+    {
+        "name": "Garg, Jugal",
+        "value": "8544"
+    },
+    {
+        "name": "Geubelle, Philippe",
+        "value": "8273"
+    },
+    {
+        "name": "Gewirth, Andrew",
+        "value": "8062"
+    },
+    {
+        "name": "Ghosh, Alexander",
+        "value": "7540"
+    },
+    {
+        "name": "Giannetta, Russell",
+        "value": "689"
+    },
+    {
+        "name": "Gilbert, David",
+        "value": "8794"
+    },
+    {
+        "name": "Giorgio, Grace",
+        "value": "416"
+    },
+    {
+        "name": "Girolami, Gregory",
+        "value": "5336"
+    },
+    {
+        "name": "Glumac, Nick",
+        "value": "4651"
+    },
+    {
+        "name": "Gobin, Robyn",
+        "value": "8054"
+    },
+    {
+        "name": "Goddard, Lynford",
+        "value": "4641"
+    },
+    {
+        "name": "Goffnett, Jacob",
+        "value": "8777"
+    },
+    {
+        "name": "Goldenfeld, Nigel",
+        "value": "1763"
+    },
+    {
+        "name": "Gollin, George",
+        "value": "367"
+    },
+    {
+        "name": "Golparvar Fard, Mani",
+        "value": "7020"
+    },
+    {
+        "name": "Gong, Songbin",
+        "value": "7232"
+    },
+    {
+        "name": "Good, Elizabeth",
+        "value": "6412"
+    },
+    {
+        "name": "Goodman, Matthew",
+        "value": "7577"
+    },
+    {
+        "name": "Grabner, Gail",
+        "value": "2509"
+    },
+    {
+        "name": "Green, Eric",
+        "value": "7869"
+    },
+    {
+        "name": "Gregg, Patricia",
+        "value": "7795"
+    },
+    {
+        "name": "Grohens, Joseph",
+        "value": "5498"
+    },
+    {
+        "name": "Gross, George",
+        "value": "763"
+    },
+    {
+        "name": "Grosse, Meghan",
+        "value": "7500"
+    },
+    {
+        "name": "Grosse Perdekamp, Matthias",
+        "value": "2692"
+    },
+    {
+        "name": "Grossman, Heather",
+        "value": "8726"
+    },
+    {
+        "name": "Gruebele, Martin",
+        "value": "8064"
+    },
+    {
+        "name": "Guenthner, William",
+        "value": "8279"
+    },
+    {
+        "name": "Guest, Jeremy",
+        "value": "7887"
+    },
+    {
+        "name": "Guironnet, Damien",
+        "value": "8012"
+    },
+    {
+        "name": "Gunderson, Jon",
+        "value": "3640"
+    },
+    {
+        "name": "Gunsalus, C.",
+        "value": "7453"
+    },
+    {
+        "name": "Guntzviller, Lisa",
+        "value": "7944"
+    },
+    {
+        "name": "Gupta, Indranil",
+        "value": "8433"
+    },
+    {
+        "name": "Gurfinkel, German",
+        "value": "7912"
+    },
+    {
+        "name": "Hadley, Pamela",
+        "value": "8754"
+    },
+    {
+        "name": "Hajek, Bruce",
+        "value": "4871"
+    },
+    {
+        "name": "Hajj, Ibrahim",
+        "value": "8729"
+    },
+    {
+        "name": "Hall, Steven",
+        "value": "4764"
+    },
+    {
+        "name": "Ham, Chang Dae",
+        "value": "8411"
+    },
+    {
+        "name": "Hammack, William",
+        "value": "5332"
+    },
+    {
+        "name": "Hammes-Schiffer, Sharon",
+        "value": "7162"
+    },
+    {
+        "name": "Han, Jiawei",
+        "value": "871"
+    },
+    {
+        "name": "Hanumolu, Pavan",
+        "value": "7238"
+    },
+    {
+        "name": "Haran, Kiruba",
+        "value": "7726"
+    },
+    {
+        "name": "Harley, Brendan",
+        "value": "5319"
+    },
+    {
+        "name": "Harries, Tyler",
+        "value": "8776"
+    },
+    {
+        "name": "Harwood, Stacy",
+        "value": "2371"
+    },
+    {
+        "name": "Hasegawa-Johnson, Mark",
+        "value": "5788"
+    },
+    {
+        "name": "Hashash, Youssef",
+        "value": "1068"
+    },
+    {
+        "name": "Haupt, Erin",
+        "value": "8737"
+    },
+    {
+        "name": "Hay, James",
+        "value": "7883"
+    },
+    {
+        "name": "Hays, Mary",
+        "value": "501"
+    },
+    {
+        "name": "He, Niao",
+        "value": "8545"
+    },
+    {
+        "name": "He, Wei",
+        "value": "7755"
+    },
+    {
+        "name": "Heath, Michael",
+        "value": "5779"
+    },
+    {
+        "name": "Heiles, William",
+        "value": "8417"
+    },
+    {
+        "name": "Hence, Deanna",
+        "value": "8119"
+    },
+    {
+        "name": "Henderson, Jerrod",
+        "value": "5937"
+    },
+    {
+        "name": "Hernandez, Manuel",
+        "value": "7620"
+    },
+    {
+        "name": "Herrstrom, Eileen",
+        "value": "4040"
+    },
+    {
+        "name": "Herryman, Ivette",
+        "value": "8775"
+    },
+    {
+        "name": "Heuser, Brent",
+        "value": "1716"
+    },
+    {
+        "name": "Higdon, Jonathan",
+        "value": "99"
+    },
+    {
+        "name": "Hilgenfeldt, Sascha",
+        "value": "5154"
+    },
+    {
+        "name": "Hillmer, Philip",
+        "value": "3949"
+    },
+    {
+        "name": "Hilton, Harry",
+        "value": "3759"
+    },
+    {
+        "name": "Hirata, So",
+        "value": "6702"
+    },
+    {
+        "name": "Ho, Koki",
+        "value": "8212"
+    },
+    {
+        "name": "Hockenmaier, Julia",
+        "value": "5370"
+    },
+    {
+        "name": "Hoffman, Valerie",
+        "value": "942"
+    },
+    {
+        "name": "Hoganson, Kristin",
+        "value": "1073"
+    },
+    {
+        "name": "Holden, Benjamin",
+        "value": "7659"
+    },
+    {
+        "name": "Holder, Chas",
+        "value": "8692"
+    },
+    {
+        "name": "Holder, Daniel",
+        "value": "3105"
+    },
+    {
+        "name": "Holder, Gilbert",
+        "value": "8802"
+    },
+    {
+        "name": "Holley, Geralyn",
+        "value": "7116"
+    },
+    {
+        "name": "Holscher, Hannah",
+        "value": "8690"
+    },
+    {
+        "name": "Holtzclaw-Stone, Heather",
+        "value": "7001"
+    },
+    {
+        "name": "Hooberman, Benjamin",
+        "value": "8803"
+    },
+    {
+        "name": "Houston, Brant",
+        "value": "6881"
+    },
+    {
+        "name": "Hovakimyan, Naira",
+        "value": "5806"
+    },
+    {
+        "name": "Hsia, K. Jimmy",
+        "value": "6659"
+    },
+    {
+        "name": "Hu, Yuhang",
+        "value": "8323"
+    },
+    {
+        "name": "Huang, Pinshane",
+        "value": "8072"
+    },
+    {
+        "name": "Huang, Tina",
+        "value": "7126"
+    },
+    {
+        "name": "Huber, Cory",
+        "value": "8662"
+    },
+    {
+        "name": "Huff, Kathryn",
+        "value": "8340"
+    },
+    {
+        "name": "Hughes, Taylor",
+        "value": "6644"
+    },
+    {
+        "name": "Huizar, Carolyn",
+        "value": "8414"
+    },
+    {
+        "name": "Hull, Kami Lee",
+        "value": "7163"
+    },
+    {
+        "name": "Hummel, Thomas",
+        "value": "7123"
+    },
+    {
+        "name": "Hunnicutt, William",
+        "value": "8587"
+    },
+    {
+        "name": "Hurst, Stephen",
+        "value": "638"
+    },
+    {
+        "name": "Hutchens, Matt",
+        "value": "8694"
+    },
+    {
+        "name": "Hutchens, Shelby",
+        "value": "7533"
+    },
+    {
+        "name": "Hutchinson, Seth",
+        "value": "4870"
+    },
+    {
+        "name": "Hwu, Wen-Mei",
+        "value": "1029"
+    },
+    {
+        "name": "Hyman, Karen",
+        "value": "6645"
+    },
+    {
+        "name": "Ilie, Raluca",
+        "value": "8700"
+    },
+    {
+        "name": "Imoukhuede, Princess",
+        "value": "6646"
+    },
+    {
+        "name": "Insana, Michael",
+        "value": "8302"
+    },
+    {
+        "name": "Irwin, David",
+        "value": "8589"
+    },
+    {
+        "name": "Izzaguire, Joe",
+        "value": "8664"
+    },
+    {
+        "name": "Jacobi, Anthony",
+        "value": "7278"
+    },
+    {
+        "name": "Jacobs, C. Scott",
+        "value": "8409"
+    },
+    {
+        "name": "Jacobson, Sheldon",
+        "value": "7571"
+    },
+    {
+        "name": "Jahnke, Keilin",
+        "value": "8607"
+    },
+    {
+        "name": "Jain, Atul",
+        "value": "6147"
+    },
+    {
+        "name": "Jain, Prashant",
+        "value": "6701"
+    },
+    {
+        "name": "James, Kai",
+        "value": "8035"
+    },
+    {
+        "name": "Jasiuk, Iwona",
+        "value": "3902"
+    },
+    {
+        "name": "Jassim, Emad",
+        "value": "4070"
+    },
+    {
+        "name": "Jelinek, Petra",
+        "value": "8755"
+    },
+    {
+        "name": "Jensen, Karin",
+        "value": "8036"
+    },
+    {
+        "name": "Jin, Jianming",
+        "value": "5428"
+    },
+    {
+        "name": "Jin, Yong-Su",
+        "value": "8197"
+    },
+    {
+        "name": "Johnson, Blake",
+        "value": "7537"
+    },
+    {
+        "name": "Johnson, Brian",
+        "value": "8189"
+    },
+    {
+        "name": "Johnson, Cynthia",
+        "value": "8095"
+    },
+    {
+        "name": "Jonkouski, Gail",
+        "value": "7580"
+    },
+    {
+        "name": "Juarez, Gabriel",
+        "value": "8465"
+    },
+    {
+        "name": "Kaganovsky, Lilya",
+        "value": "8809"
+    },
+    {
+        "name": "Kalbarczyk, Zbigniew",
+        "value": "5785"
+    },
+    {
+        "name": "Kannan, Srinivasan",
+        "value": "4338"
+    },
+    {
+        "name": "Kanter, Robert",
+        "value": "6660"
+    },
+    {
+        "name": "Kaplan, Justine",
+        "value": "7164"
+    },
+    {
+        "name": "Karam, John",
+        "value": "8168"
+    },
+    {
+        "name": "Kashai, Maryam",
+        "value": "8759"
+    },
+    {
+        "name": "Kashani, Maryam",
+        "value": "8481"
+    },
+    {
+        "name": "Kashem, Shakil Bin",
+        "value": "7636"
+    },
+    {
+        "name": "Keane, Richard",
+        "value": "1401"
+    },
+    {
+        "name": "Kelley, Sam",
+        "value": "8439"
+    },
+    {
+        "name": "Kent, Angela",
+        "value": "4346"
+    },
+    {
+        "name": "Kersh, Mariana",
+        "value": "7538"
+    },
+    {
+        "name": "Kiku, Dana",
+        "value": "7447"
+    },
+    {
+        "name": "Kim, Harrison",
+        "value": "2746"
+    },
+    {
+        "name": "Kim, Kyekyoon",
+        "value": "5677"
+    },
+    {
+        "name": "Kim, Kyu-Jung",
+        "value": "6917"
+    },
+    {
+        "name": "Kim, Nam Sung",
+        "value": "8698"
+    },
+    {
+        "name": "Kim, Seok",
+        "value": "6538"
+    },
+    {
+        "name": "Kimnach, Rachel Lee",
+        "value": "8708"
+    },
+    {
+        "name": "Kinderman, William",
+        "value": "8756"
+    },
+    {
+        "name": "Kindratenko, Volodymyr",
+        "value": "7235"
+    },
+    {
+        "name": "King, Daniel",
+        "value": "6941"
+    },
+    {
+        "name": "King, Douglas",
+        "value": "6707"
+    },
+    {
+        "name": "King, Tanisha",
+        "value": "7510"
+    },
+    {
+        "name": "Kirchner, Nick",
+        "value": "3749"
+    },
+    {
+        "name": "Kirlik, Alex",
+        "value": "3466"
+    },
+    {
+        "name": "Kiyavash, Negar",
+        "value": "5259"
+    },
+    {
+        "name": "Kleemans, Marieke",
+        "value": "8797"
+    },
+    {
+        "name": "Knipp, Jonathan",
+        "value": "8579"
+    },
+    {
+        "name": "Koloutsou-Vakakis, Sotiria",
+        "value": "5155"
+    },
+    {
+        "name": "Konar, Megan",
+        "value": "7025"
+    },
+    {
+        "name": "Kong, Hyun Joon",
+        "value": "5327"
+    },
+    {
+        "name": "Koric, Seid",
+        "value": "8303"
+    },
+    {
+        "name": "Koshik, Irene",
+        "value": "1567"
+    },
+    {
+        "name": "Kourtikakis, Konstantinos",
+        "value": "6513"
+    },
+    {
+        "name": "Koven, Michele",
+        "value": "3981"
+    },
+    {
+        "name": "Koyejo, Oluwasanmi",
+        "value": "8732"
+    },
+    {
+        "name": "Kozlowski, Tomasz",
+        "value": "6445"
+    },
+    {
+        "name": "Kraft, Mary",
+        "value": "5044"
+    },
+    {
+        "name": "Krishnan, Girish",
+        "value": "7564"
+    },
+    {
+        "name": "Krishnan, Sudarshan",
+        "value": "8742"
+    },
+    {
+        "name": "Kriven, Waltraud",
+        "value": "5740"
+    },
+    {
+        "name": "Krogstad, Jessica",
+        "value": "7555"
+    },
+    {
+        "name": "Kudeki, Erhan",
+        "value": "4064"
+    },
+    {
+        "name": "Kuhlman, Thomas",
+        "value": "6709"
+    },
+    {
+        "name": "Kumar, Praveen",
+        "value": "252"
+    },
+    {
+        "name": "Kumar, Rakesh",
+        "value": "4059"
+    },
+    {
+        "name": "Kwiat, Paul",
+        "value": "496"
+    },
+    {
+        "name": "LaFave, James",
+        "value": "3196"
+    },
+    {
+        "name": "LaViers, Amy",
+        "value": "8298"
+    },
+    {
+        "name": "Lambros, John",
+        "value": "4850"
+    },
+    {
+        "name": "Lammers, John",
+        "value": "7993"
+    },
+    {
+        "name": "Landrum-Brown, Joycelyn",
+        "value": "7153"
+    },
+    {
+        "name": "Landry, Blake",
+        "value": "6389"
+    },
+    {
+        "name": "Langbort, Cedric",
+        "value": "7026"
+    },
+    {
+        "name": "Lange, David",
+        "value": "8247"
+    },
+    {
+        "name": "Larrison, Tara Earls",
+        "value": "2480"
+    },
+    {
+        "name": "Lasher-Trapp, Sonia",
+        "value": "7821"
+    },
+    {
+        "name": "Laystrom-Woodard, Julia",
+        "value": "8560"
+    },
+    {
+        "name": "Layton, Rick",
+        "value": "7402"
+    },
+    {
+        "name": "Lazebnik, Svetlana",
+        "value": "6651"
+    },
+    {
+        "name": "LeCrone, Jessica",
+        "value": "7785"
+    },
+    {
+        "name": "Leake, Jim",
+        "value": "1167"
+    },
+    {
+        "name": "Leburton, Jean P.",
+        "value": "1294"
+    },
+    {
+        "name": "Leckband, Deborah",
+        "value": "69"
+    },
+    {
+        "name": "Ledesma, Eduardo",
+        "value": "8129"
+    },
+    {
+        "name": "Ledford, Charles",
+        "value": "7632"
+    },
+    {
+        "name": "Lee, Chia-Fon",
+        "value": "4528"
+    },
+    {
+        "name": "Lee, Soo-Yeun",
+        "value": "8741"
+    },
+    {
+        "name": "Lee, Tonghun",
+        "value": "7578"
+    },
+    {
+        "name": "Leggett, Anthony",
+        "value": "857"
+    },
+    {
+        "name": "Leigh, Robert",
+        "value": "2959"
+    },
+    {
+        "name": "Levin, Deborah",
+        "value": "7649"
+    },
+    {
+        "name": "Levinson, Stephen",
+        "value": "4038"
+    },
+    {
+        "name": "Levinstein, Benjamin",
+        "value": "8773"
+    },
+    {
+        "name": "Li, Wei",
+        "value": "8386"
+    },
+    {
+        "name": "Li, Xiuling",
+        "value": "7236"
+    },
+    {
+        "name": "Liberzon, Daniel",
+        "value": "812"
+    },
+    {
+        "name": "Liebenberg, Leon",
+        "value": "8760"
+    },
+    {
+        "name": "Liebersohn, Harry",
+        "value": "8705"
+    },
+    {
+        "name": "Lima, Gerlando",
+        "value": "8707"
+    },
+    {
+        "name": "Lipka, Alexander",
+        "value": "8290"
+    },
+    {
+        "name": "Lira, Natalie",
+        "value": "8730"
+    },
+    {
+        "name": "Litchfield, J. Bruce",
+        "value": "2291"
+    },
+    {
+        "name": "Liu, Gang",
+        "value": "5789"
+    },
+    {
+        "name": "Liu, Lijun",
+        "value": "6888"
+    },
+    {
+        "name": "Liu, Xin",
+        "value": "8272"
+    },
+    {
+        "name": "Livengood, Kerrith",
+        "value": "8488"
+    },
+    {
+        "name": "Lizzo, Robin",
+        "value": "8721"
+    },
+    {
+        "name": "Llano, Daniel",
+        "value": "8201"
+    },
+    {
+        "name": "Llewellyn, Nicholas",
+        "value": "6486"
+    },
+    {
+        "name": "Long, Derek",
+        "value": "8762"
+    },
+    {
+        "name": "Looney, Leslie",
+        "value": "8584"
+    },
+    {
+        "name": "Lopez, Rodriguez",
+        "value": "7340"
+    },
+    {
+        "name": "Lopez-Ortiz, Citlali",
+        "value": "7699"
+    },
+    {
+        "name": "Lopez-Pamies, Oscar",
+        "value": "6536"
+    },
+    {
+        "name": "Lu, Yi",
+        "value": "2768"
+    },
+    {
+        "name": "Lund, Erik",
+        "value": "315"
+    },
+    {
+        "name": "Lundstrom, Craig",
+        "value": "6103"
+    },
+    {
+        "name": "Luthey-Schulten, Zaida",
+        "value": "5237"
+    },
+    {
+        "name": "Maass, Robert",
+        "value": "8071"
+    },
+    {
+        "name": "Mabry-Flynn, Amanda",
+        "value": "8657"
+    },
+    {
+        "name": "MacDonald, Jonathan",
+        "value": "8634"
+    },
+    {
+        "name": "MacGregor, Nancy",
+        "value": "8770"
+    },
+    {
+        "name": "Makela, Jonathan",
+        "value": "8720"
+    },
+    {
+        "name": "Makhnenko, Roman",
+        "value": "8731"
+    },
+    {
+        "name": "Makins, Naomi",
+        "value": "5709"
+    },
+    {
+        "name": "Makri, Nancy",
+        "value": "5239"
+    },
+    {
+        "name": "Malekin, Bjorn",
+        "value": "7875"
+    },
+    {
+        "name": "Malinowski, Jacalyn",
+        "value": "7521"
+    },
+    {
+        "name": "Mall, Laurence",
+        "value": "8711"
+    },
+    {
+        "name": "Marinas, Benito",
+        "value": "3873"
+    },
+    {
+        "name": "Marinov, Darko",
+        "value": "3752"
+    },
+    {
+        "name": "Marla, Lavanya",
+        "value": "6863"
+    },
+    {
+        "name": "Marshak, Stephen",
+        "value": "261"
+    },
+    {
+        "name": "Martinez, Candace",
+        "value": "8758"
+    },
+    {
+        "name": "Martinez, Laura",
+        "value": "8667"
+    },
+    {
+        "name": "Martinez Gonzalez, Andrea",
+        "value": "8355"
+    },
+    {
+        "name": "Marville, Kelly",
+        "value": "7124"
+    },
+    {
+        "name": "Maslov, Sergei",
+        "value": "8214"
+    },
+    {
+        "name": "Mason, Nadya",
+        "value": "5515"
+    },
+    {
+        "name": "Masud, Arif",
+        "value": "3962"
+    },
+    {
+        "name": "Matalon, Moshe",
+        "value": "4580"
+    },
+    {
+        "name": "Matlack, Kathryn",
+        "value": "8551"
+    },
+    {
+        "name": "Mattax, Charlotte",
+        "value": "1691"
+    },
+    {
+        "name": "McCarthy, Cameron",
+        "value": "1079"
+    },
+    {
+        "name": "McChesney, Robert",
+        "value": "4015"
+    },
+    {
+        "name": "McDermott, Monica",
+        "value": "8697"
+    },
+    {
+        "name": "McDonald, J. Douglas",
+        "value": "1205"
+    },
+    {
+        "name": "McDonald, Jean",
+        "value": "6245"
+    },
+    {
+        "name": "McElwain, Nancy",
+        "value": "2172"
+    },
+    {
+        "name": "McGregor, Nancy",
+        "value": "5933"
+    },
+    {
+        "name": "Mehrtens, Brad",
+        "value": "5177"
+    },
+    {
+        "name": "Mehta, Prashant",
+        "value": "3518"
+    },
+    {
+        "name": "Meidani, Hadi",
+        "value": "7661"
+    },
+    {
+        "name": "Men, Yujie",
+        "value": "8735"
+    },
+    {
+        "name": "Mendenhall, Ruby",
+        "value": "4024"
+    },
+    {
+        "name": "Meng, Ling-Jian",
+        "value": "4828"
+    },
+    {
+        "name": "Mensing, Glennys",
+        "value": "8764"
+    },
+    {
+        "name": "Mesri, Gholamreza",
+        "value": "5770"
+    },
+    {
+        "name": "Mestre, Jose",
+        "value": "3481"
+    },
+    {
+        "name": "Meyer, Eric",
+        "value": "6003"
+    },
+    {
+        "name": "Mideros Mora, Santiago",
+        "value": "8695"
+    },
+    {
+        "name": "Milenkovic, Olgica",
+        "value": "5129"
+    },
+    {
+        "name": "Miljkovic, Nenad",
+        "value": "7535"
+    },
+    {
+        "name": "Miller, David",
+        "value": "2242"
+    },
+    {
+        "name": "Miller, Michael",
+        "value": "5628"
+    },
+    {
+        "name": "Minsker, Barbara",
+        "value": "257"
+    },
+    {
+        "name": "Miric, Zia",
+        "value": "8671"
+    },
+    {
+        "name": "Misailovic, Sasa",
+        "value": "8591"
+    },
+    {
+        "name": "Mitra, Sayan",
+        "value": "5120"
+    },
+    {
+        "name": "Moersch, William",
+        "value": "4316"
+    },
+    {
+        "name": "Moffitt, Brian",
+        "value": "8512"
+    },
+    {
+        "name": "Moga, Jillian",
+        "value": "7773"
+    },
+    {
+        "name": "Mohaghegh, Zahra",
+        "value": "7053"
+    },
+    {
+        "name": "Moist, John",
+        "value": "8668"
+    },
+    {
+        "name": "Morrissey, Robert",
+        "value": "6275"
+    },
+    {
+        "name": "Morrow, Daniel",
+        "value": "3342"
+    },
+    {
+        "name": "Mouschovias, Telemachos",
+        "value": "4018"
+    },
+    {
+        "name": "Mudar, Raksha",
+        "value": "6272"
+    },
+    {
+        "name": "Mulvaney, Richard",
+        "value": "316"
+    },
+    {
+        "name": "Mun, Eunmi",
+        "value": "8740"
+    },
+    {
+        "name": "Murphy, Catherine",
+        "value": "5575"
+    },
+    {
+        "name": "Murray, Patrick",
+        "value": "8788"
+    },
+    {
+        "name": "Murray, Scott",
+        "value": "8717"
+    },
+    {
+        "name": "Music Library Permanent Reserves,",
+        "value": "361"
+    },
+    {
+        "name": "Nagashima, Daniel",
+        "value": "7817"
+    },
+    {
+        "name": "Nagi, Rakesh",
+        "value": "8080"
+    },
+    {
+        "name": "Nagle, Chloe",
+        "value": "8725"
+    },
+    {
+        "name": "Nam, SungWoo",
+        "value": "6746"
+    },
+    {
+        "name": "Namachchivaya, N. Sri",
+        "value": "4996"
+    },
+    {
+        "name": "Napolitano, Chris",
+        "value": "8766"
+    },
+    {
+        "name": "Nelson, Michelle",
+        "value": "7892"
+    },
+    {
+        "name": "Nelson, William",
+        "value": "6870"
+    },
+    {
+        "name": "Nesbitt, Anna",
+        "value": "8248"
+    },
+    {
+        "name": "Nesbitt, Anna",
+        "value": "6664"
+    },
+    {
+        "name": "Neville, Helen",
+        "value": "8750"
+    },
+    {
+        "name": "Neville, Helen",
+        "value": "8751"
+    },
+    {
+        "name": "Nguyen, Thanh Huong (Helen)",
+        "value": "8747"
+    },
+    {
+        "name": "Noland, Dianne",
+        "value": "35"
+    },
+    {
+        "name": "Nuzzo, Ralph",
+        "value": "5494"
+    },
+    {
+        "name": "O'Brien, David",
+        "value": "7143"
+    },
+    {
+        "name": "Oelze, Michael",
+        "value": "5786"
+    },
+    {
+        "name": "Oh, Eunjun",
+        "value": "8706"
+    },
+    {
+        "name": "Oh, Sewoong",
+        "value": "6915"
+    },
+    {
+        "name": "Oldfield, Eric",
+        "value": "133"
+    },
+    {
+        "name": "Olshevsky, Alexander",
+        "value": "7240"
+    },
+    {
+        "name": "Olson, Dean",
+        "value": "5943"
+    },
+    {
+        "name": "Olson, Kenneth",
+        "value": "7307"
+    },
+    {
+        "name": "Olson, Luke",
+        "value": "8739"
+    },
+    {
+        "name": "Olson, Scott M.",
+        "value": "4149"
+    },
+    {
+        "name": "Orabi, Ahmed",
+        "value": "8693"
+    },
+    {
+        "name": "Orlean, Peter",
+        "value": "8157"
+    },
+    {
+        "name": "Ortiz, Lisa",
+        "value": "8121"
+    },
+    {
+        "name": "Oswald, Ramona",
+        "value": "8027"
+    },
+    {
+        "name": "Ouyang, Yanfeng",
+        "value": "4034"
+    },
+    {
+        "name": "Overcash, John",
+        "value": "7125"
+    },
+    {
+        "name": "Oyallon-Koloski, Jenny",
+        "value": "8734"
+    },
+    {
+        "name": "Ozer, Hasan",
+        "value": "8432"
+    },
+    {
+        "name": "Padua, David",
+        "value": "1517"
+    },
+    {
+        "name": "Pahre, Jennifer",
+        "value": "5715"
+    },
+    {
+        "name": "Pahre, Robert",
+        "value": "152"
+    },
+    {
+        "name": "Paik, Angela",
+        "value": "7760"
+    },
+    {
+        "name": "Pan, Dipanjan",
+        "value": "7545"
+    },
+    {
+        "name": "Pan, Yuan-Xiang",
+        "value": "5994"
+    },
+    {
+        "name": "Panesi, Marco",
+        "value": "6905"
+    },
+    {
+        "name": "Pantano-Rubino, Carlos",
+        "value": "4058"
+    },
+    {
+        "name": "Park, Hae-Won",
+        "value": "8543"
+    },
+    {
+        "name": "Parker, Gary",
+        "value": "5766"
+    },
+    {
+        "name": "Parker, Robert",
+        "value": "7985"
+    },
+    {
+        "name": "Patel, Sanjay",
+        "value": "6666"
+    },
+    {
+        "name": "Paul, John",
+        "value": "6013"
+    },
+    {
+        "name": "Paulino, Glaucio",
+        "value": "4106"
+    },
+    {
+        "name": "Pearlstein, Arne",
+        "value": "4691"
+    },
+    {
+        "name": "Peecher, Mark",
+        "value": "8526"
+    },
+    {
+        "name": "Peng, Jen-Chieh",
+        "value": "1102"
+    },
+    {
+        "name": "Perry, Nicola",
+        "value": "8795"
+    },
+    {
+        "name": "Perry, Richard",
+        "value": "6738"
+    },
+    {
+        "name": "Peschel, Joshua",
+        "value": "7108"
+    },
+    {
+        "name": "Petruzzello, Steven",
+        "value": "8068"
+    },
+    {
+        "name": "Philpott, Michael",
+        "value": "4538"
+    },
+    {
+        "name": "Piedra, Lissette",
+        "value": "2483"
+    },
+    {
+        "name": "Pilawa, Robert",
+        "value": "6401"
+    },
+    {
+        "name": "Pinkert, Anke",
+        "value": "1217"
+    },
+    {
+        "name": "Pollack, Timur",
+        "value": "8744"
+    },
+    {
+        "name": "Pool, Marcia A.",
+        "value": "7544"
+    },
+    {
+        "name": "Poole, Marshall",
+        "value": "4091"
+    },
+    {
+        "name": "Popescu, Gabriel",
+        "value": "6351"
+    },
+    {
+        "name": "Popovics, John",
+        "value": "2187"
+    },
+    {
+        "name": "Proulx, Jeff",
+        "value": "8326"
+    },
+    {
+        "name": "Punyasena, Surangi",
+        "value": "7244"
+    },
+    {
+        "name": "Quarton, John",
+        "value": "7570"
+    },
+    {
+        "name": "Rabin, Dana",
+        "value": "8722"
+    },
+    {
+        "name": "Radhakrishnan, Chandrasekhar",
+        "value": "6669"
+    },
+    {
+        "name": "Raffaellli, Marcela",
+        "value": "8003"
+    },
+    {
+        "name": "Ragheb, Magdi",
+        "value": "7282"
+    },
+    {
+        "name": "Raginsky, Maxim",
+        "value": "8799"
+    },
+    {
+        "name": "Raquel, Steve",
+        "value": "8656"
+    },
+    {
+        "name": "Rauber, Robert",
+        "value": "4163"
+    },
+    {
+        "name": "Rauchfuss, Thomas",
+        "value": "171"
+    },
+    {
+        "name": "Rausch, Kent",
+        "value": "7420"
+    },
+    {
+        "name": "Ray, Christian R.",
+        "value": "7161"
+    },
+    {
+        "name": "Reagan, Leslie",
+        "value": "7761"
+    },
+    {
+        "name": "Reckard, Bryan",
+        "value": "8665"
+    },
+    {
+        "name": "Reedy, Melissa",
+        "value": "4278"
+    },
+    {
+        "name": "Reis, Henrique",
+        "value": "4365"
+    },
+    {
+        "name": "Reisner, Ann",
+        "value": "803"
+    },
+    {
+        "name": "Ribot, Jesse",
+        "value": "5387"
+    },
+    {
+        "name": "Ricker, Paul",
+        "value": "5174"
+    },
+    {
+        "name": "Riemer, Nicole",
+        "value": "6382"
+    },
+    {
+        "name": "Rienstra, Chad",
+        "value": "521"
+    },
+    {
+        "name": "Rinaldi-Miles, Anna",
+        "value": "6829"
+    },
+    {
+        "name": "Ritten, Kathi",
+        "value": "8085"
+    },
+    {
+        "name": "Ritter, Ellen",
+        "value": "6555"
+    },
+    {
+        "name": "Rivier, David",
+        "value": "5169"
+    },
+    {
+        "name": "Rockett, Angus",
+        "value": "1071"
+    },
+    {
+        "name": "Rodriguez, Emily",
+        "value": "8666"
+    },
+    {
+        "name": "Rodriguez, Lulu",
+        "value": "7933"
+    },
+    {
+        "name": "Rodriguez Lopez, Joaquin",
+        "value": "7231"
+    },
+    {
+        "name": "Romero, Lisa",
+        "value": "5280"
+    },
+    {
+        "name": "Rood, Mark",
+        "value": "5764"
+    },
+    {
+        "name": "Rosenbaum, Elyse",
+        "value": "811"
+    },
+    {
+        "name": "Rosenblatt, Karin",
+        "value": "436"
+    },
+    {
+        "name": "Rosenthal, Lisa",
+        "value": "4635"
+    },
+    {
+        "name": "Rosu, Grigore",
+        "value": "1497"
+    },
+    {
+        "name": "Roy, William",
+        "value": "3015"
+    },
+    {
+        "name": "Rudolph, Karen",
+        "value": "3983"
+    },
+    {
+        "name": "Ruiz-Rodriguez, Christina",
+        "value": "8458"
+    },
+    {
+        "name": "Ruppert, Conrad",
+        "value": "7525"
+    },
+    {
+        "name": "Ruzic, David",
+        "value": "1060"
+    },
+    {
+        "name": "Saif, M. Taher",
+        "value": "7937"
+    },
+    {
+        "name": "Salapaka, Srinivasa",
+        "value": "4652"
+    },
+    {
+        "name": "Sandefur, Rebecca",
+        "value": "8709"
+    },
+    {
+        "name": "Sanders, Kirk",
+        "value": "7819"
+    },
+    {
+        "name": "Sanders, William",
+        "value": "919"
+    },
+    {
+        "name": "Santens, Ryan",
+        "value": "8748"
+    },
+    {
+        "name": "Sar, Sela",
+        "value": "6988"
+    },
+    {
+        "name": "Sarlah, David",
+        "value": "8577"
+    },
+    {
+        "name": "Savonius-Wroth, Sami-Juhani",
+        "value": "8704"
+    },
+    {
+        "name": "Schleife, Andre",
+        "value": "7590"
+    },
+    {
+        "name": "Schmidt, Arthur R.",
+        "value": "1180"
+    },
+    {
+        "name": "Schmitz, Christopher",
+        "value": "3711"
+    },
+    {
+        "name": "Schroeder, Charles",
+        "value": "5002"
+    },
+    {
+        "name": "Schulten, Klaus",
+        "value": "972"
+    },
+    {
+        "name": "Schutt-Aine, Jose",
+        "value": "3188"
+    },
+    {
+        "name": "Schwartz, Rachel",
+        "value": "8381"
+    },
+    {
+        "name": "Schweizer, Kenneth",
+        "value": "180"
+    },
+    {
+        "name": "Schwing, Alexander",
+        "value": "8562"
+    },
+    {
+        "name": "Scott, Nehemiah",
+        "value": "8074"
+    },
+    {
+        "name": "Sears, Staci",
+        "value": "8738"
+    },
+    {
+        "name": "Seebauer,",
+        "value": "8060"
+    },
+    {
+        "name": "Sehitoglu, Huseyin",
+        "value": "5798"
+    },
+    {
+        "name": "Selig, Michael",
+        "value": "2284"
+    },
+    {
+        "name": "Selvin, Paul",
+        "value": "4694"
+    },
+    {
+        "name": "Sen, Sushobhan",
+        "value": "8586"
+    },
+    {
+        "name": "Shabbir, Muhammad",
+        "value": "6222"
+    },
+    {
+        "name": "Shaffer, Eric Gene",
+        "value": "6391"
+    },
+    {
+        "name": "Shafiee Jood, Majid",
+        "value": "8780"
+    },
+    {
+        "name": "Shang, Jian Ku",
+        "value": "268"
+    },
+    {
+        "name": "Shapiro, Stuart",
+        "value": "536"
+    },
+    {
+        "name": "Sheets, Diana",
+        "value": "7703"
+    },
+    {
+        "name": "Sheldon, Peter",
+        "value": "2588"
+    },
+    {
+        "name": "Shelton, Julia F.",
+        "value": "7354"
+    },
+    {
+        "name": "Shen, Yue",
+        "value": "8815"
+    },
+    {
+        "name": "Shenouda, Christine",
+        "value": "7612"
+    },
+    {
+        "name": "Sherburne, Matthew",
+        "value": "6755"
+    },
+    {
+        "name": "Shinew, Kimberly",
+        "value": "2407"
+    },
+    {
+        "name": "Shoemaker, Daniel Philip",
+        "value": "7280"
+    },
+    {
+        "name": "Shosted, Ryan",
+        "value": "4468"
+    },
+    {
+        "name": "Shukla, Diwakar",
+        "value": "8090"
+    },
+    {
+        "name": "Sickles, Anne",
+        "value": "8318"
+    },
+    {
+        "name": "Sievers, Dane",
+        "value": "8682"
+    },
+    {
+        "name": "Silvers, Michael",
+        "value": "8783"
+    },
+    {
+        "name": "Silvey, Philip",
+        "value": "401"
+    },
+    {
+        "name": "Simakovich, Yuliya",
+        "value": "8669"
+    },
+    {
+        "name": "Simmons,, F. Williams",
+        "value": "7356"
+    },
+    {
+        "name": "Sing,",
+        "value": "8061"
+    },
+    {
+        "name": "Singer, Andrew",
+        "value": "4348"
+    },
+    {
+        "name": "Singer, Cliff",
+        "value": "5219"
+    },
+    {
+        "name": "Sivapalan, Murugesu",
+        "value": "8789"
+    },
+    {
+        "name": "Smist, Jennifer",
+        "value": "8018"
+    },
+    {
+        "name": "Smith, Andrew M.",
+        "value": "7363"
+    },
+    {
+        "name": "Smith, Kyle",
+        "value": "7759"
+    },
+    {
+        "name": "Smith-Bolton, Rachel",
+        "value": "7400"
+    },
+    {
+        "name": "Snir, Marc",
+        "value": "5782"
+    },
+    {
+        "name": "Snodgrass, Eric",
+        "value": "6223"
+    },
+    {
+        "name": "Sodomyschenko, Georganne",
+        "value": "8672"
+    },
+    {
+        "name": "Sofronis, Petros",
+        "value": "1718"
+    },
+    {
+        "name": "Sohn, Mariana Silva",
+        "value": "6711"
+    },
+    {
+        "name": "Solis, Gabriel",
+        "value": "653"
+    },
+    {
+        "name": "Song, Xiaodong",
+        "value": "409"
+    },
+    {
+        "name": "Sosnoff, Jacob",
+        "value": "3862"
+    },
+    {
+        "name": "Sotirovic, Mira",
+        "value": "6233"
+    },
+    {
+        "name": "Sottos, Nancy",
+        "value": "1496"
+    },
+    {
+        "name": "Sougiannis, Theodore",
+        "value": "3096"
+    },
+    {
+        "name": "Sowers, Richard",
+        "value": "6722"
+    },
+    {
+        "name": "Spencer, Billie",
+        "value": "5768"
+    },
+    {
+        "name": "Spencer, Gayle",
+        "value": "8124"
+    },
+    {
+        "name": "Srikant, Rayadurgam",
+        "value": "2934"
+    },
+    {
+        "name": "Stallmeyer, John",
+        "value": "8719"
+    },
+    {
+        "name": "Starzewski, Martin",
+        "value": "5808"
+    },
+    {
+        "name": "Stelzer, Timothy",
+        "value": "1584"
+    },
+    {
+        "name": "Stenger, Alejandra",
+        "value": "4460"
+    },
+    {
+        "name": "Stenport, Anna",
+        "value": "3337"
+    },
+    {
+        "name": "Stephani, Kelly",
+        "value": "7539"
+    },
+    {
+        "name": "Sternburg, Thomas (Tom)",
+        "value": "26"
+    },
+    {
+        "name": "Stevens, Danielle",
+        "value": "8787"
+    },
+    {
+        "name": "Steward, Dan",
+        "value": "5909"
+    },
+    {
+        "name": "Stewart, Michael",
+        "value": "2070"
+    },
+    {
+        "name": "Stillwell, Ashlynn",
+        "value": "7745"
+    },
+    {
+        "name": "Stock, Ryan",
+        "value": "8571"
+    },
+    {
+        "name": "Stoddard, Paul",
+        "value": "1341"
+    },
+    {
+        "name": "Stoddard, Paul",
+        "value": "7765"
+    },
+    {
+        "name": "Stole, Inger",
+        "value": "8691"
+    },
+    {
+        "name": "Stone, Michael",
+        "value": "2961"
+    },
+    {
+        "name": "Sun, Ruoyu",
+        "value": "8807"
+    },
+    {
+        "name": "Sun, Yuanyuan",
+        "value": "8790"
+    },
+    {
+        "name": "Suski, Cory",
+        "value": "8688"
+    },
+    {
+        "name": "Suslick, Ken",
+        "value": "5314"
+    },
+    {
+        "name": "Sutton, Brad",
+        "value": "5223"
+    },
+    {
+        "name": "Sydnor, Synthia",
+        "value": "2755"
+    },
+    {
+        "name": "Tappenden, Kelly",
+        "value": "8580"
+    },
+    {
+        "name": "Tawfick, Sameh",
+        "value": "7277"
+    },
+    {
+        "name": "Teper, Jennifer",
+        "value": "8782"
+    },
+    {
+        "name": "TerBush, Jessica",
+        "value": "8763"
+    },
+    {
+        "name": "Thomas, Brian",
+        "value": "1092"
+    },
+    {
+        "name": "Thompson-Spires, Nafissa",
+        "value": "8710"
+    },
+    {
+        "name": "Thurston, Deborah",
+        "value": "5025"
+    },
+    {
+        "name": "Tierney, Therese",
+        "value": "8718"
+    },
+    {
+        "name": "Tipei, Sever",
+        "value": "320"
+    },
+    {
+        "name": "Toller-Clark, Ian",
+        "value": "8673"
+    },
+    {
+        "name": "Tomkin, Jonathan",
+        "value": "8603"
+    },
+    {
+        "name": "Torrellas, Josep",
+        "value": "8116"
+    },
+    {
+        "name": "Tran, Huy",
+        "value": "8535"
+    },
+    {
+        "name": "Tranel, Patrick",
+        "value": "8034"
+    },
+    {
+        "name": "Trapp, R. Jeffrey",
+        "value": "7736"
+    },
+    {
+        "name": "Travis, Lisa",
+        "value": "3618"
+    },
+    {
+        "name": "Treat, James",
+        "value": "3249"
+    },
+    {
+        "name": "Trinh, Linda",
+        "value": "8456"
+    },
+    {
+        "name": "Tsitsaros, Christos",
+        "value": "322"
+    },
+    {
+        "name": "Tu, Kelly",
+        "value": "8428"
+    },
+    {
+        "name": "Tutumluer, Erol",
+        "value": "1785"
+    },
+    {
+        "name": "Tylus-Reynolds, Tobias",
+        "value": "8564"
+    },
+    {
+        "name": "Tzanetou, Angeliki",
+        "value": "3072"
+    },
+    {
+        "name": "Uddin, Rizwan",
+        "value": "931"
+    },
+    {
+        "name": "Vaidya, Nitin H.",
+        "value": "916"
+    },
+    {
+        "name": "Vakakis, Alexander F.",
+        "value": "5683"
+    },
+    {
+        "name": "Valkanova, Dora",
+        "value": "8137"
+    },
+    {
+        "name": "Van Der Donk, Wilfred",
+        "value": "6246"
+    },
+    {
+        "name": "Vargas, Patrick",
+        "value": "3005"
+    },
+    {
+        "name": "Varodayan, David",
+        "value": "7047"
+    },
+    {
+        "name": "Varshney, Lav",
+        "value": "7234"
+    },
+    {
+        "name": "Vazquez, Oscar",
+        "value": "7986"
+    },
+    {
+        "name": "Veeravalli, Venugopal",
+        "value": "8295"
+    },
+    {
+        "name": "Verma, Vishal",
+        "value": "8557"
+    },
+    {
+        "name": "Vieira, Joaquin",
+        "value": "7212"
+    },
+    {
+        "name": "Vishveshwara, Smitha",
+        "value": "4953"
+    },
+    {
+        "name": "Vlasov, Yurii",
+        "value": "8485"
+    },
+    {
+        "name": "Vogel, Troy",
+        "value": "6251"
+    },
+    {
+        "name": "Volipini, Francesco",
+        "value": "8778"
+    },
+    {
+        "name": "Wagoner Johnson, Amy",
+        "value": "8162"
+    },
+    {
+        "name": "Waldrop, Lara",
+        "value": "6400"
+    },
+    {
+        "name": "Wang, Ning",
+        "value": "5756"
+    },
+    {
+        "name": "Wang, Pingfeng",
+        "value": "8781"
+    },
+    {
+        "name": "Wang, Qiong",
+        "value": "6914"
+    },
+    {
+        "name": "Wang, Yang",
+        "value": "8733"
+    },
+    {
+        "name": "Wang, Zhuo",
+        "value": "6346"
+    },
+    {
+        "name": "Warnow, Tandy",
+        "value": "8539"
+    },
+    {
+        "name": "Weickum, Nikki",
+        "value": "8354"
+    },
+    {
+        "name": "Weissman, Terri",
+        "value": "4900"
+    },
+    {
+        "name": "Westbrook, Jesse",
+        "value": "8670"
+    },
+    {
+        "name": "White, M. Christina",
+        "value": "4911"
+    },
+    {
+        "name": "Williams, Sarah",
+        "value": "8627"
+    },
+    {
+        "name": "Wilson, Roderick",
+        "value": "6959"
+    },
+    {
+        "name": "Wilson, Sam",
+        "value": "8644"
+    },
+    {
+        "name": "Wilson, Steven",
+        "value": "8419"
+    },
+    {
+        "name": "Wirtz, John",
+        "value": "7433"
+    },
+    {
+        "name": "Wise, Kevin",
+        "value": "7518"
+    },
+    {
+        "name": "Wiss, James",
+        "value": "3512"
+    },
+    {
+        "name": "Wissa, Aimy",
+        "value": "8800"
+    },
+    {
+        "name": "Witmer, Ann-Perry",
+        "value": "8482"
+    },
+    {
+        "name": "Wong, Cara",
+        "value": "4441"
+    },
+    {
+        "name": "Wong, Tony",
+        "value": "4943"
+    },
+    {
+        "name": "Work, Daniel",
+        "value": "6385"
+    },
+    {
+        "name": "Wright, Charles",
+        "value": "7444"
+    },
+    {
+        "name": "Wu, Yihong",
+        "value": "7049"
+    },
+    {
+        "name": "Xie, Tao",
+        "value": "7547"
+    },
+    {
+        "name": "Xu, Yilan",
+        "value": "8220"
+    },
+    {
+        "name": "Yan, Su",
+        "value": "8445"
+    },
+    {
+        "name": "Yang, Hong",
+        "value": "6655"
+    },
+    {
+        "name": "Yang, Liang",
+        "value": "8771"
+    },
+    {
+        "name": "Yang, Wendy",
+        "value": "8784"
+    },
+    {
+        "name": "Yeung, Ann",
+        "value": "2453"
+    },
+    {
+        "name": "Zhan, Min",
+        "value": "5668"
+    },
+    {
+        "name": "Zhang, Jinming",
+        "value": "8779"
+    },
+    {
+        "name": "Zhang, Li",
+        "value": "8393"
+    },
+    {
+        "name": "Zhang, Yang",
+        "value": "6862"
+    },
+    {
+        "name": "Zhang, Yingjie",
+        "value": "8785"
+    },
+    {
+        "name": "Zhao, Huimin",
+        "value": "85"
+    },
+    {
+        "name": "Zhao, Rui",
+        "value": "7667"
+    },
+    {
+        "name": "Zhao, Zhizhen",
+        "value": "8563"
+    },
+    {
+        "name": "Zhou, Dan",
+        "value": "8702"
+    },
+    {
+        "name": "Zhu, Wenjuan",
+        "value": "7786"
+    },
+    {
+        "name": "Zilles, Craig",
+        "value": "4037"
+    },
+    {
+        "name": "Zilles, Julie",
+        "value": "3276"
+    },
+    {
+        "name": "Zola, David",
+        "value": "7405"
+    },
+    {
+        "name": "Zuo, Jian-Min",
+        "value": "2125"
+    },
+    {
+        "name": "de Flamingh, Alida",
+        "value": "8471"
+    }
+]

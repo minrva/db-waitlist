@@ -1,0 +1,5286 @@
+[
+    {
+        "name": "No Course",
+        "value": ""
+    },
+    {
+        "name": "AAS:100:Intro Asian American Studies",
+        "value": "12475"
+    },
+    {
+        "name": "AAS:390:Intermed Topics Asian Am St",
+        "value": "8047"
+    },
+    {
+        "name": "ABE:440:Applied Statistical Methods 1",
+        "value": "7201"
+    },
+    {
+        "name": "ABE:483:Engrg Properties of Food Matls",
+        "value": "11981"
+    },
+    {
+        "name": "ACCY:201:Accounting and Accountancy I",
+        "value": "7845"
+    },
+    {
+        "name": "ACCY:301:Atg Measurement & Disclosure",
+        "value": "2699"
+    },
+    {
+        "name": "ACCY:303:Atg Institutions and Reg",
+        "value": "7096"
+    },
+    {
+        "name": "ACCY:312:Principles of Taxation",
+        "value": "29"
+    },
+    {
+        "name": "ACCY:405:Assurance and Attestation",
+        "value": "4237"
+    },
+    {
+        "name": "ACCY:415:Auditing Standards & Practice",
+        "value": "7518"
+    },
+    {
+        "name": "ACCY:451:Advanced Income Tax Problems",
+        "value": "12727"
+    },
+    {
+        "name": "ACCY:500:Atg Measuremnt, Rpting & Cntrl",
+        "value": "7366"
+    },
+    {
+        "name": "ACCY:502:Accounting Analysis II",
+        "value": "12624"
+    },
+    {
+        "name": "ACCY:504:Auditing",
+        "value": "7101"
+    },
+    {
+        "name": "ACCY:505:Federal Taxation",
+        "value": "8130"
+    },
+    {
+        "name": "ACCY:515:Auditing & Assurance Standards",
+        "value": "8642"
+    },
+    {
+        "name": "ACCY:556:Tax Research",
+        "value": "12847"
+    },
+    {
+        "name": "ACE:222:Agricultural Marketing",
+        "value": "11326"
+    },
+    {
+        "name": "ACE:240:Personal Finance Planning",
+        "value": "8516"
+    },
+    {
+        "name": "ACE:255:Economics of US Rural Poverty and Develo",
+        "value": "1951"
+    },
+    {
+        "name": "ACE:310:Natural Resource Economics",
+        "value": "8946"
+    },
+    {
+        "name": "ACE:406:Environmental Law",
+        "value": "10427"
+    },
+    {
+        "name": "ACES CLC:ACES Collaborative Learning Center (CLC)",
+        "value": "12928"
+    },
+    {
+        "name": "ACES Libr:ACES:PERM",
+        "value": "12439"
+    },
+    {
+        "name": "ACES:509:Perm Reserve Clickers and Case",
+        "value": "11199"
+    },
+    {
+        "name": "ADV:199:Undergraduate Open Seminar",
+        "value": "9186"
+    },
+    {
+        "name": "ADV:281:Advertising Research Methods",
+        "value": "11905"
+    },
+    {
+        "name": "ADV:283:Advertising and Brand Strategy",
+        "value": "12750"
+    },
+    {
+        "name": "ADV:284:Consumer Insight",
+        "value": "11960"
+    },
+    {
+        "name": "ADV:310:Intro to Public Relations",
+        "value": "11940"
+    },
+    {
+        "name": "ADV:350:Writing for Public Relations",
+        "value": "10602"
+    },
+    {
+        "name": "ADV:390:Content Creation",
+        "value": "11660"
+    },
+    {
+        "name": "ADV:409:Media Entrepreneurship",
+        "value": "12457"
+    },
+    {
+        "name": "ADV:410:Workplace Comm Technology",
+        "value": "12486"
+    },
+    {
+        "name": "ADV:452:Creative Concepts I",
+        "value": "12081"
+    },
+    {
+        "name": "ADV:460:Innovation in Advertising",
+        "value": "12642"
+    },
+    {
+        "name": "ADV:482:Qualitative Analysis in Advertising",
+        "value": "12605"
+    },
+    {
+        "name": "ADV:483:Audience Analysis",
+        "value": "4220"
+    },
+    {
+        "name": "ADV:580:Advertising Theory",
+        "value": "10839"
+    },
+    {
+        "name": "ADV:582:Qualitative Research in Advertising",
+        "value": "12850"
+    },
+    {
+        "name": "ADV:598:Professional Project",
+        "value": "11751"
+    },
+    {
+        "name": "AE:100:Introduction to Aerospace Engineering",
+        "value": "6683"
+    },
+    {
+        "name": "AE:100HAB:High-Altitude Ballooning",
+        "value": "12524"
+    },
+    {
+        "name": "AE:199:Undergraduate Open Seminar",
+        "value": "12522"
+    },
+    {
+        "name": "AE:199CD:Computer-Aided Design",
+        "value": "12523"
+    },
+    {
+        "name": "AE:202:Aerospace Flight Mechanics",
+        "value": "10968"
+    },
+    {
+        "name": "AE:311:Incompressible Flow",
+        "value": "2586"
+    },
+    {
+        "name": "AE:312:Compressible Flow",
+        "value": "4736"
+    },
+    {
+        "name": "AE:321:Mechs of Aerospace Structures",
+        "value": "260"
+    },
+    {
+        "name": "AE:323:Applied Aerospace Structures",
+        "value": "10969"
+    },
+    {
+        "name": "AE:352:Aerospace Dynamical Systems",
+        "value": "8161"
+    },
+    {
+        "name": "AE:353:Aerospace Control Systems",
+        "value": "8455"
+    },
+    {
+        "name": "AE:370:Aerospace Numerical Methods",
+        "value": "10973"
+    },
+    {
+        "name": "AE:402:Orbital Mechanics",
+        "value": "7257"
+    },
+    {
+        "name": "AE:403:Spacecraft Attitude Control",
+        "value": "4399"
+    },
+    {
+        "name": "AE:410:Computational Aerodynamics",
+        "value": "4393"
+    },
+    {
+        "name": "AE:412:Viscous Flow and Heat Transfer",
+        "value": "6406"
+    },
+    {
+        "name": "AE:416:Applied Aerodynamics",
+        "value": "245"
+    },
+    {
+        "name": "AE:419:Aircraft Flight Mechanics",
+        "value": "4400"
+    },
+    {
+        "name": "AE:420:Finite Element Analysis",
+        "value": "7655"
+    },
+    {
+        "name": "AE:428:Mechanics of Composites",
+        "value": "2192"
+    },
+    {
+        "name": "AE:433:Aerospace Propulsion",
+        "value": "329"
+    },
+    {
+        "name": "AE:434:Rocket Propulsion",
+        "value": "4808"
+    },
+    {
+        "name": "AE:435:Electric Propulsion",
+        "value": "9467"
+    },
+    {
+        "name": "AE:442:Aerospace Systems Design I",
+        "value": "10910"
+    },
+    {
+        "name": "AE:442A1:Aircraft Section - Aerospace Sys Design",
+        "value": "12304"
+    },
+    {
+        "name": "AE:442S1:Spacecraft Section -Aerospace Sys Design",
+        "value": "12305"
+    },
+    {
+        "name": "AE:443:Aerospace Systems Design II",
+        "value": "10967"
+    },
+    {
+        "name": "AE:451:Aeroelasticity",
+        "value": "9468"
+    },
+    {
+        "name": "AE:454:Systems Dynamics and Control",
+        "value": "9469"
+    },
+    {
+        "name": "AE:456:Global Nav. Satellite Systems",
+        "value": "11795"
+    },
+    {
+        "name": "AE:468:Optical Remote Sensing",
+        "value": "9470"
+    },
+    {
+        "name": "AE:482:Introduction to Robotics",
+        "value": "9472"
+    },
+    {
+        "name": "AE:498:Special Topics",
+        "value": "6570"
+    },
+    {
+        "name": "AE:498CSE:Comp Methods for Sys Engr",
+        "value": "12733"
+    },
+    {
+        "name": "AE:498SPE:Spacecraft Environment",
+        "value": "12093"
+    },
+    {
+        "name": "AE:504:Optimal Aerospace Systems",
+        "value": "7965"
+    },
+    {
+        "name": "AE:510:Advanced Gas Dynamics",
+        "value": "9114"
+    },
+    {
+        "name": "AE:521:Fracture and Fatigue",
+        "value": "10902"
+    },
+    {
+        "name": "AE:528:Nonlinear Continuous Media",
+        "value": "6407"
+    },
+    {
+        "name": "AE:538:Combustion Fundamentals",
+        "value": "7569"
+    },
+    {
+        "name": "AE:543:Aerospace Syst Engineering II",
+        "value": "11323"
+    },
+    {
+        "name": "AE:583:Advanced Robotic Planning",
+        "value": "9482"
+    },
+    {
+        "name": "AE:598:Special Topics in Aerospace Engineering",
+        "value": "9956"
+    },
+    {
+        "name": "AE:598UQ:Uncertainty Quantification",
+        "value": "12470"
+    },
+    {
+        "name": "AFRO:411:African American Psychology",
+        "value": "4845"
+    },
+    {
+        "name": "AFRO:421:Racial and Ethnic Families",
+        "value": "10945"
+    },
+    {
+        "name": "AFRO:481:Urban Communities & Public Pol",
+        "value": "12003"
+    },
+    {
+        "name": "AFRO:482:Immersion Journalism",
+        "value": "12680"
+    },
+    {
+        "name": "AGCM:199:Undergraduate Open Seminar",
+        "value": "12328"
+    },
+    {
+        "name": "AGCM:220:Communicating Agriculture",
+        "value": "12485"
+    },
+    {
+        "name": "AGCM:320:Public Information Campaigns",
+        "value": "12488"
+    },
+    {
+        "name": "AGED:260:Intro to Leadership Studies",
+        "value": "9197"
+    },
+    {
+        "name": "ANSC:207:Companion Animal Biology & Care",
+        "value": "8575"
+    },
+    {
+        "name": "ANSC:440:Applied Statistical Methods 1",
+        "value": "7200"
+    },
+    {
+        "name": "ANTH: 515:ANTH: 515 Performance Studies",
+        "value": "12854"
+    },
+    {
+        "name": "ANTH:143:Biology of Human Behavior",
+        "value": "2171"
+    },
+    {
+        "name": "ANTH:220:Introduction to Archaeology",
+        "value": "1090"
+    },
+    {
+        "name": "ANTH:230:Sociocultural Anthropology",
+        "value": "6917"
+    },
+    {
+        "name": "ANTH:399:Special Topics",
+        "value": "12865"
+    },
+    {
+        "name": "ANTH:436:Biogeography",
+        "value": "9420"
+    },
+    {
+        "name": "ANTH:451:Archaeological Surveying",
+        "value": "8599"
+    },
+    {
+        "name": "ARCH 490:Architecture, Environment & Global Healt",
+        "value": "12918"
+    },
+    {
+        "name": "ARCH 536:Planning and Design of Structural System",
+        "value": "12904"
+    },
+    {
+        "name": "ARCH: 321:Environment, Architecture & Global Healt",
+        "value": "12915"
+    },
+    {
+        "name": "ARCH: 571:Design: Detail and Architectonics",
+        "value": "12917"
+    },
+    {
+        "name": "ARCH: 573:Design: Technology and Performance",
+        "value": "12919"
+    },
+    {
+        "name": "ARCH: 576:Experimental Envelopes",
+        "value": "12863"
+    },
+    {
+        "name": "ARCH: 577:Theories of Architecture",
+        "value": "12864"
+    },
+    {
+        "name": "ARCH:101:Introduction to Architecture",
+        "value": "10966"
+    },
+    {
+        "name": "ARCH:222:Islamic Gardens & Architecture",
+        "value": "11410"
+    },
+    {
+        "name": "ARCH:412:Medieval Architecture",
+        "value": "3323"
+    },
+    {
+        "name": "ARCH:423:Soc/Beh Factors for Design",
+        "value": "6343"
+    },
+    {
+        "name": "ARCH:424:Gender & Race in Contemp Arch",
+        "value": "4158"
+    },
+    {
+        "name": "ARCH:576:Architectural Design Seminar",
+        "value": "6418"
+    },
+    {
+        "name": "ARTH: 115:Art in a Global Context",
+        "value": "12884"
+    },
+    {
+        "name": "ARTH: 231:Northern Renaissance Art",
+        "value": "12845"
+    },
+    {
+        "name": "ARTH: 260:Graffiti, Murals and Public Spaces",
+        "value": "12887"
+    },
+    {
+        "name": "ARTH:250:American Art",
+        "value": "7310"
+    },
+    {
+        "name": "ARTH:447:France and Its Others",
+        "value": "6428"
+    },
+    {
+        "name": "ARTH:535:Seminar in Baroque Art",
+        "value": "7652"
+    },
+    {
+        "name": "ARTH:593:Theory and Methodology",
+        "value": "7327"
+    },
+    {
+        "name": "ASTR:100:Introduction to Astronomy",
+        "value": "5604"
+    },
+    {
+        "name": "ASTR:122:Stars and Galaxies",
+        "value": "8900"
+    },
+    {
+        "name": "ASTR:150:Killer Skies: Astro-Disasters",
+        "value": "9486"
+    },
+    {
+        "name": "ASTR:350:Introduction to Cosmology",
+        "value": "6725"
+    },
+    {
+        "name": "ASTR:404:Stellar Astrophysics",
+        "value": "6666"
+    },
+    {
+        "name": "ASTR:405:Planetary Systems",
+        "value": "9487"
+    },
+    {
+        "name": "ASTR:406:Galaxies and the Universe",
+        "value": "9488"
+    },
+    {
+        "name": "ASTR:414:Astronomical Techniques",
+        "value": "5559"
+    },
+    {
+        "name": "ASTR:501:Radiative Processes",
+        "value": "11420"
+    },
+    {
+        "name": "ASTR:502:Astrophysical Dynamics",
+        "value": "4303"
+    },
+    {
+        "name": "ASTR:503:Observational Astronomy",
+        "value": "9491"
+    },
+    {
+        "name": "ASTR:506:Galaxies",
+        "value": "11245"
+    },
+    {
+        "name": "ASTR:507:Physical Cosmology",
+        "value": "10978"
+    },
+    {
+        "name": "ASTR:515:General Relativity I",
+        "value": "9064"
+    },
+    {
+        "name": "ASTR:516:General Relativity II",
+        "value": "9492"
+    },
+    {
+        "name": "ASTR:540:Astrophysics",
+        "value": "9115"
+    },
+    {
+        "name": "ASTR:541:Physics of Compact Objects",
+        "value": "6890"
+    },
+    {
+        "name": "ATMS:100:Introduction to Meteorology",
+        "value": "4312"
+    },
+    {
+        "name": "ATMS:120:Severe and Hazardous Weather",
+        "value": "7061"
+    },
+    {
+        "name": "ATMS:301:Atmospheric Thermodynamics",
+        "value": "9495"
+    },
+    {
+        "name": "ATMS:302:Atmospheric Dynamics I",
+        "value": "9496"
+    },
+    {
+        "name": "ATMS:303:Synoptic-Dynamic Weather Analysis",
+        "value": "9497"
+    },
+    {
+        "name": "ATMS:304:Radiative Transfer-Remote Sens",
+        "value": "9498"
+    },
+    {
+        "name": "ATMS:305:Computing and Data Analysis",
+        "value": "9499"
+    },
+    {
+        "name": "ATMS:306:Cloud Physics",
+        "value": "9500"
+    },
+    {
+        "name": "ATMS:307:Climate Processes",
+        "value": "10980"
+    },
+    {
+        "name": "ATMS:312:Atmospheric Dynamics II",
+        "value": "9501"
+    },
+    {
+        "name": "ATMS:313:Synoptic Weather Forecasting",
+        "value": "9502"
+    },
+    {
+        "name": "ATMS:314:Mesoscale Dynamics",
+        "value": "9503"
+    },
+    {
+        "name": "ATMS:323:Air Pollution to Global Change",
+        "value": "11422"
+    },
+    {
+        "name": "ATMS:405:Boundary Layer Processes",
+        "value": "9504"
+    },
+    {
+        "name": "ATMS:411:Satellite Remote Sensing",
+        "value": "5562"
+    },
+    {
+        "name": "ATMS:425:Air Quality Modeling",
+        "value": "9509"
+    },
+    {
+        "name": "ATMS:446:Climate & Social Vulnerability",
+        "value": "10713"
+    },
+    {
+        "name": "ATMS:501:Mesoscale Meteorology",
+        "value": "9516"
+    },
+    {
+        "name": "ATMS:504:Physical Meteorology",
+        "value": "9518"
+    },
+    {
+        "name": "ATMS:505:Weather Systems",
+        "value": "9519"
+    },
+    {
+        "name": "ATMS:507:Climate Dynamics",
+        "value": "10982"
+    },
+    {
+        "name": "ATMS:510:Precipitation Physics",
+        "value": "9520"
+    },
+    {
+        "name": "ATMS:535:Aerosol Sampling and Analysis",
+        "value": "9526"
+    },
+    {
+        "name": "ATMS:597:Special Topics in Atmos Sci",
+        "value": "6910"
+    },
+    {
+        "name": "ATMS:597JT:Mesoscale Meteorology II",
+        "value": "12185"
+    },
+    {
+        "name": "AVI:358:Human Factors",
+        "value": "6801"
+    },
+    {
+        "name": "BADM:261:Technology and Management Seminar",
+        "value": "12033"
+    },
+    {
+        "name": "BADM:378:Logistics Management",
+        "value": "8278"
+    },
+    {
+        "name": "BADM:380:International Business",
+        "value": "8647"
+    },
+    {
+        "name": "BADM:381:Multinational Management",
+        "value": "10221"
+    },
+    {
+        "name": "BADM:446:Entrepreneurship Sm Bus Form",
+        "value": "7805"
+    },
+    {
+        "name": "BADM:449:Business Policy and Strategy",
+        "value": "8982"
+    },
+    {
+        "name": "BADM:582:Multinational Management",
+        "value": "9069"
+    },
+    {
+        "name": "BIOC:440A:Physical Chemistry Principles",
+        "value": "8801"
+    },
+    {
+        "name": "BIOC:455:Technqs Biochem & Biotech",
+        "value": "3613"
+    },
+    {
+        "name": "BIOE:201:Conservation Principles Bioengineering",
+        "value": "9553"
+    },
+    {
+        "name": "BIOE:202:Cell & Tissue Engineering Lab",
+        "value": "8431"
+    },
+    {
+        "name": "BIOE:205:Signals & Systems in Bioengineering",
+        "value": "9554"
+    },
+    {
+        "name": "BIOE:206:Cellular Bioengineering",
+        "value": "11268"
+    },
+    {
+        "name": "BIOE:220:Bioenergetics",
+        "value": "11796"
+    },
+    {
+        "name": "BIOE:298:Special Topics",
+        "value": "5947"
+    },
+    {
+        "name": "BIOE:298DP:Nanotechnology: Risks & Promise",
+        "value": "12021"
+    },
+    {
+        "name": "BIOE:298MF:Analytical Tools for BIOE",
+        "value": "12569"
+    },
+    {
+        "name": "BIOE:298TW:Intro Bioinformatics for BIOE",
+        "value": "12734"
+    },
+    {
+        "name": "BIOE:302:Modeling Human Physiology",
+        "value": "8569"
+    },
+    {
+        "name": "BIOE:310:Comp. Tools Bio. Data",
+        "value": "11797"
+    },
+    {
+        "name": "BIOE:380:Biomedical Imaging",
+        "value": "9556"
+    },
+    {
+        "name": "BIOE:414:Biomedical Instrumentation",
+        "value": "4348"
+    },
+    {
+        "name": "BIOE:415:Biomedical Instrumentation Lab",
+        "value": "4481"
+    },
+    {
+        "name": "BIOE:461:Cellular Biomechanics",
+        "value": "9559"
+    },
+    {
+        "name": "BIOE:467:Biophotonics",
+        "value": "9560"
+    },
+    {
+        "name": "BIOE:473:Biomaterials Laboratory",
+        "value": "9561"
+    },
+    {
+        "name": "BIOE:479:Cancer Nanotechnology",
+        "value": "12369"
+    },
+    {
+        "name": "BIOE:480:Magnetic Resonance Imaging",
+        "value": "9563"
+    },
+    {
+        "name": "BIOE:481:Whole-Body Musculoskel Biomechanics",
+        "value": "9564"
+    },
+    {
+        "name": "BIOE:498:Special Topics in Bioengineering",
+        "value": "1597"
+    },
+    {
+        "name": "BIOE:498BN:App in Cancer and MechanoBio",
+        "value": "10861"
+    },
+    {
+        "name": "BIOE:498DP:Imaging & Therapeutic Agents",
+        "value": "12188"
+    },
+    {
+        "name": "BIOE:498PI:Systems Bioengineering",
+        "value": "12189"
+    },
+    {
+        "name": "BIOE:571:Biological Measurement I",
+        "value": "12306"
+    },
+    {
+        "name": "BIOE:574:Bioinstrument Innovation",
+        "value": "12565"
+    },
+    {
+        "name": "BIOE:598:Bioengineering Special Topics",
+        "value": "7373"
+    },
+    {
+        "name": "BIOE:598DP:Imaging & Therapeutic Agents",
+        "value": "12191"
+    },
+    {
+        "name": "BIOE:598NM:Neuromechanics",
+        "value": "12403"
+    },
+    {
+        "name": "BIOE:598PI:Systems Bioengineering",
+        "value": "12190"
+    },
+    {
+        "name": "BIOP:550:Biomolecular Physics",
+        "value": "10014"
+    },
+    {
+        "name": "BTW:261:Principles Tech Comm",
+        "value": "6364"
+    },
+    {
+        "name": "BUS:101:Business Prof Responsibility",
+        "value": "12916"
+    },
+    {
+        "name": "CEE:201:Systems Engineering & Economics",
+        "value": "313"
+    },
+    {
+        "name": "CEE:202:Engineering Risk & Uncertainty",
+        "value": "3726"
+    },
+    {
+        "name": "CEE:300:Behavior of Materials",
+        "value": "309"
+    },
+    {
+        "name": "CEE:310:Transportation Engineering",
+        "value": "2608"
+    },
+    {
+        "name": "CEE:320:Construction Engineering",
+        "value": "2712"
+    },
+    {
+        "name": "CEE:330:Environmental Engineering",
+        "value": "3727"
+    },
+    {
+        "name": "CEE:350:Water Resources Engineering",
+        "value": "2357"
+    },
+    {
+        "name": "CEE:360:Structural Engineering",
+        "value": "2560"
+    },
+    {
+        "name": "CEE:380:Geotechnical Engineering",
+        "value": "248"
+    },
+    {
+        "name": "CEE:401:Concrete Materials",
+        "value": "3609"
+    },
+    {
+        "name": "CEE:405:Asphalt Materials I",
+        "value": "9573"
+    },
+    {
+        "name": "CEE:406:Pavement Design I",
+        "value": "9147"
+    },
+    {
+        "name": "CEE:408:Railroad Transportation Engineering",
+        "value": "9080"
+    },
+    {
+        "name": "CEE:409:Railroad Track Engineering",
+        "value": "9575"
+    },
+    {
+        "name": "CEE:415:Geometric Design of Roads",
+        "value": "5567"
+    },
+    {
+        "name": "CEE:416:Traffic Capacity Analysis",
+        "value": "5340"
+    },
+    {
+        "name": "CEE:421:Construction Planning",
+        "value": "246"
+    },
+    {
+        "name": "CEE:422:Construction Cost Analysis",
+        "value": "247"
+    },
+    {
+        "name": "CEE:434:Environmental Systems I",
+        "value": "9581"
+    },
+    {
+        "name": "CEE:437:Water Quality Engineering",
+        "value": "3197"
+    },
+    {
+        "name": "CEE:438:Science & Environmental Policy",
+        "value": "12478"
+    },
+    {
+        "name": "CEE:442:Environmental Eng Principles, Physical",
+        "value": "1410"
+    },
+    {
+        "name": "CEE:443:Environmental Eng Principles, Chemical",
+        "value": "2366"
+    },
+    {
+        "name": "CEE:444:Environmental Eng Principles, Biological",
+        "value": "9461"
+    },
+    {
+        "name": "CEE:445:Air Quality Modeling",
+        "value": "8460"
+    },
+    {
+        "name": "CEE:446:Air Quality Engineering",
+        "value": "9582"
+    },
+    {
+        "name": "CEE:450:Surface Hydrology",
+        "value": "308"
+    },
+    {
+        "name": "CEE:451:Environmental Fluid Mechanics",
+        "value": "261"
+    },
+    {
+        "name": "CEE:452:Hydraulic Analysis and Design",
+        "value": "9584"
+    },
+    {
+        "name": "CEE:453:Urban Hydrology and Hydraulics",
+        "value": "1633"
+    },
+    {
+        "name": "CEE:457:Groundwater",
+        "value": "8969"
+    },
+    {
+        "name": "CEE:460:Steel Structures I",
+        "value": "3611"
+    },
+    {
+        "name": "CEE:461:Reinforced Concrete I",
+        "value": "243"
+    },
+    {
+        "name": "CEE:462:Steel Structures II",
+        "value": "6690"
+    },
+    {
+        "name": "CEE:463:Reinforced Concrete II",
+        "value": "9586"
+    },
+    {
+        "name": "CEE:465:Design of Structural Systems",
+        "value": "6927"
+    },
+    {
+        "name": "CEE:467:Masonry Structures",
+        "value": "9587"
+    },
+    {
+        "name": "CEE:470:Structural Analysis",
+        "value": "3612"
+    },
+    {
+        "name": "CEE:471:Structural Mechanics",
+        "value": "253"
+    },
+    {
+        "name": "CEE:472:Structural Dynamics I",
+        "value": "4408"
+    },
+    {
+        "name": "CEE:483:Soil Mechanics and Behavior",
+        "value": "9590"
+    },
+    {
+        "name": "CEE:484:Applied Soil Mechanics",
+        "value": "263"
+    },
+    {
+        "name": "CEE:491:Decision and Risk Analysis",
+        "value": "9592"
+    },
+    {
+        "name": "CEE:498:Special Topics",
+        "value": "10920"
+    },
+    {
+        "name": "CEE:498EWS:Energy Water Sustainability",
+        "value": "12293"
+    },
+    {
+        "name": "CEE:498GLP:Global Leaders Program",
+        "value": "12182"
+    },
+    {
+        "name": "CEE:501:Construction Materials Characterization",
+        "value": "8104"
+    },
+    {
+        "name": "CEE:503:Construction Materials Deterioration",
+        "value": "11426"
+    },
+    {
+        "name": "CEE:512:Logistics Systems Analysis",
+        "value": "9431"
+    },
+    {
+        "name": "CEE:515:Traffic Flow Theory",
+        "value": "9597"
+    },
+    {
+        "name": "CEE:534:Surface Water Quality Modeling",
+        "value": "9603"
+    },
+    {
+        "name": "CEE:537:Water Quality Control Processing I",
+        "value": "6606"
+    },
+    {
+        "name": "CEE:538:Water Quality Control Processing II",
+        "value": "5576"
+    },
+    {
+        "name": "CEE:545:Aerosol Sampling and Analysis",
+        "value": "9607"
+    },
+    {
+        "name": "CEE:548:Scientific Writing in CEE",
+        "value": "11428"
+    },
+    {
+        "name": "CEE:551:Open-Channel Hydraulics",
+        "value": "9610"
+    },
+    {
+        "name": "CEE:560:Steel Structures III",
+        "value": "256"
+    },
+    {
+        "name": "CEE:570:Finite Element Methods",
+        "value": "6997"
+    },
+    {
+        "name": "CEE:572:Earthquake Engineering",
+        "value": "9463"
+    },
+    {
+        "name": "CEE:573:Structural Dynamics II",
+        "value": "9616"
+    },
+    {
+        "name": "CEE:574:Probabilistic Loads and Design",
+        "value": "9617"
+    },
+    {
+        "name": "CEE:575:Fracture and Fatigue",
+        "value": "9618"
+    },
+    {
+        "name": "CEE:576:Nonlinear Finite Elements",
+        "value": "9043"
+    },
+    {
+        "name": "CEE:582:Consolidation of Clays",
+        "value": "9621"
+    },
+    {
+        "name": "CEE:583:Shear Strength of Soils",
+        "value": "9622"
+    },
+    {
+        "name": "CEE:586:Rock Mechanics and Behavior",
+        "value": "9625"
+    },
+    {
+        "name": "CEE:588:Geotechnical Earthquake Engineering",
+        "value": "9627"
+    },
+    {
+        "name": "CEE:592:Sustainable Urban Systems",
+        "value": "12576"
+    },
+    {
+        "name": "CEE:598:Special Topics in CEE",
+        "value": "1425"
+    },
+    {
+        "name": "CEE:598GW:Globalization of Water",
+        "value": "12058"
+    },
+    {
+        "name": "CEE:598NLH:Non-Lin. Methods in Hydro. & Hydraulics",
+        "value": "11524"
+    },
+    {
+        "name": "CEE:598PS:Plates and Shells",
+        "value": "11526"
+    },
+    {
+        "name": "CEE:598RA:Reliability Analysis",
+        "value": "12031"
+    },
+    {
+        "name": "CEE:598SDO:Structural Design Optimization",
+        "value": "11261"
+    },
+    {
+        "name": "CEE:598SH:Stochastic Hydrology",
+        "value": "12873"
+    },
+    {
+        "name": "CEE:598SSD:Seismic Steel Design",
+        "value": "12399"
+    },
+    {
+        "name": "CHBE:221:Principles of Chemical Engineering",
+        "value": "9122"
+    },
+    {
+        "name": "CHBE:321:Thermodynamics",
+        "value": "90"
+    },
+    {
+        "name": "CHBE:421:Momentum and Heat Transfer",
+        "value": "128"
+    },
+    {
+        "name": "CHBE:422:Mass Transfer Operations",
+        "value": "135"
+    },
+    {
+        "name": "CHBE:424:Chemical Reaction Engineering",
+        "value": "99"
+    },
+    {
+        "name": "CHBE:430:Unit Operations Laboratory",
+        "value": "199"
+    },
+    {
+        "name": "CHBE:431:Process Design",
+        "value": "2876"
+    },
+    {
+        "name": "CHBE:440:Process Control and Dynamics",
+        "value": "3670"
+    },
+    {
+        "name": "CHBE:456:Polymer Science & Engineering",
+        "value": "8171"
+    },
+    {
+        "name": "CHBE:457:Microelectronics Processing",
+        "value": "9633"
+    },
+    {
+        "name": "CHBE:471:Biochemical Engineering",
+        "value": "2863"
+    },
+    {
+        "name": "CHBE:472:Techniques in Biomolecular Engineering",
+        "value": "4619"
+    },
+    {
+        "name": "CHBE:473:Biomolecular Engineering",
+        "value": "1114"
+    },
+    {
+        "name": "CHBE:476:Biotransport",
+        "value": "11649"
+    },
+    {
+        "name": "CHBE:494:Special Topics",
+        "value": "8795"
+    },
+    {
+        "name": "CHBE:494:Special Topics: Biotransport",
+        "value": "10669"
+    },
+    {
+        "name": "CHBE:521:Applied Mathematics in CHBE",
+        "value": "3669"
+    },
+    {
+        "name": "CHBE:522:Fluid Dynamics",
+        "value": "4358"
+    },
+    {
+        "name": "CHBE:594:Polymer Science",
+        "value": "10668"
+    },
+    {
+        "name": "CHBE:594:Special Topics",
+        "value": "11076"
+    },
+    {
+        "name": "CHBE:594HJ:Biotransport",
+        "value": "10699"
+    },
+    {
+        "name": "CHBE:594HY:Synthetic Nanomaterials",
+        "value": "11753"
+    },
+    {
+        "name": "CHEM:101:Introductory Chemistry",
+        "value": "9134"
+    },
+    {
+        "name": "CHEM:102:General Chemistry I",
+        "value": "6469"
+    },
+    {
+        "name": "CHEM:104:General Chemistry II",
+        "value": "6803"
+    },
+    {
+        "name": "CHEM:202:Accelerated Chemistry I",
+        "value": "9210"
+    },
+    {
+        "name": "CHEM:203:Accelerated Chemistry Lab I",
+        "value": "10286"
+    },
+    {
+        "name": "CHEM:204:Accelerated Chemistry II",
+        "value": "9346"
+    },
+    {
+        "name": "CHEM:205:Accelerated Chemistry Lab II",
+        "value": "7054"
+    },
+    {
+        "name": "CHEM:222:Quantitatve Analysis Lecture",
+        "value": "10178"
+    },
+    {
+        "name": "CHEM:232:Elementary Organic Chemistry I",
+        "value": "10665"
+    },
+    {
+        "name": "CHEM:236:Fundamental Organic Chem I",
+        "value": "8639"
+    },
+    {
+        "name": "CHEM:237:Structure and Synthesis",
+        "value": "9185"
+    },
+    {
+        "name": "CHEM:312:Inorganic Chemistry",
+        "value": "108"
+    },
+    {
+        "name": "CHEM:315:Instrumental Chem Systems Lab",
+        "value": "109"
+    },
+    {
+        "name": "CHEM:315:Instrumental Chem Systems Lab",
+        "value": "8780"
+    },
+    {
+        "name": "CHEM:317:Inorganic Chemistry Laboratory",
+        "value": "111"
+    },
+    {
+        "name": "CHEM:420:Instrumental Characterization",
+        "value": "3691"
+    },
+    {
+        "name": "CHEM:420:Instrumental Characterization",
+        "value": "8781"
+    },
+    {
+        "name": "CHEM:423:Electronic Circuits",
+        "value": "8368"
+    },
+    {
+        "name": "CHEM:436:Fundamental Organic Chemistry II",
+        "value": "104"
+    },
+    {
+        "name": "CHEM:437:Organic Chemistry Lab",
+        "value": "91"
+    },
+    {
+        "name": "CHEM:440A:Physical Chemistry Principles",
+        "value": "78"
+    },
+    {
+        "name": "CHEM:442:Physical Chemistry I",
+        "value": "8835"
+    },
+    {
+        "name": "CHEM:442A:Physical Chemistry I",
+        "value": "80"
+    },
+    {
+        "name": "CHEM:442B:Physical Chemistry I",
+        "value": "8806"
+    },
+    {
+        "name": "CHEM:444:Physical Chemistry II",
+        "value": "155"
+    },
+    {
+        "name": "CHEM:445:Physical Principles of Chem Lab I",
+        "value": "75"
+    },
+    {
+        "name": "CHEM:447:Physical Principles Lab II",
+        "value": "8807"
+    },
+    {
+        "name": "CHEM:460:Green Chemistry",
+        "value": "6916"
+    },
+    {
+        "name": "CHEM:480:Polymer Chemistry",
+        "value": "129"
+    },
+    {
+        "name": "CHEM:482:Polymer Physical Chemistry",
+        "value": "1464"
+    },
+    {
+        "name": "CHEM:488:Surfaces and Colloids",
+        "value": "8809"
+    },
+    {
+        "name": "CHEM:512:Advanced Inorganic Chemistry",
+        "value": "110"
+    },
+    {
+        "name": "CHEM:517:Advanced Inorganic Chemistry Lab",
+        "value": "203"
+    },
+    {
+        "name": "CHEM:530:Structure and Spectroscopy",
+        "value": "7722"
+    },
+    {
+        "name": "CHEM:532:Physical Organic Chemistry",
+        "value": "157"
+    },
+    {
+        "name": "CHEM:534:Advanced Organic Synthesis",
+        "value": "102"
+    },
+    {
+        "name": "CHEM:540:Quantum Mechanics",
+        "value": "326"
+    },
+    {
+        "name": "CHEM:544:Statistical Thermodynamics",
+        "value": "7490"
+    },
+    {
+        "name": "CHEM:584:Introduction to Materials Chemistry",
+        "value": "8816"
+    },
+    {
+        "name": "CHEM:588:Physical Methods Mat Chem",
+        "value": "9391"
+    },
+    {
+        "name": "CHLH:100:Contemporary Health",
+        "value": "3780"
+    },
+    {
+        "name": "CHLH:101:Introduction to Public Health",
+        "value": "274"
+    },
+    {
+        "name": "CHLH:125:Orientation KIN & Comm Health",
+        "value": "12416"
+    },
+    {
+        "name": "CHLH:200:Mental Health",
+        "value": "3795"
+    },
+    {
+        "name": "CHLH:206:Human Sexuality",
+        "value": "268"
+    },
+    {
+        "name": "CHLH:243:Drug Use and Abuse",
+        "value": "3797"
+    },
+    {
+        "name": "CHLH:274:Introduction to Epidemiology",
+        "value": "3842"
+    },
+    {
+        "name": "CHP:199:Special Topics:Honors Uncommon",
+        "value": "12924"
+    },
+    {
+        "name": "CHP:395:Interdisciplinary Seminar",
+        "value": "7302"
+    },
+    {
+        "name": "CI:467:Princ Tchg Lit to Child Youth",
+        "value": "2919"
+    },
+    {
+        "name": "CI:476:Teach Elem Rdg & Lang Arts, II",
+        "value": "6989"
+    },
+    {
+        "name": "CLCV:114:Introduction to Greek Culture",
+        "value": "8837"
+    },
+    {
+        "name": "CLVC:223:Myth,History,Fiction,Tradition",
+        "value": "12930"
+    },
+    {
+        "name": "CMN:111:Oral & Written Comm I",
+        "value": "9089"
+    },
+    {
+        "name": "CMN:211:Business Communication",
+        "value": "12267"
+    },
+    {
+        "name": "CMN:212:Intro to Organizational Comm",
+        "value": "8332"
+    },
+    {
+        "name": "CMN:213:Small Group Communication",
+        "value": "12759"
+    },
+    {
+        "name": "CMN:230:Intro to Interpersonal Comm",
+        "value": "8571"
+    },
+    {
+        "name": "CMN:232:Intro to Intercultural Comm",
+        "value": "8319"
+    },
+    {
+        "name": "CMN:260:Intro to Health Communication",
+        "value": "8658"
+    },
+    {
+        "name": "CMN:275:Media, Money and Power",
+        "value": "8771"
+    },
+    {
+        "name": "CMN:323:Argumentation",
+        "value": "8254"
+    },
+    {
+        "name": "CMN:325:Politics and the Media",
+        "value": "8304"
+    },
+    {
+        "name": "CMN:336:Family Communication",
+        "value": "10900"
+    },
+    {
+        "name": "CMN:340:Visual Politics",
+        "value": "8773"
+    },
+    {
+        "name": "CMN:370:Political Economy of Communication",
+        "value": "12641"
+    },
+    {
+        "name": "CMN:396:Special Topics in Communication",
+        "value": "11714"
+    },
+    {
+        "name": "CMN:412:Adv Organizational Comm",
+        "value": "12514"
+    },
+    {
+        "name": "CMN:413:Advanced Small Group Communication",
+        "value": "8848"
+    },
+    {
+        "name": "CMN:421:Persuasion Theory & Research",
+        "value": "11712"
+    },
+    {
+        "name": "CMN:429:Race and the Mass Media",
+        "value": "9008"
+    },
+    {
+        "name": "CMN:467:Communication & Health Equity",
+        "value": "12603"
+    },
+    {
+        "name": "CMN:529:Seminar Communication Theory",
+        "value": "9049"
+    },
+    {
+        "name": "COMM:Library Reserves",
+        "value": "11353"
+    },
+    {
+        "name": "COMM:Tech:Comm. Library Tech Reserves",
+        "value": "12268"
+    },
+    {
+        "name": "CPSC:112:Introduction to Crop Science",
+        "value": "8206"
+    },
+    {
+        "name": "CPSC:226:Introduction to Weed Science",
+        "value": "11979"
+    },
+    {
+        "name": "CPSC:270:Applied Entomology",
+        "value": "12929"
+    },
+    {
+        "name": "CPSC:407:Diseases of Field Crops",
+        "value": "12837"
+    },
+    {
+        "name": "CPSC:440:Applied Statistical Methods, I",
+        "value": "5695"
+    },
+    {
+        "name": "CS:101:Intro Computing: Engineering & Science",
+        "value": "2879"
+    },
+    {
+        "name": "CS:102:Little Bits to Big Ideas",
+        "value": "9636"
+    },
+    {
+        "name": "CS:173:Discrete Structures",
+        "value": "330"
+    },
+    {
+        "name": "CS:199:Undergraduate Open Seminar",
+        "value": "1778"
+    },
+    {
+        "name": "CS:199AD:Software Design Studio",
+        "value": "12193"
+    },
+    {
+        "name": "CS:210:Ethical and Professional Issues",
+        "value": "1325"
+    },
+    {
+        "name": "CS:241:System Programming",
+        "value": "6321"
+    },
+    {
+        "name": "CS:357:Numerical Methods I",
+        "value": "8400"
+    },
+    {
+        "name": "CS:411:Database Systems",
+        "value": "368"
+    },
+    {
+        "name": "CS:412:Introduction to Data Mining",
+        "value": "6656"
+    },
+    {
+        "name": "CS:413:Introduction to Combinatorics",
+        "value": "9641"
+    },
+    {
+        "name": "CS:418:Interactive Computer Graphics",
+        "value": "262"
+    },
+    {
+        "name": "CS:419:Production Computer Graphics",
+        "value": "9643"
+    },
+    {
+        "name": "CS:420:Parallel Programming: Sci. & Engineering",
+        "value": "4412"
+    },
+    {
+        "name": "CS:425:Distributed Systems",
+        "value": "588"
+    },
+    {
+        "name": "CS:426:Compiler Construction",
+        "value": "4414"
+    },
+    {
+        "name": "CS:427:Software Engineering I",
+        "value": "2829"
+    },
+    {
+        "name": "CS:428:Software Engineering II",
+        "value": "9646"
+    },
+    {
+        "name": "CS:429:Software Engineering II, ACP",
+        "value": "8634"
+    },
+    {
+        "name": "CS:431:Embedded Systems",
+        "value": "255"
+    },
+    {
+        "name": "CS:433:Computer System Organization",
+        "value": "365"
+    },
+    {
+        "name": "CS:438:Communication Networks",
+        "value": "823"
+    },
+    {
+        "name": "CS:440:Artificial Intelligence",
+        "value": "1412"
+    },
+    {
+        "name": "CS:446:Machine Learning",
+        "value": "4427"
+    },
+    {
+        "name": "CS:447:Natural Language Processing",
+        "value": "12022"
+    },
+    {
+        "name": "CS:450:Numerical Analysis",
+        "value": "331"
+    },
+    {
+        "name": "CS:461:Computer Security I",
+        "value": "7487"
+    },
+    {
+        "name": "CS:465:User Interface Design",
+        "value": "8179"
+    },
+    {
+        "name": "CS:466:Introduction to Bioinformatics",
+        "value": "8157"
+    },
+    {
+        "name": "CS:481:Stochastic Processes & Applications",
+        "value": "9655"
+    },
+    {
+        "name": "CS:482:Simulation",
+        "value": "9656"
+    },
+    {
+        "name": "CS:483:Applied Parallel Programming",
+        "value": "10934"
+    },
+    {
+        "name": "CS:498:Special Topics in Computer Science",
+        "value": "9961"
+    },
+    {
+        "name": "CS:498AL1:Digital Forensics",
+        "value": "12023"
+    },
+    {
+        "name": "CS:498DM:Software Testing",
+        "value": "12196"
+    },
+    {
+        "name": "CS:498GFD:AI for Computer Games",
+        "value": "12383"
+    },
+    {
+        "name": "CS:498PH:Public Health Engineering",
+        "value": "12892"
+    },
+    {
+        "name": "CS:512:Data Mining Principles",
+        "value": "9662"
+    },
+    {
+        "name": "CS:519:Scientific Visualization",
+        "value": "9663"
+    },
+    {
+        "name": "CS:526:Advanced Compiler Construction",
+        "value": "305"
+    },
+    {
+        "name": "CS:536:Fault-Tolerant Digital System Design",
+        "value": "9669"
+    },
+    {
+        "name": "CS:541:Computer Systems Analysis",
+        "value": "6400"
+    },
+    {
+        "name": "CS:543:Computer Vision",
+        "value": "2207"
+    },
+    {
+        "name": "CS:554:Parallel Numerical Algorithms",
+        "value": "12387"
+    },
+    {
+        "name": "CS:571:Combinatorial Mathematics",
+        "value": "2822"
+    },
+    {
+        "name": "CS:591:Advanced Seminar",
+        "value": "10875"
+    },
+    {
+        "name": "CS:591PHD:PhD Orientation Seminar",
+        "value": "12885"
+    },
+    {
+        "name": "CS:598:Special Topics",
+        "value": "5318"
+    },
+    {
+        "name": "CS:598AK:Cognitive Engineering",
+        "value": "11637"
+    },
+    {
+        "name": "CS:598PF:High-Order Methods for PDEs",
+        "value": "12521"
+    },
+    {
+        "name": "CSE:401:Numerical Analysis",
+        "value": "7980"
+    },
+    {
+        "name": "CSE:402:Parallel Programming: Sci. & Engineering",
+        "value": "9685"
+    },
+    {
+        "name": "CSE:422:Computer System Organizations",
+        "value": "9687"
+    },
+    {
+        "name": "CSE:427:Interactive Computer Graphics",
+        "value": "9692"
+    },
+    {
+        "name": "CSE:428:Statistical Computing",
+        "value": "12541"
+    },
+    {
+        "name": "CSE:429:Software Engineering II",
+        "value": "9694"
+    },
+    {
+        "name": "CSE:440:Statistical Data Management",
+        "value": "12542"
+    },
+    {
+        "name": "CSE:441:Introduction to Optimization",
+        "value": "9696"
+    },
+    {
+        "name": "CSE:448:Advanced Data Analysis",
+        "value": "12543"
+    },
+    {
+        "name": "CSE:450:Computational Mechanics",
+        "value": "9697"
+    },
+    {
+        "name": "CSE:451:Finite Element Analysis",
+        "value": "7751"
+    },
+    {
+        "name": "CSE:461:Computational Aerodynamics",
+        "value": "9698"
+    },
+    {
+        "name": "CSE:485:Atomic Scale Simulations",
+        "value": "9700"
+    },
+    {
+        "name": "CSE:512:Parallel Numerical Algorithms",
+        "value": "9704"
+    },
+    {
+        "name": "CSE:521:Computer Architecture",
+        "value": "9709"
+    },
+    {
+        "name": "CSE:525:Computational Statistics",
+        "value": "12544"
+    },
+    {
+        "name": "CSE:527:Scientific Visualization",
+        "value": "9714"
+    },
+    {
+        "name": "CSE:530:Computational Electromagnetics",
+        "value": "9717"
+    },
+    {
+        "name": "CSE:532:Numerical Circuit Analysis",
+        "value": "9718"
+    },
+    {
+        "name": "CSE:542:Statistical Learning",
+        "value": "12647"
+    },
+    {
+        "name": "CSE:543:Topics in Image Processing",
+        "value": "9721"
+    },
+    {
+        "name": "CSE:552:Nonlinear Finite Elements",
+        "value": "9725"
+    },
+    {
+        "name": "CWL:114:Global Consciousness and Lit",
+        "value": "12899"
+    },
+    {
+        "name": "CWL:119:Literature of Fantasy",
+        "value": "8454"
+    },
+    {
+        "name": "CWL:387:French & Comparative Cinema I",
+        "value": "12870"
+    },
+    {
+        "name": "CWL:501:Theory of Literature",
+        "value": "5020"
+    },
+    {
+        "name": "DANC:100E:Intro to Contemporary Dance",
+        "value": "12912"
+    },
+    {
+        "name": "DANC:103:Contact Improvisation",
+        "value": "12879"
+    },
+    {
+        "name": "DRES:Perm:DRES TextHelp (Mac)",
+        "value": "11376"
+    },
+    {
+        "name": "EALC:199:Introduction to East Asian History-Korea",
+        "value": "11915"
+    },
+    {
+        "name": "EALC:287:Introduction to Buddhism",
+        "value": "8758"
+    },
+    {
+        "name": "ECE:110:Introduction to Electronics",
+        "value": "1042"
+    },
+    {
+        "name": "ECE:120:Introduction to Computing",
+        "value": "12198"
+    },
+    {
+        "name": "ECE:198:Special Topics in ECE",
+        "value": "11579"
+    },
+    {
+        "name": "ECE:198JL:Introduction to Computer Engineering",
+        "value": "11761"
+    },
+    {
+        "name": "ECE:198KL:Introduction to Computer Engineering, II",
+        "value": "11578"
+    },
+    {
+        "name": "ECE:205:Electric and Electronic Circuits",
+        "value": "871"
+    },
+    {
+        "name": "ECE:210:Analog Signal Processing",
+        "value": "6356"
+    },
+    {
+        "name": "ECE:211:Analog Circuits and Systems",
+        "value": "9736"
+    },
+    {
+        "name": "ECE:220:Computer Systems & Programming",
+        "value": "12324"
+    },
+    {
+        "name": "ECE:298:Special Topics",
+        "value": "12423"
+    },
+    {
+        "name": "ECE:298JA:Concepts in Engineering Math",
+        "value": "12422"
+    },
+    {
+        "name": "ECE:307:Techniques for Engineering Decisions",
+        "value": "4431"
+    },
+    {
+        "name": "ECE:310:Digital Signal Processing",
+        "value": "10989"
+    },
+    {
+        "name": "ECE:313:Probability with Engineering Application",
+        "value": "9737"
+    },
+    {
+        "name": "ECE:316:Ethics and Engineering",
+        "value": "2659"
+    },
+    {
+        "name": "ECE:329:Fields and Waves I",
+        "value": "7191"
+    },
+    {
+        "name": "ECE:330:Power Ckts & Electromechanics",
+        "value": "10991"
+    },
+    {
+        "name": "ECE:333:Green Electric Energy",
+        "value": "8598"
+    },
+    {
+        "name": "ECE:340:Semiconductor Electronics",
+        "value": "10992"
+    },
+    {
+        "name": "ECE:342:Electronic Circuits",
+        "value": "10993"
+    },
+    {
+        "name": "ECE:350:Fields and Waves II",
+        "value": "10995"
+    },
+    {
+        "name": "ECE:361:Digital Communications",
+        "value": "9739"
+    },
+    {
+        "name": "ECE:380:Biomedical Imaging",
+        "value": "9740"
+    },
+    {
+        "name": "ECE:385:Digital Systems Laboratory",
+        "value": "872"
+    },
+    {
+        "name": "ECE:391:Computer Systems Engineering",
+        "value": "9742"
+    },
+    {
+        "name": "ECE:398:Special Topics in ECE",
+        "value": "3120"
+    },
+    {
+        "name": "ECE:398PSC:Innovation and Engineering Design",
+        "value": "12069"
+    },
+    {
+        "name": "ECE:401:Signal and Image Analysis",
+        "value": "12755"
+    },
+    {
+        "name": "ECE:408:Applied Parallel Programming",
+        "value": "10933"
+    },
+    {
+        "name": "ECE:411:Computer Organization and Design",
+        "value": "2982"
+    },
+    {
+        "name": "ECE:414:Biomedical Instrumentation",
+        "value": "812"
+    },
+    {
+        "name": "ECE:415:Biomedical Instrumentation Lab",
+        "value": "4347"
+    },
+    {
+        "name": "ECE:417:Multimedia Signal Processing",
+        "value": "9747"
+    },
+    {
+        "name": "ECE:418:Image & Video Processing",
+        "value": "9748"
+    },
+    {
+        "name": "ECE:422:Computer Security I",
+        "value": "7661"
+    },
+    {
+        "name": "ECE:425:Introduction to the VLSI System Design",
+        "value": "833"
+    },
+    {
+        "name": "ECE:428:Distributed Systems",
+        "value": "3623"
+    },
+    {
+        "name": "ECE:431:Electric Machinery",
+        "value": "4855"
+    },
+    {
+        "name": "ECE:438:Communication Networks",
+        "value": "824"
+    },
+    {
+        "name": "ECE:441:Physics & Modeling Semiconductor Devices",
+        "value": "6050"
+    },
+    {
+        "name": "ECE:444:IC Device Theory and Fabrication",
+        "value": "814"
+    },
+    {
+        "name": "ECE:445:Senior Design Project Laboratory",
+        "value": "2032"
+    },
+    {
+        "name": "ECE:446:Principles of Exp. Research in EE",
+        "value": "12617"
+    },
+    {
+        "name": "ECE:447:Active Microwave Circuit Design",
+        "value": "9757"
+    },
+    {
+        "name": "ECE:448:Artificial Intelligence",
+        "value": "3626"
+    },
+    {
+        "name": "ECE:451:Advanced Microwave Measurements",
+        "value": "5430"
+    },
+    {
+        "name": "ECE:452:Electromagnetic Fields",
+        "value": "2511"
+    },
+    {
+        "name": "ECE:454:Antennas",
+        "value": "9178"
+    },
+    {
+        "name": "ECE:455:Optical Electronics",
+        "value": "3009"
+    },
+    {
+        "name": "ECE:456:Global Nav Satellite Systems",
+        "value": "11438"
+    },
+    {
+        "name": "ECE:457:Microwave Devices and Circuits",
+        "value": "9759"
+    },
+    {
+        "name": "ECE:459:Communications Systems",
+        "value": "825"
+    },
+    {
+        "name": "ECE:460:Optical Imaging",
+        "value": "9760"
+    },
+    {
+        "name": "ECE:464:Power Electronics",
+        "value": "832"
+    },
+    {
+        "name": "ECE:465:Optical Communications Systems",
+        "value": "9762"
+    },
+    {
+        "name": "ECE:467:Biophotonics",
+        "value": "9764"
+    },
+    {
+        "name": "ECE:468:Optical Remote Sensing",
+        "value": "9765"
+    },
+    {
+        "name": "ECE:470:Introduction to Robotics",
+        "value": "6450"
+    },
+    {
+        "name": "ECE:473:Fundamentals of Engineering Acoustics",
+        "value": "5001"
+    },
+    {
+        "name": "ECE:476:Power System Analysis",
+        "value": "1056"
+    },
+    {
+        "name": "ECE:480:Magnetic Resonance Imaging",
+        "value": "9184"
+    },
+    {
+        "name": "ECE:482:Digital Integrated Circuit Design",
+        "value": "1063"
+    },
+    {
+        "name": "ECE:483:Analog Integrated Circuit Design",
+        "value": "8668"
+    },
+    {
+        "name": "ECE:485:MEMS Devices & Systems",
+        "value": "1213"
+    },
+    {
+        "name": "ECE:486:Control Systems",
+        "value": "6928"
+    },
+    {
+        "name": "ECE:487:Intro to Quantum Electronics for EEs",
+        "value": "9770"
+    },
+    {
+        "name": "ECE:488:Compound Semiconductors & Devices",
+        "value": "9771"
+    },
+    {
+        "name": "ECE:489:Robot Dynamics and Control",
+        "value": "12738"
+    },
+    {
+        "name": "ECE:490:Introduction to Optimization",
+        "value": "1038"
+    },
+    {
+        "name": "ECE:491:Numerical Analysis",
+        "value": "3630"
+    },
+    {
+        "name": "ECE:492:Parallel Programming: Sci & Engineering",
+        "value": "9773"
+    },
+    {
+        "name": "ECE:493:Advanced Engineering Math",
+        "value": "9774"
+    },
+    {
+        "name": "ECE:498:Special Topics in ECE",
+        "value": "181"
+    },
+    {
+        "name": "ECE:498CB:LEDs and Solar Cells",
+        "value": "12491"
+    },
+    {
+        "name": "ECE:498CL:LEDs and Solar Cells",
+        "value": "12726"
+    },
+    {
+        "name": "ECE:498LG:Optical Design of Imaging Systems",
+        "value": "9964"
+    },
+    {
+        "name": "ECE:498LV:Network Sci.: Dynamics & Flow",
+        "value": "12736"
+    },
+    {
+        "name": "ECE:498MH:Signal and Image Analysis",
+        "value": "11722"
+    },
+    {
+        "name": "ECE:511:Computer Architecture",
+        "value": "9777"
+    },
+    {
+        "name": "ECE:515:Control System Theory and Design",
+        "value": "1246"
+    },
+    {
+        "name": "ECE:517:Nonlinear and Adaptive Control",
+        "value": "1178"
+    },
+    {
+        "name": "ECE:520:EM Waves & Radiating Systems",
+        "value": "1062"
+    },
+    {
+        "name": "ECE:523:Gaseous Electronics and Plasmas",
+        "value": "9780"
+    },
+    {
+        "name": "ECE:526:Distributed Algorithms",
+        "value": "11439"
+    },
+    {
+        "name": "ECE:528:Analysis of Nonlinear Systems",
+        "value": "4506"
+    },
+    {
+        "name": "ECE:530:Large-Scale System Analysis",
+        "value": "7982"
+    },
+    {
+        "name": "ECE:531:Theory of Guided Waves",
+        "value": "9783"
+    },
+    {
+        "name": "ECE:534:Random Processes",
+        "value": "972"
+    },
+    {
+        "name": "ECE:535:Theory Semicond & Devices",
+        "value": "5168"
+    },
+    {
+        "name": "ECE:536:Integration Optics & Optoelectronics",
+        "value": "9785"
+    },
+    {
+        "name": "ECE:537:Speech Processing Fundamentals",
+        "value": "9786"
+    },
+    {
+        "name": "ECE:540:Computational Electromagnetics",
+        "value": "6154"
+    },
+    {
+        "name": "ECE:541:Computer Systems Analysis",
+        "value": "4110"
+    },
+    {
+        "name": "ECE:542:Fault-Tolerant Digital System Design",
+        "value": "5936"
+    },
+    {
+        "name": "ECE:544:Topics in Signal Processing",
+        "value": "6708"
+    },
+    {
+        "name": "ECE:544NA:Pattern Recognition",
+        "value": "12025"
+    },
+    {
+        "name": "ECE:545:Advanced Physical Acoustics",
+        "value": "9790"
+    },
+    {
+        "name": "ECE:546:Advanced Signal Integrity",
+        "value": "11440"
+    },
+    {
+        "name": "ECE:547:Topics in Image Processing",
+        "value": "9066"
+    },
+    {
+        "name": "ECE:549:Computer Vision",
+        "value": "3633"
+    },
+    {
+        "name": "ECE:550:Advanced Robotic Planning",
+        "value": "9792"
+    },
+    {
+        "name": "ECE:551:Digital Signal Processing II",
+        "value": "1074"
+    },
+    {
+        "name": "ECE:552:Numerical Circuit Analysis",
+        "value": "3634"
+    },
+    {
+        "name": "ECE:553:Optimum Control Systems",
+        "value": "1849"
+    },
+    {
+        "name": "ECE:558:Digital Imaging",
+        "value": "6999"
+    },
+    {
+        "name": "ECE:562:Advanced Digital Communication",
+        "value": "8838"
+    },
+    {
+        "name": "ECE:563:Information Theory",
+        "value": "5228"
+    },
+    {
+        "name": "ECE:564:Modern Light Microscopy",
+        "value": "10997"
+    },
+    {
+        "name": "ECE:567:Communication Network Analysis",
+        "value": "9793"
+    },
+    {
+        "name": "ECE:569:Inverse Problems in Optics",
+        "value": "3627"
+    },
+    {
+        "name": "ECE:572:Quantum Opto-Electronics",
+        "value": "4694"
+    },
+    {
+        "name": "ECE:573:Power System Control",
+        "value": "2622"
+    },
+    {
+        "name": "ECE:580:Optimization by Vector Space Methods",
+        "value": "4668"
+    },
+    {
+        "name": "ECE:585:MOS Device Modeling & Design",
+        "value": "6069"
+    },
+    {
+        "name": "ECE:586:Topics in Decision and Control",
+        "value": "5341"
+    },
+    {
+        "name": "ECE:586DL:Hybrid Systems and Control: Topics in De",
+        "value": "12318"
+    },
+    {
+        "name": "ECE:586RS:MDPs, Reinforcement Learning",
+        "value": "12317"
+    },
+    {
+        "name": "ECE:588:Electricity Resource Planning",
+        "value": "1004"
+    },
+    {
+        "name": "ECE:594:Mathematical Models of Language",
+        "value": "9802"
+    },
+    {
+        "name": "ECE:598:Special Topics in ECE",
+        "value": "1814"
+    },
+    {
+        "name": "ECE:598HH:Wireless Networks & Mobile Sys",
+        "value": "12618"
+    },
+    {
+        "name": "ECE:598IW:Solar System Electrodynamics",
+        "value": "12841"
+    },
+    {
+        "name": "ECE:598KSH:Electrical Machine Design",
+        "value": "12329"
+    },
+    {
+        "name": "ECE:598RPP:Advanced Power Electronics",
+        "value": "12494"
+    },
+    {
+        "name": "ECE:598YW:Information-Theoretic Methods",
+        "value": "12495"
+    },
+    {
+        "name": "ECON:303:Intermediate Macroeconomic Theory",
+        "value": "197"
+    },
+    {
+        "name": "ECON:482:Health Economics",
+        "value": "290"
+    },
+    {
+        "name": "ECON:490:Economics of the Workplace",
+        "value": "12926"
+    },
+    {
+        "name": "ECON:490:Employee Compensation and Incentives",
+        "value": "12927"
+    },
+    {
+        "name": "ECON:490:Migration and Econ Development",
+        "value": "12386"
+    },
+    {
+        "name": "ECON:490D:Economics of War & Terrorism",
+        "value": "12427"
+    },
+    {
+        "name": "ECON:513:International Trade",
+        "value": "11955"
+    },
+    {
+        "name": "EIL:456:Language and Social Interaction I",
+        "value": "3586"
+    },
+    {
+        "name": "ENG:198:Special Topics",
+        "value": "9154"
+    },
+    {
+        "name": "ENG:198IS:Introduction to Sustainability",
+        "value": "12705"
+    },
+    {
+        "name": "ENG:198RE:Renaissance Engineer",
+        "value": "10924"
+    },
+    {
+        "name": "ENG:199:Undergraduate Open Seminar",
+        "value": "10916"
+    },
+    {
+        "name": "ENG:199M:MEP Mentoring",
+        "value": "10917"
+    },
+    {
+        "name": "ENG:199MEP:MEP Mentoring",
+        "value": "12909"
+    },
+    {
+        "name": "ENG:199SFD:Undergraduate Open Seminar",
+        "value": "12260"
+    },
+    {
+        "name": "ENG:261:Technology and Management Seminar",
+        "value": "12032"
+    },
+    {
+        "name": "ENG:298:Special Topics",
+        "value": "12035"
+    },
+    {
+        "name": "ENG:298GPO:Road Map to Grad School",
+        "value": "12897"
+    },
+    {
+        "name": "ENG:298HS:Heroic Systems: Technology and Culture",
+        "value": "12034"
+    },
+    {
+        "name": "ENG:333:Creativity, Innovation, Vision",
+        "value": "10913"
+    },
+    {
+        "name": "ENG:440:Honduras Water Project I",
+        "value": "12868"
+    },
+    {
+        "name": "ENG:466:High-Tech Venture Marketing",
+        "value": "10922"
+    },
+    {
+        "name": "ENG:598:Special Topics",
+        "value": "12199"
+    },
+    {
+        "name": "ENG:598CR:Creativity, Innovation and Vision",
+        "value": "12200"
+    },
+    {
+        "name": "ENGL:119:Literature of Fantasy",
+        "value": "8453"
+    },
+    {
+        "name": "ENGL:200:Intro to the Study of Lit",
+        "value": "10437"
+    },
+    {
+        "name": "ENGL:373:Special Topics in Film Studies",
+        "value": "12838"
+    },
+    {
+        "name": "ENGN:PERM:Grainger Library Technology Reserves",
+        "value": "12286"
+    },
+    {
+        "name": "ENGN:Perm:Engineering Library Permanent Reserves",
+        "value": "420"
+    },
+    {
+        "name": "ENVS:101:Introduction to Energy Sources",
+        "value": "6250"
+    },
+    {
+        "name": "ENVS:220:Communicating Agriculture",
+        "value": "12634"
+    },
+    {
+        "name": "ENVS:241:Introduction to Radiation Protection",
+        "value": "12138"
+    },
+    {
+        "name": "ENVS:310:Natural Resource Economics",
+        "value": "3919"
+    },
+    {
+        "name": "ENVS:310:Natural Resource Economics",
+        "value": "12477"
+    },
+    {
+        "name": "ENVS:380:Environmental Geology",
+        "value": "10529"
+    },
+    {
+        "name": "EPS:420:Sociology of Education",
+        "value": "4239"
+    },
+    {
+        "name": "EPS:421:Racial and Ethnic Families",
+        "value": "4321"
+    },
+    {
+        "name": "EPS:575:Cult Studies and Crit Interp",
+        "value": "6739"
+    },
+    {
+        "name": "EPSY:201:Educational Psychology",
+        "value": "3553"
+    },
+    {
+        "name": "EPSY:202:Exploring Cultural Diversity",
+        "value": "124"
+    },
+    {
+        "name": "EPSY:430:Early Adolescent Development",
+        "value": "4625"
+    },
+    {
+        "name": "EPSY:456:Human Performance and Cognition in Conte",
+        "value": "12118"
+    },
+    {
+        "name": "EPSY:582:Advanced Statistical Methods",
+        "value": "12920"
+    },
+    {
+        "name": "EPSY:587:Hierarchical Linear Models",
+        "value": "12650"
+    },
+    {
+        "name": "EPSY:588:Covar Struct and Factor Models",
+        "value": "12889"
+    },
+    {
+        "name": "ESE:103:Earth's Physical Systems",
+        "value": "10789"
+    },
+    {
+        "name": "ESE:106:Geographies of Globalization",
+        "value": "10791"
+    },
+    {
+        "name": "ESE:117:The Oceans",
+        "value": "10667"
+    },
+    {
+        "name": "ESE:118:Natural Disasters",
+        "value": "10530"
+    },
+    {
+        "name": "ESE:120:Severe and Hazardous Weather",
+        "value": "10794"
+    },
+    {
+        "name": "ESE:126:Extinction: Dinosaurs to Dodos",
+        "value": "10723"
+    },
+    {
+        "name": "ESE:143:History of Life",
+        "value": "10797"
+    },
+    {
+        "name": "ESE:208:History of the Earth System",
+        "value": "10474"
+    },
+    {
+        "name": "ESE:333:Earth Materials and the Environment",
+        "value": "10475"
+    },
+    {
+        "name": "ESE:379:Introduction to GIS",
+        "value": "10807"
+    },
+    {
+        "name": "ESE:380:GIS II: Spatial Prob Solving",
+        "value": "12573"
+    },
+    {
+        "name": "ESE:411:Geomorphology",
+        "value": "10810"
+    },
+    {
+        "name": "ESE:439:Biogeography",
+        "value": "10812"
+    },
+    {
+        "name": "ESE:465:Transp. and Sustainability",
+        "value": "10814"
+    },
+    {
+        "name": "ESE:470:Introduction to Hydrogeology",
+        "value": "10817"
+    },
+    {
+        "name": "ESE:482:Challenges of Sustainability",
+        "value": "10819"
+    },
+    {
+        "name": "ESE:497:Special Topics in ESE",
+        "value": "11256"
+    },
+    {
+        "name": "ESE:497AN:Environment and Pollution Science",
+        "value": "11258"
+    },
+    {
+        "name": "ESE:497E:Multimedia Environmental Comms",
+        "value": "12568"
+    },
+    {
+        "name": "FIN:411:Investment & Portfolio Mngt",
+        "value": "11953"
+    },
+    {
+        "name": "FIN:432:Managing Fin Risk for Insurers",
+        "value": "5804"
+    },
+    {
+        "name": "FIN:501:Financial Economics",
+        "value": "10241"
+    },
+    {
+        "name": "FIN:530:Foundations in Risk Management",
+        "value": "12895"
+    },
+    {
+        "name": "FIN:580:Financial Statements",
+        "value": "12683"
+    },
+    {
+        "name": "FR:101:Elementary French I",
+        "value": "6242"
+    },
+    {
+        "name": "FR:102:Elementary French II",
+        "value": "6243"
+    },
+    {
+        "name": "FR:212:Introduction to Cultural Analysis: Frenc",
+        "value": "12656"
+    },
+    {
+        "name": "FR:314:Advanced Grammar in Context",
+        "value": "12856"
+    },
+    {
+        "name": "FR:387:French & Comparative Cinema I",
+        "value": "3348"
+    },
+    {
+        "name": "FSHN:120:Contemporary Nutrition",
+        "value": "2022"
+    },
+    {
+        "name": "FSHN:302:Sensory Evaluation of Foods",
+        "value": "12039"
+    },
+    {
+        "name": "FSHN:420:Nutritional Aspects of Disease",
+        "value": "12615"
+    },
+    {
+        "name": "FSHN:426:Biochemical Nutrition 1",
+        "value": "2535"
+    },
+    {
+        "name": "FSHN:427:Biochemical Nutrition II",
+        "value": "11913"
+    },
+    {
+        "name": "FSHN:428:Community Nutrition",
+        "value": "12428"
+    },
+    {
+        "name": "FSHN:440:Applied Statistical Methods 1",
+        "value": "7199"
+    },
+    {
+        "name": "FSHN:471:Food & Industrial Microbiology",
+        "value": "12498"
+    },
+    {
+        "name": "GEOG:100:Introduction to Meteorology",
+        "value": "10244"
+    },
+    {
+        "name": "GEOG:103:Earth's Physical Systems",
+        "value": "10469"
+    },
+    {
+        "name": "GEOG:106:Geographies of Globalization",
+        "value": "4108"
+    },
+    {
+        "name": "GEOG:204:Cities of the World",
+        "value": "8337"
+    },
+    {
+        "name": "GEOG:379:Intro to GIS Systems",
+        "value": "5767"
+    },
+    {
+        "name": "GEOG:380:GIS II: Spatial Prob Solving",
+        "value": "12574"
+    },
+    {
+        "name": "GEOG:436:Biogeography",
+        "value": "9422"
+    },
+    {
+        "name": "GEOG:465:Transp and Sustainability",
+        "value": "7753"
+    },
+    {
+        "name": "GEOG:477:Introduction to Remote Sensing",
+        "value": "12905"
+    },
+    {
+        "name": "GEOG:482:Challenges of Sustainability",
+        "value": "12276"
+    },
+    {
+        "name": "GEOG:496:Climate & Social Vulnerability",
+        "value": "10680"
+    },
+    {
+        "name": "GEOL 593Y1:Paleolimnology",
+        "value": "12900"
+    },
+    {
+        "name": "GEOL:100:Planet Earth",
+        "value": "10736"
+    },
+    {
+        "name": "GEOL:103:Planet Earth QRII",
+        "value": "4222"
+    },
+    {
+        "name": "GEOL:106:Extinction: Dinosaurs to Dodos",
+        "value": "10683"
+    },
+    {
+        "name": "GEOL:107:Physical Geology",
+        "value": "2850"
+    },
+    {
+        "name": "GEOL:110:Exploring Geology in the Field",
+        "value": "7320"
+    },
+    {
+        "name": "GEOL:117:The Oceans",
+        "value": "869"
+    },
+    {
+        "name": "GEOL:118:Natural Disasters",
+        "value": "353"
+    },
+    {
+        "name": "GEOL:143:History of Life",
+        "value": "10746"
+    },
+    {
+        "name": "GEOL:208:History of the Earth System",
+        "value": "10473"
+    },
+    {
+        "name": "GEOL:333:Earth Materials and the Environment",
+        "value": "4624"
+    },
+    {
+        "name": "GEOL:380:Environmental Geology",
+        "value": "4627"
+    },
+    {
+        "name": "GEOL:401:Geomorphology",
+        "value": "10752"
+    },
+    {
+        "name": "GEOL:411:Structural Geology and Tectonics",
+        "value": "4104"
+    },
+    {
+        "name": "GEOL:415:Field Geology",
+        "value": "6699"
+    },
+    {
+        "name": "GEOL:432:Mineralogy and Mineral Optics",
+        "value": "2359"
+    },
+    {
+        "name": "GEOL:436:Petrology and Petrography",
+        "value": "10758"
+    },
+    {
+        "name": "GEOL:440:Sedimentology and Stratigraphy",
+        "value": "853"
+    },
+    {
+        "name": "GEOL:450:Probing the Earth's Interior",
+        "value": "10760"
+    },
+    {
+        "name": "GEOL:452:Introduction to Geophysics",
+        "value": "10763"
+    },
+    {
+        "name": "GEOL:460:Geochemistry",
+        "value": "4659"
+    },
+    {
+        "name": "GEOL:470:Introduction to Hydrogeology",
+        "value": "10766"
+    },
+    {
+        "name": "GEOL:483:Challenges of Sustainability",
+        "value": "10768"
+    },
+    {
+        "name": "GEOL:484:Paleoclimatology",
+        "value": "12675"
+    },
+    {
+        "name": "GEOL:497:Special Topics in Geology",
+        "value": "12026"
+    },
+    {
+        "name": "GEOL:497A2:Data Analysis for Geosciences",
+        "value": "12027"
+    },
+    {
+        "name": "GEOL:497C:Paleobiology",
+        "value": "12537"
+    },
+    {
+        "name": "GEOL:512:Geotectonics",
+        "value": "10770"
+    },
+    {
+        "name": "GEOL:515:Advanced Field Geology",
+        "value": "7682"
+    },
+    {
+        "name": "GEOL:552:Geodynamics",
+        "value": "10776"
+    },
+    {
+        "name": "GEOL:593:Advanced Studies in Geology",
+        "value": "10788"
+    },
+    {
+        "name": "GEOL:593C5:Geology of Illinois",
+        "value": "12442"
+    },
+    {
+        "name": "GEOL:593C6:Geology of Illinois",
+        "value": "12443"
+    },
+    {
+        "name": "GEOL:593C7:Geology of Illinois",
+        "value": "12444"
+    },
+    {
+        "name": "GEOL:593V1:Geochronology",
+        "value": "12560"
+    },
+    {
+        "name": "GER:250:Grimms' Fairy Tales - ACP",
+        "value": "12665"
+    },
+    {
+        "name": "GER:401:Global Issues in German",
+        "value": "9351"
+    },
+    {
+        "name": "GER:575:20th Century German Studies",
+        "value": "7070"
+    },
+    {
+        "name": "GLBL:118:Natural Disasters",
+        "value": "10531"
+    },
+    {
+        "name": "GLBL:240:Global Health",
+        "value": "12029"
+    },
+    {
+        "name": "GLBL:280:Nuclear Weapons & Arms Control",
+        "value": "9993"
+    },
+    {
+        "name": "GLBL:481:Writing on Technol & Security",
+        "value": "11494"
+    },
+    {
+        "name": "GLBL:499:Special Topics",
+        "value": "12835"
+    },
+    {
+        "name": "GRK:520:Proseminar",
+        "value": "3995"
+    },
+    {
+        "name": "GWS:100:Intro Gender & Women's Studies",
+        "value": "9342"
+    },
+    {
+        "name": "GWS:250:Gender and Representation",
+        "value": "4228"
+    },
+    {
+        "name": "GWS:263:US History of Medicine",
+        "value": "7641"
+    },
+    {
+        "name": "GWS:295:Beginning Topics GWS",
+        "value": "9129"
+    },
+    {
+        "name": "GWS:335:Film, TV, and Gender",
+        "value": "11627"
+    },
+    {
+        "name": "GWS:382:Black Women & Popular Culture",
+        "value": "10687"
+    },
+    {
+        "name": "HDFS:105:Intro to Human Development",
+        "value": "1155"
+    },
+    {
+        "name": "HDFS:143:Biology of Human Behavior",
+        "value": "9158"
+    },
+    {
+        "name": "HDFS:220:Families in Global Perspective",
+        "value": "1691"
+    },
+    {
+        "name": "HDFS:290:Intro to Research Methods",
+        "value": "5603"
+    },
+    {
+        "name": "HDFS:340:Gender, Relationships & Society",
+        "value": "3729"
+    },
+    {
+        "name": "HDFS:401:Socialization and Development",
+        "value": "3752"
+    },
+    {
+        "name": "HDFS:405:Adolescent Development",
+        "value": "7628"
+    },
+    {
+        "name": "HDFS:424:Racial and Ethnic Families",
+        "value": "344"
+    },
+    {
+        "name": "HIST:105:Latin America to Independence",
+        "value": "20"
+    },
+    {
+        "name": "HIST:170:US Hist to 1877-ACP",
+        "value": "4144"
+    },
+    {
+        "name": "HIST:171:US Hist to 1877",
+        "value": "4936"
+    },
+    {
+        "name": "HIST:200:Global Environmental History",
+        "value": "11612"
+    },
+    {
+        "name": "HIST:200:Hist of Univ.of Illinois Crime on Campus",
+        "value": "12902"
+    },
+    {
+        "name": "HIST:200:Hist of the Native People in Latin Ameri",
+        "value": "12903"
+    },
+    {
+        "name": "HIST:202:American Environmental History",
+        "value": "11151"
+    },
+    {
+        "name": "HIST:203B:US Riots, Revolutions, & Revolts",
+        "value": "12910"
+    },
+    {
+        "name": "HIST:263:US History of Medicine",
+        "value": "9232"
+    },
+    {
+        "name": "HIST:300:Topics in Film and History",
+        "value": "7025"
+    },
+    {
+        "name": "HIST:361:Euro Thght & Soc Since 1789",
+        "value": "2278"
+    },
+    {
+        "name": "HIST:370:US Colonial History",
+        "value": "3011"
+    },
+    {
+        "name": "HIST:400:War, Soc, Politics, & Culture",
+        "value": "11508"
+    },
+    {
+        "name": "HIST:438:Egypt Since World War I",
+        "value": "5116"
+    },
+    {
+        "name": "HIST:472:Immigrant America",
+        "value": "3572"
+    },
+    {
+        "name": "HIST:482:Slavery in the United States",
+        "value": "12157"
+    },
+    {
+        "name": "HIST:495:Honors Research & Writing Sem",
+        "value": "12008"
+    },
+    {
+        "name": "HIST:498:Research & Writing Seminar",
+        "value": "12843"
+    },
+    {
+        "name": "HIST:498D:Disabilities and the University of Illin",
+        "value": "12911"
+    },
+    {
+        "name": "HIST:502:Prob in Comparative History",
+        "value": "7287"
+    },
+    {
+        "name": "HIST:502 A:Religion & State in Central & South Asi",
+        "value": "12844"
+    },
+    {
+        "name": "HIST:507:Prob in Latin American Hist",
+        "value": "12672"
+    },
+    {
+        "name": "HIST:551:Prob European Hist Since 1789",
+        "value": "70"
+    },
+    {
+        "name": "HORT:107:Introduction to Floral Design",
+        "value": "6512"
+    },
+    {
+        "name": "HORT:246:Floral Design I",
+        "value": "6513"
+    },
+    {
+        "name": "HRD: 411:Training System Design",
+        "value": "12849"
+    },
+    {
+        "name": "HUM:387:French & Comparative Cinema I",
+        "value": "12872"
+    },
+    {
+        "name": "IB:100:Biological Sciences",
+        "value": "2736"
+    },
+    {
+        "name": "IB:106:Extinction: Dinosaurs to Dodos",
+        "value": "10682"
+    },
+    {
+        "name": "IB:303:Anatomy",
+        "value": "12896"
+    },
+    {
+        "name": "IB:439:Biogeography",
+        "value": "9987"
+    },
+    {
+        "name": "IB:452:Ecosystem Ecology",
+        "value": "12923"
+    },
+    {
+        "name": "IB:484:Paleoclimatology",
+        "value": "12676"
+    },
+    {
+        "name": "IE:300:Analysis of Data",
+        "value": "5598"
+    },
+    {
+        "name": "IE:310:Operations Research",
+        "value": "3648"
+    },
+    {
+        "name": "IE:311:Operations Research Lab",
+        "value": "11000"
+    },
+    {
+        "name": "IE:330:Industrial Quality Control",
+        "value": "4735"
+    },
+    {
+        "name": "IE:340:Human Factors",
+        "value": "301"
+    },
+    {
+        "name": "IE:360:Facilities Planning and Design",
+        "value": "1742"
+    },
+    {
+        "name": "IE:361:Production Plannig and Control",
+        "value": "9838"
+    },
+    {
+        "name": "IE:400:Design & Analysis of Experiments",
+        "value": "9839"
+    },
+    {
+        "name": "IE:410:Stochastic Processes and Applications",
+        "value": "7864"
+    },
+    {
+        "name": "IE:411:Optimization of Large Systems",
+        "value": "6107"
+    },
+    {
+        "name": "IE:412:OR Models for Manufacturing Systems",
+        "value": "6682"
+    },
+    {
+        "name": "IE:413:Simulation",
+        "value": "6108"
+    },
+    {
+        "name": "IE:420:Financial Engineering",
+        "value": "9840"
+    },
+    {
+        "name": "IE:430:Economic Foundations of Quality Systems",
+        "value": "2272"
+    },
+    {
+        "name": "IE:431:Design for Six Sigma",
+        "value": "9841"
+    },
+    {
+        "name": "IE:445:Human Performance and Cognition in Conte",
+        "value": "9181"
+    },
+    {
+        "name": "IE:498:Special Topics",
+        "value": "3749"
+    },
+    {
+        "name": "IE:498C:Computing for ISE",
+        "value": "12740"
+    },
+    {
+        "name": "IE:510:Applied Nonlinear Programming",
+        "value": "5298"
+    },
+    {
+        "name": "IE:511:Integer Programming",
+        "value": "4454"
+    },
+    {
+        "name": "IE:521:Convex Optimization",
+        "value": "11452"
+    },
+    {
+        "name": "IE:522:Statistical Methods in Finance",
+        "value": "9848"
+    },
+    {
+        "name": "IE:524:Optimization in Finance",
+        "value": "9850"
+    },
+    {
+        "name": "IE:525:Numerical Methods in Finance",
+        "value": "9851"
+    },
+    {
+        "name": "IE:598:Special Topics in Industrial Engineering",
+        "value": "7170"
+    },
+    {
+        "name": "IE:598JG:Games, Markets, and Mathematical Prog",
+        "value": "12866"
+    },
+    {
+        "name": "IE:598KC:Combinatorial Optimization",
+        "value": "12450"
+    },
+    {
+        "name": "IE:598SO:Inference in Graphical Models",
+        "value": "12273"
+    },
+    {
+        "name": "IE:598XC:Pricing and Revenue Management",
+        "value": "12174"
+    },
+    {
+        "name": "INFO:102:Little Bits to Big Ideas",
+        "value": "8172"
+    },
+    {
+        "name": "INFO:590:Advanced Special Topics",
+        "value": "12186"
+    },
+    {
+        "name": "INFO:590BW:High Perform Visualization Data Analytic",
+        "value": "12187"
+    },
+    {
+        "name": "IS: 503:Use and Users of Information",
+        "value": "12858"
+    },
+    {
+        "name": "IS:582:Preserving Info Resources",
+        "value": "12921"
+    },
+    {
+        "name": "IS:588:Research Design in Library and Informati",
+        "value": "12913"
+    },
+    {
+        "name": "JOUR:199:Undergraduate Open Seminar",
+        "value": "11041"
+    },
+    {
+        "name": "JOUR:200:Introduction to Journalism",
+        "value": "11371"
+    },
+    {
+        "name": "JOUR:210:Newsgathering Across Platforms",
+        "value": "11972"
+    },
+    {
+        "name": "JOUR:215:Multimedia Reporting",
+        "value": "12082"
+    },
+    {
+        "name": "JOUR:311:Media Law",
+        "value": "12106"
+    },
+    {
+        "name": "JOUR:315:Adv Public Affairs Reporting",
+        "value": "12342"
+    },
+    {
+        "name": "JOUR:320:News Editing",
+        "value": "12594"
+    },
+    {
+        "name": "JOUR:335:Audio Journalism",
+        "value": "12593"
+    },
+    {
+        "name": "JOUR:425:Multimedia Editing and Design",
+        "value": "11666"
+    },
+    {
+        "name": "JOUR:445:Video Storytelling 2 - Producing",
+        "value": "11849"
+    },
+    {
+        "name": "JOUR:471:Science Journalism",
+        "value": "12261"
+    },
+    {
+        "name": "JOUR:482:Immersion Journalism",
+        "value": "12154"
+    },
+    {
+        "name": "JOUR:483:Investigative Journalism",
+        "value": "12595"
+    },
+    {
+        "name": "JOUR:Benso:Independent Study",
+        "value": "11839"
+    },
+    {
+        "name": "KIN:122:Physical Activity and Health",
+        "value": "3924"
+    },
+    {
+        "name": "KIN:140:Social Sci of Human Movement",
+        "value": "3937"
+    },
+    {
+        "name": "KIN:142:Contemporary Issues in Sport",
+        "value": "4291"
+    },
+    {
+        "name": "KIN:257:Coordination, Control & Skill",
+        "value": "3968"
+    },
+    {
+        "name": "KIN:259:Motor Development and Control",
+        "value": "12862"
+    },
+    {
+        "name": "KIN:262:Motor Development, Growth & Form",
+        "value": "3970"
+    },
+    {
+        "name": "KIN:340:Phychology of Exercise",
+        "value": "11085"
+    },
+    {
+        "name": "KIN:355:Biomechanics of Human Movement",
+        "value": "3967"
+    },
+    {
+        "name": "LAT:520:Proseminar",
+        "value": "2259"
+    },
+    {
+        "name": "LAW:301:Introduction to Law",
+        "value": "10558"
+    },
+    {
+        "name": "LING:100:Intro to Language Science",
+        "value": "5421"
+    },
+    {
+        "name": "LING:302:Elements of Phonology",
+        "value": "7116"
+    },
+    {
+        "name": "LING:401:Intro to General Phonetics",
+        "value": "7431"
+    },
+    {
+        "name": "LIS:504:Reference and Info Services",
+        "value": "153"
+    },
+    {
+        "name": "LLS:220:Latin Am & Latino Migration",
+        "value": "4749"
+    },
+    {
+        "name": "LLS:296:Race and the Politics of Reproduction",
+        "value": "12886"
+    },
+    {
+        "name": "LLS:390:Independent Study",
+        "value": "11594"
+    },
+    {
+        "name": "MACS:100:Intro to Popular TV & Movies",
+        "value": "10691"
+    },
+    {
+        "name": "MACS:203:Contemporary Movies",
+        "value": "12314"
+    },
+    {
+        "name": "MACS:205:Introduction to Documentary",
+        "value": "12667"
+    },
+    {
+        "name": "MACS:227:Studies in Black Television",
+        "value": "12853"
+    },
+    {
+        "name": "MACS:261:Survey of World Cinema I",
+        "value": "10638"
+    },
+    {
+        "name": "MACS:264:Creative and Information Economies",
+        "value": "12349"
+    },
+    {
+        "name": "MACS:300:Topics in Film and History",
+        "value": "12678"
+    },
+    {
+        "name": "MACS:320:Popular Culture",
+        "value": "10608"
+    },
+    {
+        "name": "MACS:322:Politics and the Media",
+        "value": "10651"
+    },
+    {
+        "name": "MACS:335:Film, TV, and Gender",
+        "value": "11628"
+    },
+    {
+        "name": "MACS:351:Social Aspects of Media",
+        "value": "11165"
+    },
+    {
+        "name": "MACS:361:Film Theory and Criticism",
+        "value": "10666"
+    },
+    {
+        "name": "MACS:373:Special Topics in Film Studies",
+        "value": "12839"
+    },
+    {
+        "name": "MACS:382:French & Comparative Cinema I",
+        "value": "12871"
+    },
+    {
+        "name": "MACS:Hay:Independent Study",
+        "value": "12855"
+    },
+    {
+        "name": "MATH:101:Thinking Mathematically",
+        "value": "12922"
+    },
+    {
+        "name": "MATH:103:Theory of Arithmetic",
+        "value": "2380"
+    },
+    {
+        "name": "MATH:115:Preparation for Calculus",
+        "value": "6836"
+    },
+    {
+        "name": "MATH:124:Finite Mathematics",
+        "value": "2379"
+    },
+    {
+        "name": "MATH:125:Elementary Linear Algebra",
+        "value": "444"
+    },
+    {
+        "name": "MATH:181:A Mathematical World",
+        "value": "441"
+    },
+    {
+        "name": "MATH:210:Theory of Interest",
+        "value": "2382"
+    },
+    {
+        "name": "MATH:213:Basic Discrete Mathematics",
+        "value": "451"
+    },
+    {
+        "name": "MATH:220:Calculus",
+        "value": "442"
+    },
+    {
+        "name": "MATH:220XL:Calculus",
+        "value": "5287"
+    },
+    {
+        "name": "MATH:221:Calculus I",
+        "value": "6479"
+    },
+    {
+        "name": "MATH:225:Introductory Matrix Theory",
+        "value": "452"
+    },
+    {
+        "name": "MATH:231:Calculus II",
+        "value": "445"
+    },
+    {
+        "name": "MATH:241:Calculus III",
+        "value": "6485"
+    },
+    {
+        "name": "MATH:285:Intro Differential Equations",
+        "value": "7665"
+    },
+    {
+        "name": "MATH:286:Intro to Differential Eq Plus",
+        "value": "2959"
+    },
+    {
+        "name": "MATH:347:Fundamental Mathematics",
+        "value": "2389"
+    },
+    {
+        "name": "MATH:347B1:Fundamental Mathematics",
+        "value": "7364"
+    },
+    {
+        "name": "MATH:347C2:Fundamental Mathematics",
+        "value": "12908"
+    },
+    {
+        "name": "MATH:357:Numerical Methods I",
+        "value": "10021"
+    },
+    {
+        "name": "MATH:362:Probability with Engineering Application",
+        "value": "10268"
+    },
+    {
+        "name": "MATH:402:Non Euclidean Geometry",
+        "value": "2401"
+    },
+    {
+        "name": "MATH:403:Euclidean Geometry",
+        "value": "2402"
+    },
+    {
+        "name": "MATH:409:Actuarial Statistics II",
+        "value": "2408"
+    },
+    {
+        "name": "MATH:410:Lin Algebra & Financial Apps",
+        "value": "1628"
+    },
+    {
+        "name": "MATH:412:Graph Theory",
+        "value": "2410"
+    },
+    {
+        "name": "MATH:413:Intro to Combinatorics",
+        "value": "491"
+    },
+    {
+        "name": "MATH:415:Applied Linear Algebra",
+        "value": "494"
+    },
+    {
+        "name": "MATH:416:Abstract Linear Algebra",
+        "value": "2489"
+    },
+    {
+        "name": "MATH:417:Intro to Abstract Algebra",
+        "value": "496"
+    },
+    {
+        "name": "MATH:423:Differential Geometry",
+        "value": "2423"
+    },
+    {
+        "name": "MATH:424:Honors Real Analysis",
+        "value": "2494"
+    },
+    {
+        "name": "MATH:427:Honors Abstract Algebra",
+        "value": "2390"
+    },
+    {
+        "name": "MATH:439:Philosophy of Mathematics",
+        "value": "12354"
+    },
+    {
+        "name": "MATH:441:Differential Equations",
+        "value": "2425"
+    },
+    {
+        "name": "MATH:442:Intro Partial Diff Equations",
+        "value": "2426"
+    },
+    {
+        "name": "MATH:444:Elementary Real Analysis",
+        "value": "506"
+    },
+    {
+        "name": "MATH:446:Applied Complex Variables",
+        "value": "507"
+    },
+    {
+        "name": "MATH:447:Real Variables",
+        "value": "2430"
+    },
+    {
+        "name": "MATH:448:Complex Variables",
+        "value": "2592"
+    },
+    {
+        "name": "MATH:450:Numerical Analysis",
+        "value": "7981"
+    },
+    {
+        "name": "MATH:453:Elementary Theory of Numbers",
+        "value": "2432"
+    },
+    {
+        "name": "MATH:461:Probability Theory I",
+        "value": "2434"
+    },
+    {
+        "name": "MATH:463:Statistics and Probability I",
+        "value": "542"
+    },
+    {
+        "name": "MATH:464:Statistics and Probability II",
+        "value": "2675"
+    },
+    {
+        "name": "MATH:469:Methods of Applied Statistics",
+        "value": "2444"
+    },
+    {
+        "name": "MATH:471:Actuarial Theory I",
+        "value": "2595"
+    },
+    {
+        "name": "MATH:476:Actuarial Risk Theory",
+        "value": "2756"
+    },
+    {
+        "name": "MATH:482:Linear Programming",
+        "value": "2450"
+    },
+    {
+        "name": "MATH:484:Nonlinear Programming",
+        "value": "548"
+    },
+    {
+        "name": "MATH:487:Advanced Engineering Math",
+        "value": "8427"
+    },
+    {
+        "name": "MATH:489:Differential Equations II",
+        "value": "2677"
+    },
+    {
+        "name": "MATH:510:Riemann Surf & Algebraic Curv",
+        "value": "4000"
+    },
+    {
+        "name": "MATH:526:Algebraic Topology",
+        "value": "3022"
+    },
+    {
+        "name": "MATH:531:Analytic Theory of Numbers I",
+        "value": "686"
+    },
+    {
+        "name": "MATH:542:Complex Variables I",
+        "value": "564"
+    },
+    {
+        "name": "MATH:547:Banach Spaces",
+        "value": "12506"
+    },
+    {
+        "name": "MATH:550:Ordinary Diff Equations",
+        "value": "567"
+    },
+    {
+        "name": "MATH:553:Partial Differential Equations",
+        "value": "1736"
+    },
+    {
+        "name": "MATH:554:Linear Anal & Part Diff Eq",
+        "value": "2512"
+    },
+    {
+        "name": "MATH:559:Asymptotic Methods",
+        "value": "9119"
+    },
+    {
+        "name": "MATH:562:Theory of Probability II",
+        "value": "2513"
+    },
+    {
+        "name": "MATH:563:Risk Modeling and Analysis",
+        "value": "12859"
+    },
+    {
+        "name": "MATH:564:Applied Stochastic Processes",
+        "value": "2514"
+    },
+    {
+        "name": "MATH:580:Combinatorial Mathematics",
+        "value": "2518"
+    },
+    {
+        "name": "MATH:585:Probabilistic Combinatorics",
+        "value": "10726"
+    },
+    {
+        "name": "MATH:595AI:Advanced Topics in Math",
+        "value": "6871"
+    },
+    {
+        "name": "MATH:595HA:Advanced Topics in Math",
+        "value": "4088"
+    },
+    {
+        "name": "MCB:100:Introductory Microbiology",
+        "value": "6310"
+    },
+    {
+        "name": "MCB:101:Intro Microbiology Laboratory",
+        "value": "6161"
+    },
+    {
+        "name": "MCB:150:Molecular and Cellular Basis of Life",
+        "value": "2710"
+    },
+    {
+        "name": "MCB:151:Molecular & Cellular Laboratory",
+        "value": "2561"
+    },
+    {
+        "name": "MCB:244:Human Anatomy and Physiology I",
+        "value": "10624"
+    },
+    {
+        "name": "MCB:245:Human Anat & Physiol Lab I",
+        "value": "10627"
+    },
+    {
+        "name": "MCB:246:Human Anatomy & Physiology II",
+        "value": "11001"
+    },
+    {
+        "name": "MCB:247:Human Anat & Physiol Lab II",
+        "value": "11002"
+    },
+    {
+        "name": "MCB:250:Molecular Genetics",
+        "value": "2563"
+    },
+    {
+        "name": "MCB:252:Cells, Tissues, and Development",
+        "value": "6397"
+    },
+    {
+        "name": "MCB:253:Exp Techniques in Cell Biology",
+        "value": "6884"
+    },
+    {
+        "name": "MCB:317:Genetics and Genomics",
+        "value": "11005"
+    },
+    {
+        "name": "MCB:320:Mechanisms of Human Disease",
+        "value": "12476"
+    },
+    {
+        "name": "MCB:354:Biochemical & Physical Basis of Life",
+        "value": "2496"
+    },
+    {
+        "name": "MCB:434:Food & Industrial Microbiology",
+        "value": "11010"
+    },
+    {
+        "name": "MCB:450:Introductory Biochemistry",
+        "value": "4741"
+    },
+    {
+        "name": "MCB:550:Biomolecular Physics",
+        "value": "10015"
+    },
+    {
+        "name": "MDIA:575:Cult Studies and Crit Interp",
+        "value": "11372"
+    },
+    {
+        "name": "ME:170:Computer-Aided Design",
+        "value": "7516"
+    },
+    {
+        "name": "ME:300:Thermodynamics",
+        "value": "1432"
+    },
+    {
+        "name": "ME:310:Fundamentals of Fluid Dynamics",
+        "value": "3711"
+    },
+    {
+        "name": "ME:320:Heat Transfer",
+        "value": "2469"
+    },
+    {
+        "name": "ME:330:Engineering Materials",
+        "value": "366"
+    },
+    {
+        "name": "ME:340:Dynamics of Mechanical Systems",
+        "value": "358"
+    },
+    {
+        "name": "ME:350:Design for Manufacturability",
+        "value": "3716"
+    },
+    {
+        "name": "ME:360:Signal Processing",
+        "value": "1460"
+    },
+    {
+        "name": "ME:370:Mechanical Design I",
+        "value": "2584"
+    },
+    {
+        "name": "ME:371:Mechanical Design II",
+        "value": "2150"
+    },
+    {
+        "name": "ME:400:Energy Conversion Systems",
+        "value": "6688"
+    },
+    {
+        "name": "ME:401:Refrigeration and Cryogenics",
+        "value": "9857"
+    },
+    {
+        "name": "ME:402:Design of Thermal Systems",
+        "value": "9858"
+    },
+    {
+        "name": "ME:403:Internal Combustion Engines",
+        "value": "4799"
+    },
+    {
+        "name": "ME:404:Intermediate Thermodynamics",
+        "value": "362"
+    },
+    {
+        "name": "ME:410:Intermediate Gas Dynamics",
+        "value": "10515"
+    },
+    {
+        "name": "ME:411:Viscous Flow & Heat Transfer",
+        "value": "3721"
+    },
+    {
+        "name": "ME:412:Numerical Thermo-Fluid Mechanics",
+        "value": "9859"
+    },
+    {
+        "name": "ME:420:Intermediate Heat Transfer",
+        "value": "5644"
+    },
+    {
+        "name": "ME:430:Failure of Engineering Materials",
+        "value": "2218"
+    },
+    {
+        "name": "ME:431:Mechanical Component Failure",
+        "value": "9860"
+    },
+    {
+        "name": "ME:440:Kinematics & Dynamics of Mechanical Sys.",
+        "value": "3722"
+    },
+    {
+        "name": "ME:445:Introduction to Robotics",
+        "value": "9861"
+    },
+    {
+        "name": "ME:446:Robot Dynamics and Control",
+        "value": "12739"
+    },
+    {
+        "name": "ME:450:Modeling Materials Processing",
+        "value": "3723"
+    },
+    {
+        "name": "ME:470:Senior Design Project",
+        "value": "9865"
+    },
+    {
+        "name": "ME:471:Finite Element Analysis",
+        "value": "3725"
+    },
+    {
+        "name": "ME:472:Introduction to Tribology",
+        "value": "5645"
+    },
+    {
+        "name": "ME:481:Whole-Body Musculoskel Biomech",
+        "value": "10914"
+    },
+    {
+        "name": "ME:483:Mechanobiology",
+        "value": "9866"
+    },
+    {
+        "name": "ME:485:MEMS Devices and Systems",
+        "value": "9867"
+    },
+    {
+        "name": "ME:487:MEMS-NEMS Theory and Fabrication",
+        "value": "9868"
+    },
+    {
+        "name": "ME:498:Special Topics in Mechanical Engineering",
+        "value": "3748"
+    },
+    {
+        "name": "ME:498BNM:App in Cancer and MechanoBio",
+        "value": "10863"
+    },
+    {
+        "name": "ME:498EE:Fundamentals of Modern Photovoltaics",
+        "value": "10865"
+    },
+    {
+        "name": "ME:498PM4:Photonic MEMS",
+        "value": "11308"
+    },
+    {
+        "name": "ME:501:Combustion Fundamentals",
+        "value": "7568"
+    },
+    {
+        "name": "ME:502:Thermal Systems",
+        "value": "5647"
+    },
+    {
+        "name": "ME:503:Design of IC Engines",
+        "value": "7505"
+    },
+    {
+        "name": "ME:504:Multiphase Systems and Processes",
+        "value": "9869"
+    },
+    {
+        "name": "ME:510:Advanced Gas Dynamics",
+        "value": "3747"
+    },
+    {
+        "name": "ME:520:Heat Conduction",
+        "value": "8162"
+    },
+    {
+        "name": "ME:521:Convective Heat Transfer",
+        "value": "9872"
+    },
+    {
+        "name": "ME:522:Thermal Radiation",
+        "value": "9044"
+    },
+    {
+        "name": "ME:530:Fatigue Analysis",
+        "value": "9873"
+    },
+    {
+        "name": "ME:532:Fracture Resistant Design",
+        "value": "9875"
+    },
+    {
+        "name": "ME:540:Control System Theory and Design",
+        "value": "9877"
+    },
+    {
+        "name": "ME:546:Analysis of Nonlinear Systems",
+        "value": "9878"
+    },
+    {
+        "name": "ME:550:Solidification Processing",
+        "value": "9879"
+    },
+    {
+        "name": "ME:554:Computational Process Modeling",
+        "value": "9881"
+    },
+    {
+        "name": "ME:562:Robust Adaptive Control",
+        "value": "11487"
+    },
+    {
+        "name": "ME:598:Special Topics",
+        "value": "7443"
+    },
+    {
+        "name": "ME:598NM:Neuromechanics",
+        "value": "12337"
+    },
+    {
+        "name": "MSE:101:Materials in Today's World",
+        "value": "9060"
+    },
+    {
+        "name": "MSE:182:Introduction to MatSE",
+        "value": "9065"
+    },
+    {
+        "name": "MSE:201:Phases and Phase Relations",
+        "value": "5135"
+    },
+    {
+        "name": "MSE:206:Mechanics for MatSE",
+        "value": "4455"
+    },
+    {
+        "name": "MSE:280:Engineering Materials",
+        "value": "304"
+    },
+    {
+        "name": "MSE:304:Electronic Properties of Materials",
+        "value": "4457"
+    },
+    {
+        "name": "MSE:307:Materials Laboratory I",
+        "value": "7508"
+    },
+    {
+        "name": "MSE:396:Introduction to Research",
+        "value": "12089"
+    },
+    {
+        "name": "MSE:401:Thermodynamics of Materials",
+        "value": "677"
+    },
+    {
+        "name": "MSE:402:Kinetic Processes in Materials",
+        "value": "4456"
+    },
+    {
+        "name": "MSE:403:Synthesis of Materials",
+        "value": "1271"
+    },
+    {
+        "name": "MSE:404:Laboratory Studies in Materials Science",
+        "value": "12742"
+    },
+    {
+        "name": "MSE:405:Microstructure Determination",
+        "value": "327"
+    },
+    {
+        "name": "MSE:406:Thermal -Mechanical Behavior Materials",
+        "value": "5017"
+    },
+    {
+        "name": "MSE:420:Ceramic Materials & Properties",
+        "value": "8456"
+    },
+    {
+        "name": "MSE:421:Ceramic Processing",
+        "value": "563"
+    },
+    {
+        "name": "MSE:422:Electrical Ceramics",
+        "value": "8203"
+    },
+    {
+        "name": "MSE:440:Mechanical Behavior of Metals",
+        "value": "9888"
+    },
+    {
+        "name": "MSE:441:Metals Processing",
+        "value": "367"
+    },
+    {
+        "name": "MSE:443:Design of Engineering Alloys",
+        "value": "4461"
+    },
+    {
+        "name": "MSE:445:Corrosion of Metals",
+        "value": "4615"
+    },
+    {
+        "name": "MSE:450:Polymer Science and Engineering",
+        "value": "335"
+    },
+    {
+        "name": "MSE:455:Macromolecular Solids",
+        "value": "8820"
+    },
+    {
+        "name": "MSE:456:Mechanics of Composites",
+        "value": "7375"
+    },
+    {
+        "name": "MSE:457:Polymer Chemistry",
+        "value": "4782"
+    },
+    {
+        "name": "MSE:458:Polymer Physics",
+        "value": "4459"
+    },
+    {
+        "name": "MSE:460:Electronic Materials I",
+        "value": "4458"
+    },
+    {
+        "name": "MSE:461:Electronic Materials II",
+        "value": "3735"
+    },
+    {
+        "name": "MSE:466:Materials in Electrochemical Systems",
+        "value": "12744"
+    },
+    {
+        "name": "MSE:470:Design & Use of Biomaterials",
+        "value": "3730"
+    },
+    {
+        "name": "MSE:472:Biomaterials Laboratory",
+        "value": "5070"
+    },
+    {
+        "name": "MSE:473:Biomolecular Materials Science",
+        "value": "9894"
+    },
+    {
+        "name": "MSE:480:Surfaces and Colloids",
+        "value": "2817"
+    },
+    {
+        "name": "MSE:481:Electron Microscopy",
+        "value": "357"
+    },
+    {
+        "name": "MSE:485:Atomic Scale Simulations",
+        "value": "5648"
+    },
+    {
+        "name": "MSE:487:Materials for Nanotechnology",
+        "value": "9896"
+    },
+    {
+        "name": "MSE:500:Statistical Thermodynamics of Materials",
+        "value": "1149"
+    },
+    {
+        "name": "MSE:581:Advanced Electron Microscopy",
+        "value": "9903"
+    },
+    {
+        "name": "MSE:583:Dynamics of Complex Fluids",
+        "value": "7679"
+    },
+    {
+        "name": "MUS-DMAQUA:DMA Qualifying Exam 1",
+        "value": "11941"
+    },
+    {
+        "name": "MUS:103:Rudiments of theory I",
+        "value": "4894"
+    },
+    {
+        "name": "MUS:106:Beginning Composition",
+        "value": "389"
+    },
+    {
+        "name": "MUS:107:Aural Skills I",
+        "value": "7494"
+    },
+    {
+        "name": "MUS:110:Introd art mus: intl perspect",
+        "value": "7436"
+    },
+    {
+        "name": "MUS:146:Supp WW Inst: Flute",
+        "value": "3662"
+    },
+    {
+        "name": "MUS:187:Undergraduate Level Harp",
+        "value": "12880"
+    },
+    {
+        "name": "MUS:206:Intermediate Composition",
+        "value": "380"
+    },
+    {
+        "name": "MUS:261:University chorus",
+        "value": "524"
+    },
+    {
+        "name": "MUS:313:History of Music I",
+        "value": "4366"
+    },
+    {
+        "name": "MUS:345:Music methods in early childhood",
+        "value": "969"
+    },
+    {
+        "name": "MUS:346:Teaching of choral music",
+        "value": "523"
+    },
+    {
+        "name": "MUS:404:Contempory Compositional Techniques",
+        "value": "417"
+    },
+    {
+        "name": "MUS:406:Advanced Composition",
+        "value": "4534"
+    },
+    {
+        "name": "MUS:408:Analysis of Musical Form",
+        "value": "385"
+    },
+    {
+        "name": "MUS:418:Regional Studies in Musicology",
+        "value": "11741"
+    },
+    {
+        "name": "MUS:430:Applied Music Pedagogy",
+        "value": "409"
+    },
+    {
+        "name": "MUS:451:Basso Continuo",
+        "value": "9000"
+    },
+    {
+        "name": "MUS:501:Grad Music History Review",
+        "value": "11715"
+    },
+    {
+        "name": "MUS:502:Graduate Theory Review",
+        "value": "11866"
+    },
+    {
+        "name": "MUS:506:Graduate Level Composition",
+        "value": "4536"
+    },
+    {
+        "name": "MUS:523:Seminar in Musicology",
+        "value": "699"
+    },
+    {
+        "name": "MUS:524:Seminar in works of select composers",
+        "value": "4304"
+    },
+    {
+        "name": "MUS:527:Classical performance practice",
+        "value": "6030"
+    },
+    {
+        "name": "MUS:528A:Research and Bibliography in Music",
+        "value": "12882"
+    },
+    {
+        "name": "MUS:532:Global Perspectives on Mus Ed",
+        "value": "12308"
+    },
+    {
+        "name": "MUS:557:Piano Literature",
+        "value": "4764"
+    },
+    {
+        "name": "MUS:562:Percussion Instruments Literature",
+        "value": "2575"
+    },
+    {
+        "name": "MUS:570:Prac Piano Teaching - Child & Teens",
+        "value": "5335"
+    },
+    {
+        "name": "MUS:587:Graduate Level Harp",
+        "value": "12881"
+    },
+    {
+        "name": "NPRE:101:Introduction to Energy Sources",
+        "value": "4378"
+    },
+    {
+        "name": "NPRE:241:Introduction to Radiation Protection",
+        "value": "6021"
+    },
+    {
+        "name": "NPRE:247:Modeling Nuclear Energy System",
+        "value": "8641"
+    },
+    {
+        "name": "NPRE:398:Special Topics",
+        "value": "12567"
+    },
+    {
+        "name": "NPRE:398PL:Introduction to Plasmas",
+        "value": "12937"
+    },
+    {
+        "name": "NPRE:402:Nuclear Power Engineering",
+        "value": "3703"
+    },
+    {
+        "name": "NPRE:412:Nuclear Power Economics & Fuel Mgmt",
+        "value": "9909"
+    },
+    {
+        "name": "NPRE:421:Plasma and Fusion Science",
+        "value": "8555"
+    },
+    {
+        "name": "NPRE:423:Plasma Laboratory",
+        "value": "7922"
+    },
+    {
+        "name": "NPRE:429:Plasma Engineering",
+        "value": "4218"
+    },
+    {
+        "name": "NPRE:431:Materials in Nuclear Engineering",
+        "value": "2507"
+    },
+    {
+        "name": "NPRE:435:Imaging with Ionizing Radiation",
+        "value": "7923"
+    },
+    {
+        "name": "NPRE:441:Radiation Protection",
+        "value": "8376"
+    },
+    {
+        "name": "NPRE:446:Radiation Interaction with Matter I",
+        "value": "5126"
+    },
+    {
+        "name": "NPRE:447:Radiation Interaction with Matter II",
+        "value": "5655"
+    },
+    {
+        "name": "NPRE:448:Nuclear Systems Engineering and Design",
+        "value": "2132"
+    },
+    {
+        "name": "NPRE:451:Nuclear Plasma & Radiation Eng. Lab",
+        "value": "6045"
+    },
+    {
+        "name": "NPRE:455:Neutron Diffusion & Transport",
+        "value": "7760"
+    },
+    {
+        "name": "NPRE:470:Fuel Cells & Hydrogen Sources",
+        "value": "9382"
+    },
+    {
+        "name": "NPRE:481:Writing on Technology and Security",
+        "value": "8565"
+    },
+    {
+        "name": "NPRE:498:Special Topics in NPRE",
+        "value": "4768"
+    },
+    {
+        "name": "NPRE:498HD:Fusion Device Operations",
+        "value": "12619"
+    },
+    {
+        "name": "NPRE:498NM:Numericl Method-Plasma Physics",
+        "value": "12620"
+    },
+    {
+        "name": "NPRE:498PR:Probabilistic Risk Assessment",
+        "value": "12141"
+    },
+    {
+        "name": "NPRE:498TE:Thorium Energy",
+        "value": "12204"
+    },
+    {
+        "name": "NPRE:501:Fundamentals of Nuclear Engineering",
+        "value": "1235"
+    },
+    {
+        "name": "NPRE:521:Interact of Radiation w Matter",
+        "value": "5658"
+    },
+    {
+        "name": "NPRE:522:Controlled Fusion Systems",
+        "value": "7926"
+    },
+    {
+        "name": "NPRE:529:Interaction of Radiation w/Matter II",
+        "value": "11995"
+    },
+    {
+        "name": "NPRE:555:Reactor Theory I",
+        "value": "8895"
+    },
+    {
+        "name": "NPRE:598:Special Topics",
+        "value": "12000"
+    },
+    {
+        "name": "NPRE:598NL:Solution of System of Non-Linear Equatio",
+        "value": "12139"
+    },
+    {
+        "name": "NPRE:598PR:Probabilistic Risk Analysis",
+        "value": "11996"
+    },
+    {
+        "name": "NPRE:598PW:Plasma Waves & Heating Technology",
+        "value": "12001"
+    },
+    {
+        "name": "NRES:102:Introduction to NRES",
+        "value": "7462"
+    },
+    {
+        "name": "NRES:201:Introductory Soils",
+        "value": "5426"
+    },
+    {
+        "name": "NRES:220:Communicating Agriculture",
+        "value": "12635"
+    },
+    {
+        "name": "NRES:310:Natural Resource Economics",
+        "value": "2458"
+    },
+    {
+        "name": "NRES:409:Fisheries Ecology and Conservation",
+        "value": "12834"
+    },
+    {
+        "name": "NRES:440:Applied Statistical Methods 1",
+        "value": "7198"
+    },
+    {
+        "name": "NRES:454:GIS in Natural Resource Mgmt",
+        "value": "2928"
+    },
+    {
+        "name": "NRES:474:Soil and Water Conservation",
+        "value": "3200"
+    },
+    {
+        "name": "NRES:477:Introduction to Remote Sensing",
+        "value": "12906"
+    },
+    {
+        "name": "NRES:592:Sustainable Urban Systems",
+        "value": "12577"
+    },
+    {
+        "name": "NUTR 427:Biochemical Nutrition II",
+        "value": "12546"
+    },
+    {
+        "name": "NUTR:426:Biochemical Nutrition I",
+        "value": "10264"
+    },
+    {
+        "name": "PHIL:101:Introduction to Philosophy",
+        "value": "1169"
+    },
+    {
+        "name": "PHIL:102:Logic and Reasoning",
+        "value": "2832"
+    },
+    {
+        "name": "PHIL:107:Intro to Political Philosophy",
+        "value": "5665"
+    },
+    {
+        "name": "PHIL:110:World Religions",
+        "value": "5371"
+    },
+    {
+        "name": "PHIL:316:Ethics and Engineering",
+        "value": "6697"
+    },
+    {
+        "name": "PHIL:419:Space, Time and Matter",
+        "value": "4893"
+    },
+    {
+        "name": "PHIL:420:Space, Time, and Matter",
+        "value": "9121"
+    },
+    {
+        "name": "PHIL:439:Philosophy of Mathematics",
+        "value": "5673"
+    },
+    {
+        "name": "PHYS:101:College Physics: Mechanics and Heat",
+        "value": "456"
+    },
+    {
+        "name": "PHYS:102:College Physics: Elec. & Mag. & Modern",
+        "value": "2971"
+    },
+    {
+        "name": "PHYS:140:How Things Work",
+        "value": "1092"
+    },
+    {
+        "name": "PHYS:150:Physics of Societal Issues",
+        "value": "1006"
+    },
+    {
+        "name": "PHYS:211:University Physics: Mechanics",
+        "value": "822"
+    },
+    {
+        "name": "PHYS:212:University Physics: Elec. & Magnetism",
+        "value": "690"
+    },
+    {
+        "name": "PHYS:213:University Physics: Thermal Physics",
+        "value": "684"
+    },
+    {
+        "name": "PHYS:214:University Physics: Quantum Physics",
+        "value": "685"
+    },
+    {
+        "name": "PHYS:225:Relativity & Math Applications",
+        "value": "9444"
+    },
+    {
+        "name": "PHYS:280:Nuclear Weapons & Arms Control",
+        "value": "4670"
+    },
+    {
+        "name": "PHYS:325:Classical Mechanics I",
+        "value": "1389"
+    },
+    {
+        "name": "PHYS:326:Classical Mechanics II",
+        "value": "1502"
+    },
+    {
+        "name": "PHYS:329:Atmospheric Dynamics I",
+        "value": "9932"
+    },
+    {
+        "name": "PHYS:402:Light",
+        "value": "2679"
+    },
+    {
+        "name": "PHYS:404:Electronic Circuits",
+        "value": "3103"
+    },
+    {
+        "name": "PHYS:406:Acoustical Physics of Music",
+        "value": "11017"
+    },
+    {
+        "name": "PHYS:419:Space,Time, and Matter-ACP",
+        "value": "465"
+    },
+    {
+        "name": "PHYS:420:Space, Time, and Matter",
+        "value": "9041"
+    },
+    {
+        "name": "PHYS:427:Thermal & Statistical Physics",
+        "value": "6390"
+    },
+    {
+        "name": "PHYS:435:Electromagnetic Fields I",
+        "value": "4033"
+    },
+    {
+        "name": "PHYS:436:Electromagnetic Fields II",
+        "value": "467"
+    },
+    {
+        "name": "PHYS:460:Condensed Matter Physics",
+        "value": "4047"
+    },
+    {
+        "name": "PHYS:466:Atomic-Scale Simulation",
+        "value": "4121"
+    },
+    {
+        "name": "PHYS:470:Subatomic Physics",
+        "value": "703"
+    },
+    {
+        "name": "PHYS:475:Biological Physics",
+        "value": "11490"
+    },
+    {
+        "name": "PHYS:485:Atomic Physics & Quantum Theory",
+        "value": "6389"
+    },
+    {
+        "name": "PHYS:486:Quantum Physics I",
+        "value": "8123"
+    },
+    {
+        "name": "PHYS:487:Quantum Physics II",
+        "value": "3625"
+    },
+    {
+        "name": "PHYS:496:Introduction to Physics Research",
+        "value": "6012"
+    },
+    {
+        "name": "PHYS:499:Senior Thesis",
+        "value": "10828"
+    },
+    {
+        "name": "PHYS:505:Classical Electromagnetism",
+        "value": "1798"
+    },
+    {
+        "name": "PHYS:508:Mathematical Physics I",
+        "value": "8963"
+    },
+    {
+        "name": "PHYS:509:Mathematical Physics II",
+        "value": "8440"
+    },
+    {
+        "name": "PHYS:513:Quantum Optics & Information",
+        "value": "9042"
+    },
+    {
+        "name": "PHYS:514:Modern Atomic Physics",
+        "value": "9938"
+    },
+    {
+        "name": "PHYS:515:General Relativity I",
+        "value": "2395"
+    },
+    {
+        "name": "PHYS:516:General Relativity II",
+        "value": "6018"
+    },
+    {
+        "name": "PHYS:540:Astrophysics",
+        "value": "9061"
+    },
+    {
+        "name": "PHYS:541:Physics of Compact Objects",
+        "value": "6827"
+    },
+    {
+        "name": "PHYS:550:Biomolecular Physics",
+        "value": "1284"
+    },
+    {
+        "name": "PHYS:560:Condensed Matter Physics I",
+        "value": "4466"
+    },
+    {
+        "name": "PHYS:561:Condensed Matter Physics II",
+        "value": "663"
+    },
+    {
+        "name": "PHYS:563:Phase Transitions",
+        "value": "9430"
+    },
+    {
+        "name": "PHYS:565:Theory of Semiconductors & Devices",
+        "value": "9120"
+    },
+    {
+        "name": "PHYS:570:Subatomic Physics",
+        "value": "5067"
+    },
+    {
+        "name": "PHYS:575:Particle Physics I",
+        "value": "6020"
+    },
+    {
+        "name": "PHYS:580:Quantum Mechanics I",
+        "value": "9062"
+    },
+    {
+        "name": "PHYS:582:General Field Theory",
+        "value": "1287"
+    },
+    {
+        "name": "PHYS:583:Advanced Field Theory",
+        "value": "3224"
+    },
+    {
+        "name": "PHYS:598:Special Topic in Physics",
+        "value": "3743"
+    },
+    {
+        "name": "PHYS:598AQ:Special Topics - Atomic Structure, etc.",
+        "value": "12860"
+    },
+    {
+        "name": "PHYS:598CP:Topics in Comput'l. Phys. & Astronomy",
+        "value": "6388"
+    },
+    {
+        "name": "PHYS:598MN:Mesoscopics and Nanoscience",
+        "value": "9133"
+    },
+    {
+        "name": "PHYS:598NE:Topics in Neutrino Physics",
+        "value": "12065"
+    },
+    {
+        "name": "PHYS:598PT:Physics in Two Dimensions",
+        "value": "11710"
+    },
+    {
+        "name": "PORT:320:Readings in Portuguese",
+        "value": "12098"
+    },
+    {
+        "name": "PORT:404:Brazil in Hemispheric Context",
+        "value": "12869"
+    },
+    {
+        "name": "PS:225:Environmental Politics & Policy",
+        "value": "10107"
+    },
+    {
+        "name": "PS:300:International Relations of East Asia",
+        "value": "12874"
+    },
+    {
+        "name": "PS:312:Politics and the Media",
+        "value": "211"
+    },
+    {
+        "name": "PS:329:Immigration & Citizenship",
+        "value": "11521"
+    },
+    {
+        "name": "PS:348:Gov and Pol in Western Europe",
+        "value": "8241"
+    },
+    {
+        "name": "PSEP 001:Pesticide Safety Program",
+        "value": "12809"
+    },
+    {
+        "name": "PSYC:100:Intro Psych",
+        "value": "3585"
+    },
+    {
+        "name": "PSYC:103:Intro Experimental Psych",
+        "value": "9030"
+    },
+    {
+        "name": "PSYC:201:Intro. to Social Psychology",
+        "value": "960"
+    },
+    {
+        "name": "PSYC:216:Child Psychology",
+        "value": "1072"
+    },
+    {
+        "name": "PSYC:230:Perception and Sensory Processes",
+        "value": "1377"
+    },
+    {
+        "name": "PSYC:248:Psychology of Learning and Memory",
+        "value": "2615"
+    },
+    {
+        "name": "PSYC:324:Developmental Psychopathology",
+        "value": "8331"
+    },
+    {
+        "name": "PSYC:333:Soc Psych in Nat Settings",
+        "value": "5189"
+    },
+    {
+        "name": "PSYC:358:Human Factors",
+        "value": "6802"
+    },
+    {
+        "name": "PSYC:363:Dev Psych Lab",
+        "value": "5386"
+    },
+    {
+        "name": "PSYC:416:African American Psychology",
+        "value": "6195"
+    },
+    {
+        "name": "PSYC:456:Human Performance and Cognition in Conte",
+        "value": "5122"
+    },
+    {
+        "name": "PSYC:587:Hierarchical Linear Models",
+        "value": "12649"
+    },
+    {
+        "name": "PSYC:588:Covar Struct and Factor Models",
+        "value": "12890"
+    },
+    {
+        "name": "REES:200:Intro to Russia and Eurasia",
+        "value": "9190"
+    },
+    {
+        "name": "REL:110:World Religions",
+        "value": "12842"
+    },
+    {
+        "name": "REL:214:Introduction to Islam",
+        "value": "12840"
+    },
+    {
+        "name": "REL:494:Topics in Religious Thought",
+        "value": "12848"
+    },
+    {
+        "name": "RHET:105:Writing and Research",
+        "value": "23"
+    },
+    {
+        "name": "RST:100:Society and Leisure",
+        "value": "4929"
+    },
+    {
+        "name": "RST:325:Leisure Services Marketing",
+        "value": "12877"
+    },
+    {
+        "name": "RST:440:HR Management in RST",
+        "value": "12925"
+    },
+    {
+        "name": "RST:480:Orientation to Practicum",
+        "value": "5056"
+    },
+    {
+        "name": "RUSS:219:Russian Cinema Survey",
+        "value": "7707"
+    },
+    {
+        "name": "SAME:214:Introduction to Islam",
+        "value": "12343"
+    },
+    {
+        "name": "SCAN:103:Intermediate Scandinavian I",
+        "value": "4186"
+    },
+    {
+        "name": "SCAN:104:Intermediate Scandinavian",
+        "value": "7754"
+    },
+    {
+        "name": "SE:101:Engineering Graphics and Design",
+        "value": "2139"
+    },
+    {
+        "name": "SE:310:Design of Structures and Mechanisms",
+        "value": "2623"
+    },
+    {
+        "name": "SE:311:Engineering Design Analysis",
+        "value": "5165"
+    },
+    {
+        "name": "SE:312:Instrumentation and Test Laboratory",
+        "value": "1206"
+    },
+    {
+        "name": "SE:320:Control Systems",
+        "value": "5924"
+    },
+    {
+        "name": "SE:361:Emotional Intelligence Skills",
+        "value": "5917"
+    },
+    {
+        "name": "SE:400:Engineering Law",
+        "value": "9816"
+    },
+    {
+        "name": "SE:410:Component Design",
+        "value": "311"
+    },
+    {
+        "name": "SE:411:Reliability Engineering",
+        "value": "328"
+    },
+    {
+        "name": "SE:412:Nondestructive Evaluation",
+        "value": "12424"
+    },
+    {
+        "name": "SE:413:Engineering Design Optimization",
+        "value": "5777"
+    },
+    {
+        "name": "SE:420:Digital Control Systems",
+        "value": "7426"
+    },
+    {
+        "name": "SE:422:Robot Dynamics and Control",
+        "value": "12737"
+    },
+    {
+        "name": "SE:450:Decision Analysis I",
+        "value": "9822"
+    },
+    {
+        "name": "SE:462:Leading Sustainable Change",
+        "value": "9824"
+    },
+    {
+        "name": "SE:520:Analysis of Nonlinear Systems",
+        "value": "9827"
+    },
+    {
+        "name": "SE:530:Multiattribute Decision Making",
+        "value": "8190"
+    },
+    {
+        "name": "SE:598:Special Topics",
+        "value": "11070"
+    },
+    {
+        "name": "SE:598GK:Classification: Lumped/Distributed Compl",
+        "value": "12436"
+    },
+    {
+        "name": "SE:598JA:Dynamic Sys Modeling and Dsgn",
+        "value": "11071"
+    },
+    {
+        "name": "SHS:170:Hum Comm: Sys, Proc & Dis",
+        "value": "3867"
+    },
+    {
+        "name": "SHS:191:Freshmen Seminar",
+        "value": "12417"
+    },
+    {
+        "name": "SHS:431:Language Disorders in Preschool Children",
+        "value": "8926"
+    },
+    {
+        "name": "SHS:532:Lang Disorders Schl-Age Child",
+        "value": "4519"
+    },
+    {
+        "name": "SOC:100:Introduction to Sociology",
+        "value": "1152"
+    },
+    {
+        "name": "SOC:163:Social Problems",
+        "value": "12907"
+    },
+    {
+        "name": "SOC:199:Undergraduate Open Seminar",
+        "value": "11544"
+    },
+    {
+        "name": "SOC:200:Intro to Sociological Theory",
+        "value": "12821"
+    },
+    {
+        "name": "SOC:221:Mexican & Latin Am Migration",
+        "value": "8154"
+    },
+    {
+        "name": "SOC:350:Technology and Society",
+        "value": "2664"
+    },
+    {
+        "name": "SOC:351:Social Aspects of Media",
+        "value": "6188"
+    },
+    {
+        "name": "SOC:380:Social Research Methods",
+        "value": "1023"
+    },
+    {
+        "name": "SOC:396:Power and Empowerment",
+        "value": "1043"
+    },
+    {
+        "name": "SOC:420:Sociology of Education",
+        "value": "4240"
+    },
+    {
+        "name": "SOC:421:Racial and Ethnic Families",
+        "value": "10943"
+    },
+    {
+        "name": "SOC:450:Senior Capstone Seminar",
+        "value": "12852"
+    },
+    {
+        "name": "SOC:451:Climate & Social Vulnerability",
+        "value": "10714"
+    },
+    {
+        "name": "SOC:472:Urban Communities & Public Pol",
+        "value": "12004"
+    },
+    {
+        "name": "SOC:588:Covar Struct and Factor Models",
+        "value": "12891"
+    },
+    {
+        "name": "SOC:596:Organization and Inequality",
+        "value": "12901"
+    },
+    {
+        "name": "SOCW:200:Introduction to Social Work",
+        "value": "4083"
+    },
+    {
+        "name": "SOCW:225:Intro Stat for Social Work",
+        "value": "12894"
+    },
+    {
+        "name": "SOCW:300:Diversity:Identities and Issues",
+        "value": "9362"
+    },
+    {
+        "name": "SOCW:403:Practice III",
+        "value": "12213"
+    },
+    {
+        "name": "SOCW:427:Social Work Research Methods",
+        "value": "10106"
+    },
+    {
+        "name": "SOCW:451:HBSE I: Human Development",
+        "value": "5021"
+    },
+    {
+        "name": "SOCW:509:Advanced Clinical Assessment and Intervi",
+        "value": "2074"
+    },
+    {
+        "name": "SPAN:252:Intro to Hispanic Linguistics",
+        "value": "9414"
+    },
+    {
+        "name": "SPAN:305:Structure of Spanish",
+        "value": "11284"
+    },
+    {
+        "name": "SPAN:326:Cultural Studies Americas II",
+        "value": "8677"
+    },
+    {
+        "name": "SPAN:535:Sem Spanish-American Lit",
+        "value": "12480"
+    },
+    {
+        "name": "STAT:385:Statistics Programming Methods",
+        "value": "12604"
+    },
+    {
+        "name": "STAT:400:Statistics and Probability I",
+        "value": "602"
+    },
+    {
+        "name": "STAT:409:Actuarial Statistics II",
+        "value": "2409"
+    },
+    {
+        "name": "STAT:410:Statistics and Probability II",
+        "value": "2674"
+    },
+    {
+        "name": "STAT:420:Methods of Applied Statistics",
+        "value": "2445"
+    },
+    {
+        "name": "STAT:425:Applied Regression and Design",
+        "value": "2716"
+    },
+    {
+        "name": "STAT:428:Statistical Computing",
+        "value": "3006"
+    },
+    {
+        "name": "STAT:429:Time Series Analysis",
+        "value": "2669"
+    },
+    {
+        "name": "STAT:4302G:Topics in Applied Statistics",
+        "value": "12646"
+    },
+    {
+        "name": "STAT:440:Statistical Data Management",
+        "value": "7363"
+    },
+    {
+        "name": "STAT:443:Professional Statistics",
+        "value": "12360"
+    },
+    {
+        "name": "STAT:448:Advanced Data Analysis",
+        "value": "7662"
+    },
+    {
+        "name": "STAT:510:Mathematical Statistics I",
+        "value": "2717"
+    },
+    {
+        "name": "STAT:525:Computational Statistics",
+        "value": "2718"
+    },
+    {
+        "name": "STAT:542:Statistical Learning",
+        "value": "7300"
+    },
+    {
+        "name": "STAT:552:Theory of Probability II",
+        "value": "12358"
+    },
+    {
+        "name": "STAT:553:Probability and Measure I",
+        "value": "4111"
+    },
+    {
+        "name": "STAT:555:Applied Stochastic Processes",
+        "value": "12359"
+    },
+    {
+        "name": "STAT:558:Risk Modeling and Analysis",
+        "value": "12888"
+    },
+    {
+        "name": "STAT:578:Topics In Statistics",
+        "value": "3262"
+    },
+    {
+        "name": "STAT:587:Hierarchical Linear Models",
+        "value": "12648"
+    },
+    {
+        "name": "STAT:588:Covar Struct and Factor Models",
+        "value": "11930"
+    },
+    {
+        "name": "TAM:195:Mechanics in the Modern World",
+        "value": "9940"
+    },
+    {
+        "name": "TAM:210:Introduction to Statics",
+        "value": "1433"
+    },
+    {
+        "name": "TAM:211:Statics",
+        "value": "1434"
+    },
+    {
+        "name": "TAM:212:Introductory Dynamics",
+        "value": "4669"
+    },
+    {
+        "name": "TAM:251:Introductory Solid Mechanics",
+        "value": "1234"
+    },
+    {
+        "name": "TAM:324:Behavior of Materials",
+        "value": "587"
+    },
+    {
+        "name": "TAM:335:Introductory Fluid Mechanics",
+        "value": "1503"
+    },
+    {
+        "name": "TAM:412:Intermediate Dynamics",
+        "value": "1744"
+    },
+    {
+        "name": "TAM:413:Fundamentals of Engineering Acoustics",
+        "value": "1195"
+    },
+    {
+        "name": "TAM:416:Intro to Nonlinear Dyn & Vib",
+        "value": "11807"
+    },
+    {
+        "name": "TAM:424:Mechanics of Structural Metals",
+        "value": "9944"
+    },
+    {
+        "name": "TAM:428:Mechanics of Composites",
+        "value": "3731"
+    },
+    {
+        "name": "TAM:435:Intermediate Fluid Mechanics",
+        "value": "359"
+    },
+    {
+        "name": "TAM:445:Continuum Mechanics",
+        "value": "9946"
+    },
+    {
+        "name": "TAM:456:Experimental Stress Analysis",
+        "value": "9217"
+    },
+    {
+        "name": "TAM:461:Cellular Biomechanics",
+        "value": "9947"
+    },
+    {
+        "name": "TAM:470:Computational Mechanics",
+        "value": "3355"
+    },
+    {
+        "name": "TAM:518:Wave Motion",
+        "value": "9949"
+    },
+    {
+        "name": "TAM:524:Micromechanics of Materials",
+        "value": "9950"
+    },
+    {
+        "name": "TAM:531:Inviscid Flow",
+        "value": "2210"
+    },
+    {
+        "name": "TAM:532:Viscous Flow",
+        "value": "2872"
+    },
+    {
+        "name": "TAM:536:Instability and Transition",
+        "value": "7758"
+    },
+    {
+        "name": "TAM:537:Experimental Fluid Mechanics",
+        "value": "1196"
+    },
+    {
+        "name": "TAM:538:Turbulence",
+        "value": "841"
+    },
+    {
+        "name": "TAM:541:Mathematical Methods I",
+        "value": "2920"
+    },
+    {
+        "name": "TAM:542:Mathematical Methods II",
+        "value": "4480"
+    },
+    {
+        "name": "TAM:549:Asymptotic Methods",
+        "value": "8083"
+    },
+    {
+        "name": "TAM:551:Solid Mechanics I",
+        "value": "3675"
+    },
+    {
+        "name": "TAM:552:Solid Mechanics II",
+        "value": "4484"
+    },
+    {
+        "name": "TAM:554:Plasticity",
+        "value": "5227"
+    },
+    {
+        "name": "TAM:555:Fracture Mechanics",
+        "value": "3676"
+    },
+    {
+        "name": "TAM:598:Advanced Special Topics",
+        "value": "11254"
+    },
+    {
+        "name": "TAM:598RE:Non-Newt Fl. Mech. & Rheology",
+        "value": "11253"
+    },
+    {
+        "name": "TAM:598SH:Soft Solids",
+        "value": "11255"
+    },
+    {
+        "name": "TE:466:High-Tech Venture Marketing",
+        "value": "10923"
+    },
+    {
+        "name": "UP:481:Urban Communities & Public Pol",
+        "value": "12005"
+    },
+    {
+        "name": "UP:501:Planning History & Theory",
+        "value": "11398"
+    },
+    {
+        "name": "UP:576:Sustainable Urban Systems",
+        "value": "12578"
+    },
+    {
+        "name": "non-circ:MRI",
+        "value": "8739"
+    }
+]
